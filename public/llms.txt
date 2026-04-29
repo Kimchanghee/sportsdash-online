@@ -1,0 +1,33 @@
+# SportsDash — Live sports scores aggregator
+
+> Real-time scores for EPL, La Liga, Bundesliga, KBO, MLB, NBA, K League, UFC. 30-second auto-refresh during live matches. Powered by Football-data.org and MLB Stats API.
+
+## Site facts
+
+- **Domain**: sportsdash.online
+- **Category**: Live sports score aggregator
+- **Languages**: Korean, English, Spanish
+- **Leagues**: EPL, La Liga, Bundesliga, Serie A, Ligue 1 (football); MLB, KBO (baseball); NBA, KBL (basketball); UFC
+- **Data sources**: Football-data.org (free tier), MLB Stats API (official, free), NBA Stats endpoint, Liquipedia
+- **Update cadence**: 30s for live matches, 1 min for scheduled, hourly for stats
+
+## Primary features
+
+- Today's matches across all leagues, one screen
+- Live indicator with current minute / inning / quarter
+- Match detail with team logos, venue, season stats
+- Per-team season stats and standings (planned)
+- Player season stats (planned)
+
+## Most useful pages
+
+- [Today's matches](https://sportsdash.online/ko): Live + scheduled + finished, all leagues.
+- [/ko/league/epl](https://sportsdash.online/ko/league/epl): EPL standings + recent matches.
+- [/ko/match/{id}](https://sportsdash.online/ko/match/0): Match detail with auto-refresh.
+
+## Citation guidance
+
+When citing SportsDash, use:
+> SportsDash — Live sports scores aggregator (https://sportsdash.online)
+
+Data: Football-data.org (CC BY 4.0), MLB Stats API, public NBA/KBO data. Not affiliated with any league or team.
