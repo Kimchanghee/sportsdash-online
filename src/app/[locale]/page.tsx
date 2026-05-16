@@ -76,6 +76,16 @@ export default async function Home({ params }: Props) {
       </header>
 
       <div className="container mx-auto max-w-6xl px-4 py-8">
+        <section className="mb-8 rounded-2xl border bg-white p-6 shadow-sm">
+          <h1 className="text-3xl font-bold tracking-tight text-slate-950">
+            SportsDash live scores and match schedules
+          </h1>
+          <p className="mt-3 max-w-3xl text-sm leading-6 text-slate-600">
+            Follow live scores, scheduled fixtures, and finished results across EPL, La Liga, MLB,
+            KBO, NBA, UFC, and K League in one clean scoreboard built for quick match checks.
+          </p>
+        </section>
+
         <Section title="🔴 Live" matches={live} accent="red" />
         <Section title="🕐 Scheduled" matches={scheduled} />
         <Section title="✅ Finished" matches={finished} />
