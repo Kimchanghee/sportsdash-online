@@ -1,7 +1,7 @@
 import type { MetadataRoute } from 'next';
 
 const SITE = 'https://sportsdash.online';
-const LOCALES = ['ko', 'en', 'es'];
+const LOCALES = ['ko', 'en', 'es', 'ja'];
 const LEAGUES = ['epl', 'laliga', 'kbo', 'mlb', 'nba', 'kleague', 'ufc'];
 
 export default function sitemap(): MetadataRoute.Sitemap {

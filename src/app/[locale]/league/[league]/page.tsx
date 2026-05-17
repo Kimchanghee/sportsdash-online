@@ -9,7 +9,7 @@ interface Props {
 
 export const revalidate = 60;
 
-const SUPPORTED_LOCALES = ['ko', 'en'] as const;
+const SUPPORTED_LOCALES = ['ko', 'en', 'es', 'ja'] as const;
 
 const LEAGUES: Record<string, { label: string; region: string; notes: string[] }> = {
   epl: {
