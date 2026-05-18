@@ -1,5 +1,6 @@
 import { setRequestLocale } from 'next-intl/server';
 import { getAllTodayMatches, type MatchScore } from '@/lib/sports';
+import SafeInlineAdsterra from '@/components/SafeInlineAdsterra';
 
 interface Props {
   params: Promise<{ locale: string }>;
@@ -109,6 +110,7 @@ export default async function Home({ params }: Props) {
           </div>
         </section>
       </div>
+          <SafeInlineAdsterra placement="homepage-inline" />
     </main>
   );
 }
