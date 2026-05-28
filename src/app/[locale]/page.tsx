@@ -1,6 +1,6 @@
 import { setRequestLocale } from 'next-intl/server';
 import { getAllTodayMatches, type MatchScore } from '@/lib/sports';
-import SafeInlineAdsterra from '@/components/SafeInlineAdsterra';
+import SafeInlineSponsored from '@/components/SafeInlineSponsored';
 
 interface Props {
   params: Promise<{ locale: string }>;
@@ -231,7 +231,7 @@ export default async function Home({ params }: Props) {
         </section>
       </div>
 
-      <SafeInlineAdsterra placement="homepage-inline" />
+      <SafeInlineSponsored placement="homepage-inline" />
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
