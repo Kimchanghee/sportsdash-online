@@ -1,4 +1,5 @@
 import { setRequestLocale } from 'next-intl/server';
+import type { Metadata } from 'next';
 import { getAllTodayMatches, type MatchScore } from '@/lib/sports';
 import SafeInlineSponsored from '@/components/SafeInlineSponsored';
 
@@ -7,6 +8,14 @@ interface Props {
 }
 
 export const revalidate = 60; // 1분 ISR
+
+export async function generateMetadata({ params }: Props): Promise<Metadata> {
+  const { locale } = await params;
+  return {
+    alternates: { canonical: `/${locale}/` },
+    openGraph: { url: `https://sportsdash.online/${locale}/` },
+  };
+}
 
 function buildAmazonUrl(keyword: string) {
   const url = new URL('https://www.amazon.com/s');

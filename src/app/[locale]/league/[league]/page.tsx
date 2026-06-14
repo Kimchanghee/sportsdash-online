@@ -1,6 +1,7 @@
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import { setRequestLocale } from 'next-intl/server';
+import type { Metadata } from 'next';
 import { getAllTodayMatches, type MatchScore } from '@/lib/sports';
 
 interface Props {
@@ -81,6 +82,24 @@ export function generateStaticParams() {
   return SUPPORTED_LOCALES.flatMap((locale) =>
     Object.keys(LEAGUES).map((league) => ({ locale, league }))
   );
+}
+
+export async function generateMetadata({ params }: Props): Promise<Metadata> {
+  const { locale, league } = await params;
+  const info = LEAGUES[league];
+  if (!SUPPORTED_LOCALES.includes(locale as any) || !info) return {};
+  const title = `${info.label} live scores and schedule | SportsDash`;
+  const description = `Follow ${info.label} fixtures, live match state, and schedule context in one indexed league hub.`;
+  return {
+    title,
+    description,
+    alternates: { canonical: `/${locale}/league/${league}/` },
+    openGraph: {
+      title,
+      description,
+      url: `https://sportsdash.online/${locale}/league/${league}/`,
+    },
+  };
 }
 
 export default async function LeaguePage({ params }: Props) {

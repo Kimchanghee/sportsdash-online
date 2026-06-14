@@ -27,7 +27,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   return {
     title: `${match.homeTeam.name} vs ${match.awayTeam.name} — Live Score`,
     description: `${LEAGUE_FULL[match.league]} 라이브 스코어, ${match.homeTeam.name} vs ${match.awayTeam.name}`,
-    alternates: { canonical: `/${locale}/match/${id}` },
+    alternates: { canonical: `/${locale}/match/${id}/` },
   };
 }
 
