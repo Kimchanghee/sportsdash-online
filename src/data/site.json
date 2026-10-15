@@ -1,0 +1,21 @@
+{
+  "domain": "sportsdash.online",
+  "url": "https://sportsdash.online",
+  "name": "스포츠대시",
+  "nameEn": "SportsDash",
+  "lang": "ko",
+  "locale": "ko_KR",
+  "tagline": "운동 장비를 사기 전에 확인하는 트레이닝 일지",
+  "description": "홈트·러닝·캠핑·아웃도어 장비를 사기 전에 무엇을 확인해야 하는지 체크리스트로 정리하는 한국어 구매 가이드입니다. 사양은 제조사·공식 자료로만 적고, 제휴 링크는 글 맨 위에 밝힙니다.",
+  "contactEmail": "contact@sportsdash.online",
+  "adsenseClient": "ca-pub-4490818204529253",
+  "indexNowKey": "6f1d3c9a8b2e4f7a9c0d5e1b3a7f2c84",
+  "postBase": "picks",
+  "guideBase": "guides",
+  "categories": [
+    { "slug": "home-training", "name": "홈트레이닝", "code": "HT", "blurb": "덤벨, 매트, 폼롤러처럼 거실에서 쓰는 운동 도구를 공간·소음·보관 기준으로 고릅니다." },
+    { "slug": "running", "name": "러닝", "code": "RN", "blurb": "러닝화, 야간 안전 장비, 기록 장비를 거리·노면·시간대 기준으로 고릅니다." },
+    { "slug": "camping", "name": "캠핑", "code": "CP", "blurb": "텐트, 침낭, 랜턴을 인원·계절·안전 기준으로 고릅니다." },
+    { "slug": "outdoor", "name": "아웃도어", "code": "OD", "blurb": "등산 배낭과 신발처럼 산행에 쓰는 장비를 거리·하중·지형 기준으로 고릅니다." }
+  ]
+}
