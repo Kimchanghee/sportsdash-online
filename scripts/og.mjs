@@ -50,7 +50,8 @@ async function render(rel, spec) {
   const file = join(out, rel);
   mkdirSync(dirname(file), { recursive: true });
   const s = svg(spec);
-  const stamp = file + '.src';
+  const stamp = join(root, 'node_modules/.cache/og', rel + '.src');
+  mkdirSync(dirname(stamp), { recursive: true });
   if (existsSync(file) && existsSync(stamp) && readFileSync(stamp, 'utf8') === s) return false;
   await sharp(Buffer.from(s)).png({ compressionLevel: 9 }).toFile(file);
   writeFileSync(stamp, s);
