@@ -1,0 +1,20 @@
+{
+  "observedAt": "2026-10-16T14:31:28.429Z",
+  "gate": {
+    "pass": 33,
+    "total": 33,
+    "scope": "fresh direct-node Astro build"
+  },
+  "tests": {
+    "pass": 9,
+    "total": 9
+  },
+  "freshBuild": "passed: 24 pages, ASTRO_TELEMETRY_DISABLED=1 direct node astro.js build --force",
+  "check": "rerun pending after provider index type fix; runtime restart interrupted previous attempt",
+  "browser": "6 Edge viewports/routes passed; zero overflow and CLS, focus outline and persistence passed",
+  "dryRun": "blocked: isolated fixture source gate passed; runtime restart interrupted build before preview/receipt",
+  "ads": "default off; exact PUBLIC_ADS_ENABLED=true opt-in; meta and ads.txt retained",
+  "publication": false,
+  "deployment": false,
+  "indexNowPing": false
+}

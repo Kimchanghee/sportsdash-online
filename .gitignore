@@ -9,3 +9,6 @@ qa/*.png
 
 ops/publish-log.dryrun.jsonl
 qa/*.log
+
+ops/publish-pending-*.json
+.qa-dryrun/

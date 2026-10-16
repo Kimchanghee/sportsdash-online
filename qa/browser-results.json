@@ -1,0 +1,76 @@
+[
+  {
+    "route": "/",
+    "width": 390,
+    "status": 200,
+    "overflow": false,
+    "cls": 0,
+    "h1": "운동 장비, 사기 전에 이 항목부터 체크하세요",
+    "focus": {
+      "tag": "A",
+      "outline": "solid"
+    }
+  },
+  {
+    "route": "/guides/home-dumbbell-buying-checklist/",
+    "width": 390,
+    "status": 200,
+    "overflow": false,
+    "cls": 0,
+    "h1": "홈트 덤벨, 고정식과 조절식 중 무엇을 살까?",
+    "persisted": true,
+    "focus": {
+      "tag": "A",
+      "outline": "solid"
+    }
+  },
+  {
+    "route": "/category/running/",
+    "width": 390,
+    "status": 200,
+    "overflow": false,
+    "cls": 0,
+    "h1": "러닝 장비, 무엇부터 확인할까?",
+    "focus": {
+      "tag": "A",
+      "outline": "solid"
+    }
+  },
+  {
+    "route": "/",
+    "width": 1440,
+    "status": 200,
+    "overflow": false,
+    "cls": 0,
+    "h1": "운동 장비, 사기 전에 이 항목부터 체크하세요",
+    "focus": {
+      "tag": "A",
+      "outline": "solid"
+    }
+  },
+  {
+    "route": "/guides/home-dumbbell-buying-checklist/",
+    "width": 1440,
+    "status": 200,
+    "overflow": false,
+    "cls": 0,
+    "h1": "홈트 덤벨, 고정식과 조절식 중 무엇을 살까?",
+    "persisted": true,
+    "focus": {
+      "tag": "A",
+      "outline": "solid"
+    }
+  },
+  {
+    "route": "/category/running/",
+    "width": 1440,
+    "status": 200,
+    "overflow": false,
+    "cls": 0,
+    "h1": "러닝 장비, 무엇부터 확인할까?",
+    "focus": {
+      "tag": "A",
+      "outline": "solid"
+    }
+  }
+]

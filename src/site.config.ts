@@ -10,6 +10,7 @@ export const site = {
   ga4Id: (env.PUBLIC_GA4_ID as string | undefined) ?? '',
   gscVerification: (env.PUBLIC_GSC_VERIFICATION as string | undefined) ?? '',
   naverVerification: (env.PUBLIC_NAVER_VERIFICATION as string | undefined) ?? '',
+  adsEnabled: env.PUBLIC_ADS_ENABLED === 'true',
   adsenseClient: 'ca-pub-4490818204529253',
   /** Site-level affiliate home links (e.g. a provider storefront). Empty until the owner configures them. */
   affiliate: {
@@ -26,7 +27,7 @@ export const site = {
 };
 
 export function providerInfo(id: ProviderId) {
-  return (providers as Record<string, { name: string; hosts: string[]; disclosure: string }>)[id];
+  return providers[id];
 }
 
 export function categoryBySlug(slug: string) {
