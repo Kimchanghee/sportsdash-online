@@ -27,5 +27,5 @@ Build order: sportsdash first, then reuse pipeline for whereonott, mangadrop.
 - Fresh direct-node Astro build passed: 24 pages; fresh gate 33/33; tests 9/9. Logs: qa/build.log, qa/gate.log, qa/tests.log (local ignored logs).
 - Edge preview and browser QA owned by one process: six mobile/desktop views passed, no overflow or CLS, focus outline visible and checklist persisted. qa/browser-results.json and local qa/screens/.
 - Ads default false; only PUBLIC_ADS_ENABLED=true enables script. Verification meta and ads.txt preserved. Privacy no longer claims a functioning CMP; current analytics activation and local storage behavior described.
-- Existing provider type error fixed by indexing typed provider keys. Final check rerun pending.
+- Existing provider type error fixed by indexing typed provider keys. Final direct-node Astro check passed: 39 files, 0 errors, 0 warnings, 2 hints.
 - Positive isolated fixture dry-run remains BLOCKED: source gate passed but runtime restart interrupted build before receipt. Stage cleaned; no fixture entered production source/dist. No deploy, ping or account actions.

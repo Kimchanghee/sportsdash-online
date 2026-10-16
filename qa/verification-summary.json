@@ -10,7 +10,7 @@
     "total": 9
   },
   "freshBuild": "passed: 24 pages, ASTRO_TELEMETRY_DISABLED=1 direct node astro.js build --force",
-  "check": "rerun pending after provider index type fix; runtime restart interrupted previous attempt",
+  "check": "passed: 39 files, 0 errors, 0 warnings, 2 hints",
   "browser": "6 Edge viewports/routes passed; zero overflow and CLS, focus outline and persistence passed",
   "dryRun": "blocked: isolated fixture source gate passed; runtime restart interrupted build before preview/receipt",
   "ads": "default off; exact PUBLIC_ADS_ENABLED=true opt-in; meta and ads.txt retained",
