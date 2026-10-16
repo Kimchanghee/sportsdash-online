@@ -1,4 +1,4 @@
-﻿<#
+<#
   publish.ps1 -Slug <slug> [-DryRun]
   gate -> build -> wrangler deploy -> live verify (200 + title + disclosure + exact product href)
   -> IndexNow ping -> append ops/publish-log.jsonl. Exits non-zero on any failure.
@@ -49,9 +49,11 @@ $buildSha = (git rev-parse --short HEAD).Trim()
 # 3. deploy (skipped in DryRun) and choose verification origin
 $preview = $null
 if ($DryRun) {
-  $port = if ($cfg.previewPort) { $cfg.previewPort } else { 4321 }
-  $preview = Start-Process -FilePath 'pnpm' -ArgumentList @('exec', 'astro', 'preview', '--port', "$port") -PassThru -WindowStyle Hidden
-  $origin = "http://localhost:$port"
+  $port = if ($cfg.previewPort) { $cfg.previewPort } else { 4411 }
+  if (Get-NetTCPConnection -LocalPort $port -State Listen -ErrorAction SilentlyContinue) { Fail "preview port $port is already in use; stop that server or change ops/publish.config.json previewPort" }
+  $nodeExe = (& node -p "process.execPath").Trim()
+  $preview = Start-Process -FilePath $nodeExe -ArgumentList @('node_modules/astro/astro.js', 'preview', '--port', "$port", '--host', '127.0.0.1') -WorkingDirectory $root -PassThru -WindowStyle Hidden
+  $origin = "http://127.0.0.1:$port"
   Start-Sleep -Seconds 4
 } else {
   npx wrangler deploy

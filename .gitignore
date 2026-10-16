@@ -8,3 +8,4 @@ qa/screens/
 qa/*.png
 
 ops/publish-log.dryrun.jsonl
+qa/*.log

@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "astro dev",
     "og": "node scripts/og.mjs",
-    "build": "node scripts/og.mjs && astro build",
+    "build": "node scripts/og.mjs && astro build --force",
     "preview": "astro preview --port 4321",
     "check": "astro check",
     "gate": "node scripts/gate.mjs",
