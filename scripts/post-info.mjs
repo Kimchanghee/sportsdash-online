@@ -16,5 +16,5 @@ console.log(JSON.stringify({
   slug: fm.slug, title: fm.title, published: fm.published,
   productUrl: p.url ?? '', provider: p.provider ?? '',
   disclosure: fm.disclosure || providers[p.provider]?.disclosure || '',
-  siteUrl: String(site.url).replace(/\/$/, ''), path: `/picks/${fm.slug}/`,
+  siteUrl: String(site.url).replace(/\/$/, ''), path: `/${site.postBase ?? 'picks'}/${fm.slug}/`,
 }));

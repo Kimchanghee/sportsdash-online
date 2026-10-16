@@ -160,7 +160,7 @@ export function gateSource(file, { kind, logEntries = [], now = new Date(), know
     for (const row of logEntries) {
       const t = new Date(row.publishedAt).getTime();
       if (row.slug === fm.slug) e(`slug already in publish log (${row.publishedAt}); never re-publish a duplicate`);
-      else if (row.productUrl === p.url && t >= windowStart) e(`same product URL published ${row.publishedAt} as ${row.slug} (within ${RULES.duplicateWindowDays} days)`);
+      else if ((row['product.url'] ?? row.productUrl) === p.url && t >= windowStart) e(`same product URL published ${row.publishedAt} as ${row.slug} (within ${RULES.duplicateWindowDays} days)`);
     }
   }
   return { file: relative(root, file), kind, slug: fm.slug, errors, warnings, bodyChars: len, questionH2: qHeads.length };
