@@ -67,6 +67,20 @@ $site = $fm.siteUrl
 
 # 2. build + full built-page gate for this slug
 $env:ASTRO_TELEMETRY_DISABLED = '1'
+# Production builds use the same public build env as the parent deploy helper (GA4 + optional per-site verification).
+$parentRoot = Split-Path -Parent $root
+$domain = ([Uri]$site).Host
+$gaId = $null
+if (-not $staged -and -not $DryRun) {
+  $gaFile = Join-Path $parentRoot '_refs\ga4-ids.json'
+  if (-not (Test-Path $gaFile)) { Fail 'GA4 id file missing' }
+  $gaId = ((Get-Content $gaFile -Raw | ConvertFrom-Json).($domain.Split('.')[0])).id
+  if (-not $gaId) { Fail "no GA4 id for $domain" }
+  $env:PUBLIC_GA4_ID = $gaId
+  $naverFile = Join-Path $parentRoot '_refs\naver-verification\tokens.json'
+  if (Test-Path $naverFile) { $nv = (Get-Content $naverFile -Raw | ConvertFrom-Json).tokens.$domain; if ($nv) { $env:PUBLIC_NAVER_VERIFICATION = $nv } }  $extraEnv = Join-Path $parentRoot "_refs\env\$domain.ps1"
+  if (Test-Path $extraEnv) { . $extraEnv }
+}
 node scripts/og.mjs
 if ($LASTEXITCODE -ne 0) { Fail 'OG generation failed' }
 node node_modules/astro/astro.js build --force
@@ -87,8 +101,9 @@ if ($DryRun) {
 } else {
   $intentStream = [System.IO.File]::Open($intent, [System.IO.FileMode]::CreateNew, [System.IO.FileAccess]::Write, [System.IO.FileShare]::None)
   try { $bytes = [Text.Encoding]::UTF8.GetBytes((@{slug=$Slug; attemptedAt=(Get-Date).ToUniversalTime().ToString('o'); buildSha=$buildSha} | ConvertTo-Json)); $intentStream.Write($bytes,0,$bytes.Length); $intentStream.Flush($true) } finally { $intentStream.Dispose() }
-  npx wrangler deploy
-  if ($LASTEXITCODE -ne 0) { Fail 'wrangler deploy failed' }
+  # Deploy through the parent helper (custom-domain routes, account, workers_dev off, full gate, live 200/404 check).
+  pwsh -NoProfile -File (Join-Path $parentRoot '_refs\deploy-site.ps1') -Domain $domain -SkipBuild
+  if ($LASTEXITCODE -ne 0) { Fail 'deploy helper failed' }
   $origin = $site
 }
 
@@ -104,6 +119,7 @@ try {
       if ($r.StatusCode -ne 200) { $why = "status $($r.StatusCode)" }
       elseif (-not $html.Contains([System.Net.WebUtility]::HtmlEncode($title)) -and -not $html.Contains($title)) { $why = 'title missing' }
       elseif (-not $html.Contains($fm.disclosure)) { $why = 'disclosure missing' }
+      elseif ($gaId -and -not $html.Contains($gaId)) { $why = 'GA4 id missing' }
       elseif (-not ($html.Contains("href=`"$productUrl`"") -or $html.Contains("href=`"$hrefEsc`""))) { $why = 'exact product href missing' }
       else { $ok = $true }
     } catch { $why = $_.Exception.Message }

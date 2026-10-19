@@ -26,6 +26,7 @@ try{
  for(const name of ['src','public','content','scripts','package.json','astro.config.mjs','tsconfig.json'])if(existsSync(join(root,name)))cpSync(join(root,name),join(stage,name),{recursive:true,filter:p=>{if(lstatSync(p).isSymbolicLink())throw Error('input symlink refused: '+p);return true;}});
  mkdirSync(join(stage,'ops'));
  for(const n of ['publish.config.json','publish-log.jsonl'])if(existsSync(join(root,'ops',n)))cpSync(join(root,'ops',n),join(stage,'ops',n));
+if(existsSync(join(root,'ops','evidence')))cpSync(join(root,'ops','evidence'),join(stage,'ops','evidence'),{recursive:true});
  symlinkSync(join(root,'node_modules'),join(stage,'node_modules'),'junction');
  const sha=spawnSync('git',['rev-parse','HEAD'],{cwd:root,encoding:'utf8'});
  if(sha.status!==0)throw Error('cannot record source revision');

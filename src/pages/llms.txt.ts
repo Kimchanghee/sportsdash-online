@@ -12,6 +12,8 @@ export const GET: APIRoute = async () => {
     '',
     'Korean-language buying checklists for home training, running, camping and outdoor gear. Specs are taken only from manufacturer pages or official bodies; no first-hand testing is claimed. Product posts contain affiliate links (Coupang Partners, Ohouse, Toss Shopping, Naver Shopping Connect) and say so in their first block.',
     '',
+    `Full text of every page: ${site.url}/llms-full.txt`,
+    '',
     '## Checklists',
     ...guides.map((g) => `- [${g.data.title}](${site.url}${guidePath(g.data.slug)}): ${g.data.answer}`),
     '',
