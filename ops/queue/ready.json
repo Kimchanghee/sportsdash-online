@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "images": [
+      "ops/queue/images/ganesha-ultra-comfort-6mm-yoga-mat/cover.png",
+      "ops/queue/images/ganesha-ultra-comfort-6mm-yoga-mat/layers.png",
+      "ops/queue/images/ganesha-ultra-comfort-6mm-yoga-mat/weight.png",
+      "ops/queue/images/ganesha-ultra-comfort-6mm-yoga-mat/check.png"
+    ],
+    "sourceURL": "https://www.coupang.com/vp/products/8522471997?itemId=24650131748&vendorItemId=91660750475",
+    "factsFile": "ops/evidence/ganesha-ultra-comfort-6mm-yoga-mat-brief.md",
+    "dryRunPassedAt": "2026-10-19T09:23:50.2720491Z",
+    "slug": "ganesha-ultra-comfort-6mm-yoga-mat",
+    "evidenceFile": "ops/evidence/ganesha-ultra-comfort-6mm-yoga-mat-link.md",
+    "publishNote": "Gate requires product.verifiedAt within 2 days of published: before publishing after 2026-10-21, re-check the native option and update verifiedAt/published/updated.",
+    "manuscript": "ops/queue/ganesha-ultra-comfort-6mm-yoga-mat.md",
+    "linkIssuedAt": "2026-10-19T09:18:22Z",
+    "imageTarget": "public/images/posts/ganesha-ultra-comfort-6mm-yoga-mat/",
+    "option": "Milk Sand × 183cm x 68 cm × 1개",
+    "issuedURI": "https://link.coupang.com/a/hYpB0V6t9o",
+    "productName": "가네샤요가프랍스 가네샤 요가매트 울트라컴포트 6mm"
+  }
+]
