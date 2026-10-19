@@ -68,7 +68,7 @@ a:hover { color: var(--ink); }
 .log-title { font-size: clamp(26px, 4vw, 38px); line-height: 1.25; letter-spacing: -0.02em; margin: 0 0 10px; }
 .log-kicker { font: 600 12px/1.4 var(--mono); letter-spacing: 0.08em; color: var(--tape); text-transform: uppercase; margin: 0 0 8px; }
 .lede { font-size: 18px; color: var(--ink-2); max-width: 62ch; margin: 0; }
-.section { padding: 28px 0; }
+.section { padding-top: 28px; padding-bottom: 28px; }
 .section__head { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; border-bottom: 2px solid var(--ink); padding-bottom: 8px; margin-bottom: 0; }
 .section__head h2 { margin: 0; font-size: 20px; }
 .section__head p { margin: 0; font: 500 13px/1.4 var(--mono); color: var(--muted); }
