@@ -1,0 +1,30 @@
+[
+ {
+  "name": "cover",
+  "kicker": "PICK · HOME TRAINING",
+  "title": "가네샤 울트라컴포트 6mm, 숫자로 보기",
+  "body": "<div class=\"vis\"><svg width=\"480\" height=\"440\" viewBox=\"-60 0 480 440\"><rect x=\"160\" y=\"10\" width=\"160\" height=\"360\" rx=\"14\" fill=\"#d8cdb8\" stroke=\"#1d2a24\" stroke-width=\"6\"/><line x1=\"120\" y1=\"10\" x2=\"120\" y2=\"370\" stroke=\"#1d2a24\" stroke-width=\"5\"/><text x=\"100\" y=\"200\" text-anchor=\"end\" font-size=\"40\" font-weight=\"700\" fill=\"#1d2a24\">183cm</text><line x1=\"160\" y1=\"395\" x2=\"320\" y2=\"395\" stroke=\"#1d2a24\" stroke-width=\"5\"/><text x=\"240\" y=\"430\" text-anchor=\"middle\" font-size=\"36\" font-weight=\"700\" fill=\"#1d2a24\">68cm</text></svg></div><table class=\"t\"><tr><td><b>크기</b></td><td>183 × 68cm</td></tr><tr><td><b>두께</b></td><td>6mm</td></tr><tr><td><b>무게</b></td><td>3.8kg</td></tr><tr><td><b>소재</b></td><td>윗면 PU · 아랫면 천연고무</td></tr></table>",
+  "foot": "스포츠대시 제작 도식 · sportsdash.online"
+ },
+ {
+  "name": "layers",
+  "kicker": "DETAIL · 단면",
+  "title": "윗면과 아랫면 소재가 다릅니다",
+  "body": "<div class=\"vis\"><svg width=\"900\" height=\"260\" viewBox=\"0 0 900 260\"><rect x=\"20\" y=\"20\" width=\"860\" height=\"80\" fill=\"#e6dcc6\" stroke=\"#1d2a24\" stroke-width=\"5\"/><rect x=\"20\" y=\"100\" width=\"860\" height=\"110\" fill=\"#5c5249\" stroke=\"#1d2a24\" stroke-width=\"5\"/><text x=\"450\" y=\"74\" text-anchor=\"middle\" font-size=\"40\" font-weight=\"700\" fill=\"#1d2a24\">윗면 · PU(인조가죽)</text><text x=\"450\" y=\"170\" text-anchor=\"middle\" font-size=\"40\" font-weight=\"700\" fill=\"#fff\">아랫면 · 천연고무</text></svg></div><div class=\"cards\"><div class=\"card nobig\"><span class=\"lab\">윗면 · PU(인조가죽)</span><span class=\"txt\">손·발이 닿는 면</span></div><div class=\"card nobig\"><span class=\"lab\">아랫면 · 천연고무</span><span class=\"txt\">바닥과 닿는 면</span></div></div><p class=\"txt\" style=\"color:#56645c\">전체 두께 6mm · 층 두께 비율은 개념도</p>",
+  "foot": "스포츠대시 제작 도식 · sportsdash.online"
+ },
+ {
+  "name": "weight",
+  "kicker": "CONTEXT · 들고 다닐까, 두고 쓸까",
+  "title": "3.8kg 매트가 맞는 자리",
+  "body": "<div class=\"cards\"><div class=\"card nobig\"><span class=\"lab\">잘 맞는 경우</span><span class=\"txt\">· 집 거실에 깔아 두고 쓰기<br>· 요가원 보관함에 두고 쓰기<br>· 바닥 쿠션을 우선할 때</span></div><div class=\"card nobig dash\"><span class=\"lab\" style=\"color:#a33a2a\">다시 볼 경우</span><span class=\"txt\">· 매번 들고 이동해야 할 때<br>· 여행·야외에서 쓸 때<br>· 가벼운 매트가 우선일 때</span></div></div>",
+  "foot": "스포츠대시 제작 도식 · sportsdash.online"
+ },
+ {
+  "name": "check",
+  "kicker": "CHECKLIST · 결제 전",
+  "title": "주문 화면에서 확인할 것",
+  "body": "<ol class=\"check\"><li><span class=\"lab\">모델</span><span class=\"txt\">울트라컴포트 6mm인지 (5mm 등 다른 두께와 구분)</span></li><li><span class=\"lab\">색상</span><span class=\"txt\">선택한 색상 이름이 맞는지</span></li><li><span class=\"lab\">사이즈</span><span class=\"txt\">183 × 68cm, 1개인지</span></li><li><span class=\"lab\">펼칠 자리</span><span class=\"txt\">거실·방에 183 × 68cm가 들어가는지</span></li><li><span class=\"lab\">소재</span><span class=\"txt\">천연고무에 민감하면 미리 확인</span></li></ol>",
+  "foot": "스포츠대시 제작 도식 · sportsdash.online"
+ }
+]

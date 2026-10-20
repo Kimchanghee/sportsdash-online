@@ -1,0 +1,30 @@
+[
+ {
+  "name": "cover",
+  "kicker": "PICK · CAMPING",
+  "title": "헬리녹스 체어원 사양 한눈에",
+  "body": "<div class=\"cards\"><div class=\"card\"><span class=\"big\">893<small>g</small></span><span class=\"lab\">의자 무게</span><span class=\"txt\">펼친 의자만 (제조사)</span></div><div class=\"card\"><span class=\"big\">965<small>g</small></span><span class=\"lab\">수납 시 무게</span><span class=\"txt\">가방 포함 (제조사)</span></div><div class=\"card hl\"><span class=\"big\">145<small>kg</small></span><span class=\"lab\">내하중</span><span class=\"txt\">제조사 표기</span></div><div class=\"card nobig\"><span class=\"lab\">펼친 크기 (폭·깊이·높이)</span><span class=\"txt\">52.5 × 51 × 65cm · 알루미늄 합금 프레임</span></div></div>",
+  "foot": "스포츠대시 제작 도식 · 출처 helinox.com"
+ },
+ {
+  "name": "packed",
+  "kicker": "DETAIL · 무게 기준",
+  "title": "펼쳤을 때 vs 가방에 넣었을 때",
+  "body": "<div class=\"cards\"><div class=\"card\"><span class=\"big\">893<small>g</small></span><span class=\"lab\">펼친 의자</span><span class=\"txt\">52.5 × 51 × 65cm</span></div><div class=\"card\"><span class=\"big\">965<small>g</small></span><span class=\"lab\">가방에 넣은 상태</span><span class=\"txt\">35.5 × 11 × 11cm</span></div></div><div class=\"card nobig dash\"><span class=\"txt\">다른 의자와 비교할 땐 같은 기준(의자만 / 가방 포함)끼리 맞추세요.</span></div>",
+  "foot": "스포츠대시 제작 도식 · 출처 helinox.com"
+ },
+ {
+  "name": "versions",
+  "kicker": "CONTEXT · 모델 구분",
+  "title": "체어원 vs 체어원(re)",
+  "body": "<table class=\"t\"><tr><th>항목</th><th>체어원</th><th>체어원(re)</th></tr><tr><td>수납 무게</td><td><b>965g</b></td><td>1,115g</td></tr><tr><td>수납 크기</td><td>35.5×11×11cm</td><td>39×13.5×12cm</td></tr><tr><td>펼친 높이</td><td>65cm</td><td>71cm</td></tr><tr><td>내하중</td><td>145kg</td><td>145kg</td></tr><tr><td>옆주머니</td><td>표기 없음</td><td>있음</td></tr></table>",
+  "foot": "제조사 공식 사양 기준 · 주문 전 상품명의 (re) 여부 확인"
+ },
+ {
+  "name": "check",
+  "kicker": "CHECKLIST · 결제 전",
+  "title": "주문 전 체크리스트",
+  "body": "<ol class=\"check\"><li><span class=\"lab\">모델명</span><span class=\"txt\">(re)·클래식·XL이 붙지 않았는지</span></li><li><span class=\"lab\">색상</span><span class=\"txt\">코요테탄으로 선택되어 있는지</span></li><li><span class=\"lab\">수량</span><span class=\"txt\">1개인지</span></li><li><span class=\"lab\">판매자</span><span class=\"txt\">선택된 판매자와 교환 조건 확인</span></li><li><span class=\"lab\">바닥</span><span class=\"txt\">평평하고 단단한 곳에서 쓸 수 있는지</span></li></ol>",
+  "foot": "가격·재고는 판매 페이지에서 확인"
+ }
+]
