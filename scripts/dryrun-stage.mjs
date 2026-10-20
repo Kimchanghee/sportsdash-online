@@ -26,7 +26,8 @@ try{
  for(const name of ['src','public','content','scripts','package.json','astro.config.mjs','tsconfig.json'])if(existsSync(join(root,name)))cpSync(join(root,name),join(stage,name),{recursive:true,filter:p=>{if(lstatSync(p).isSymbolicLink())throw Error('input symlink refused: '+p);return true;}});
  mkdirSync(join(stage,'ops'));
  for(const n of ['publish.config.json','publish-log.jsonl'])if(existsSync(join(root,'ops',n)))cpSync(join(root,'ops',n),join(stage,'ops',n));
-if(existsSync(join(root,'ops','evidence')))cpSync(join(root,'ops','evidence'),join(stage,'ops','evidence'),{recursive:true});
+// filter forces the JS copy path: Node 22's native recursive cpSync crashes (0xC0000005) on non-ASCII source paths such as this repo's.
+ if(existsSync(join(root,'ops','evidence')))cpSync(join(root,'ops','evidence'),join(stage,'ops','evidence'),{recursive:true,filter:p=>{if(lstatSync(p).isSymbolicLink())throw Error('input symlink refused: '+p);return true;}});
  symlinkSync(join(root,'node_modules'),join(stage,'node_modules'),'junction');
  const sha=spawnSync('git',['rev-parse','HEAD'],{cwd:root,encoding:'utf8'});
  if(sha.status!==0)throw Error('cannot record source revision');
@@ -44,10 +45,12 @@ if(existsSync(join(root,'ops','evidence')))cpSync(join(root,'ops','evidence'),jo
   cpSync(join(stage,'src/content/posts/_examples/public/images/examples/fixture-cover.png'),join(stage,'public/images/examples/fixture-cover.png'));
   if(mode==='invalid-built')rmSync(join(stage,'public/ads.txt'),{force:true});
  }
- const denied=spawnSync('pwsh',['-NoProfile','-File',join(stage,'scripts/publish.ps1'),'-Slug',slug,'-AllowDeploy'],{cwd:stage,encoding:'utf8',timeout:15000});
+ // Mirror _ops/shop-publisher/run-shop-publisher.ps1 (UTF-8 console): on a cp949 console pwsh mis-decodes node's UTF-8 post-info JSON and the Korean title check fails.
+ const pwshArgs=(...a)=>['-NoProfile','-Command',`[Console]::OutputEncoding=[Text.UTF8Encoding]::new($false); & '${join(stage,'scripts/publish.ps1').replace(/'/g,"''")}' ${a.join(' ')}; exit $LASTEXITCODE`];
+ const denied=spawnSync('pwsh',pwshArgs('-Slug',slug,'-AllowDeploy'),{cwd:stage,encoding:'utf8',timeout:15000});
  if(denied.status!==1||!denied.stdout.includes('test sandbox is never deployable'))throw Error('sandbox deployment denial failed');
  console.log('SANDBOX DEPLOYMENT DENIED even with -AllowDeploy');
- const run=spawnSync('pwsh',['-NoProfile','-File',join(stage,'scripts/publish.ps1'),'-Slug',slug,'-DryRun'],{cwd:stage,encoding:'utf8',timeout:180000,env:{...process.env,ASTRO_TELEMETRY_DISABLED:'1'}});
+ const run=spawnSync('pwsh',pwshArgs('-Slug',slug,'-DryRun'),{cwd:stage,encoding:'utf8',timeout:180000,env:{...process.env,ASTRO_TELEMETRY_DISABLED:'1'}});
  process.stdout.write(run.stdout??'');process.stderr.write(run.stderr??'');
  status=run.status??1;
  if(status!==0&&existsSync(join(stage,'ops/publish-log.dryrun.jsonl')))throw Error('failed rehearsal wrote success receipt');
