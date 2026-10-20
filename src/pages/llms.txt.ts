@@ -5,10 +5,13 @@ import { site } from '../site.config';
 export const GET: APIRoute = async () => {
   const guides = await allGuides();
   const posts = await allPosts();
+  const lastUpdated = [...guides, ...posts].map((e) => String(e.data.updated)).sort().at(-1)?.slice(0, 10) ?? '';
   const lines = [
     `# ${site.name} (${site.nameEn})`,
     '',
     `> ${site.description}`,
+    '',
+    `Last updated: ${lastUpdated}`,
     '',
     'Korean-language buying checklists for home training, running, camping and outdoor gear. Specs are taken only from manufacturer pages or official bodies; no first-hand testing is claimed. Product posts contain affiliate links (Coupang Partners, Ohouse, Toss Shopping, Naver Shopping Connect) and say so in their first block.',
     '',

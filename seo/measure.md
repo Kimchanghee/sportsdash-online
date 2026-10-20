@@ -1,3 +1,24 @@
-# Measurement plan
+# 측정 계획 (스포츠대시 sportsdash.online)
 
-No deployment or account actions in this task. At production launch record date and build SHA. At +14 days inspect GSC index coverage, sitemap acceptance, impressions/clicks by guide and query; GA4 checklist tool_used events and affiliate outbound clicks when actual IDs/links are configured; Naver Search Advisor crawl status; manually record cited URL, answer engine, question and date. Compare to launch baseline, not assumed zero traffic. No ranking, approval or revenue guarantees.
+- 기준선 기록일: 2026-10-20 (`seo/baseline-2026-10-20.md`)
+- 재측정일: 2026-11-03 (+14일)
+
+## 무엇을 보나
+
+- Google Search Console: 색인 범위, 사이트맵 처리 상태, 가이드·상품 노트별 노출/클릭/평균 순위와 검색어.
+- Bing Webmaster Tools(GSC 가져오기로 인증됨): 색인 페이지 수, 노출/클릭, IndexNow 수신 기록.
+- 네이버 서치어드바이저: 사이트맵·RSS 제출일, 수집 요청일, 수집 현황(소유자 콘솔 기록).
+- GA4: 페이지별 조회, 제휴 링크 이탈 클릭(제휴 링크가 있는 글에 한함).
+- Cloudflare 로그/분석: GPTBot, OAI-SearchBot, ClaudeBot, PerplexityBot 방문(선행 지표).
+- AI 인용 점검: 아래 질문을 Perplexity·ChatGPT 검색·네이버 AI 브리핑에 넣고 이 사이트 URL 인용 여부를 O/X와 날짜로 기록합니다.
+
+## AI 인용 점검 질문
+
+- 홈트·러닝·캠핑 장비를 사기 전에 무엇을 확인하나요? (live 가이드 질문 기준)
+- 스포츠대시는 어떤 사이트인가요?
+
+
+## 원칙
+
+- 숫자는 콘솔·분석 도구에서 내려받은 값만 적습니다. 추정치나 0으로 채우지 않습니다.
+- 순위·노출·수익을 보장하거나 예측하지 않습니다.
