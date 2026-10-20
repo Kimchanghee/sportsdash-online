@@ -23,5 +23,42 @@
       "183cm x 68 cm",
       "1개"
     ]
+  },
+  {
+    "slug": "helinox-chair-one-coyote-tan",
+    "productName": "헬리녹스 체어원 캠핑의자",
+    "option": "코요테탄 × 1개",
+    "sourceURL": "https://www.coupang.com/vp/products/111239577?itemId=140376749&vendorItemId=95951747933",
+    "issuedURI": "https://link.coupang.com/a/hZOnFrzo6u",
+    "linkIssuedAt": "2026-10-20T05:31:32.817Z",
+    "manuscript": "ops/queue/helinox-chair-one-coyote-tan.md",
+    "factsFile": "ops/evidence/helinox-chair-one-coyote-tan-link.md",
+    "evidenceFile": "ops/evidence/helinox-chair-one-coyote-tan-link.md",
+    "images": [
+      "ops/queue/images/helinox-chair-one-coyote-tan/cover.png",
+      "ops/queue/images/helinox-chair-one-coyote-tan/packed.png",
+      "ops/queue/images/helinox-chair-one-coyote-tan/versions.png",
+      "ops/queue/images/helinox-chair-one-coyote-tan/check.png"
+    ],
+    "imageTarget": "public/images/posts/helinox-chair-one-coyote-tan/",
+    "dryRunPassedAt": "2026-10-20T05:36:27.638Z",
+    "verifyTokens": [
+      "헬리녹스 체어원 캠핑의자, 코요테탄, 1개",
+      "111239577 - 140376749",
+      "최대무게: 145kg"
+    ],
+    "research": {
+      "serp": "Naver blog SERP \"헬리녹스 체어원 무게 내하중\" 2026-10-20",
+      "originals": [
+        "https://m.blog.naver.com/bbaaee9/224431266236",
+        "https://m.blog.naver.com/curtis0727/224446576634",
+        "https://m.blog.naver.com/lifemanual365/224386688357"
+      ],
+      "officialFacts": [
+        "https://helinox.com/products/chair-one",
+        "https://helinox.com/products/chair-one-re"
+      ]
+    },
+    "publishNote": "Gate requires product.verifiedAt within 2 days of published; re-check option/stock (listing showed low stock, multi-seller) and refresh dates before publishing."
   }
 ]
