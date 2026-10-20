@@ -17,6 +17,11 @@
     "imageTarget": "public/images/posts/ganesha-ultra-comfort-6mm-yoga-mat/",
     "option": "Milk Sand × 183cm x 68 cm × 1개",
     "issuedURI": "https://link.coupang.com/a/hYpB0V6t9o",
-    "productName": "가네샤요가프랍스 가네샤 요가매트 울트라컴포트 6mm"
+    "productName": "가네샤요가프랍스 가네샤 요가매트 울트라컴포트 6mm",
+    "verifyTokens": [
+      "Milk Sand",
+      "183cm x 68 cm",
+      "1개"
+    ]
   }
 ]
