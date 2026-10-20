@@ -1,0 +1,50 @@
+[
+ {
+  "name": "cover",
+  "width": 1080,
+  "height": 1350,
+  "minSourceFontPx": 34,
+  "minDisplayPxAt390": 12.3,
+  "contentBottom": 1294,
+  "overlap": false,
+  "overflowX": false,
+  "svgTextClipped": false,
+  "ok": true
+ },
+ {
+  "name": "fold",
+  "width": 1080,
+  "height": 1350,
+  "minSourceFontPx": 34,
+  "minDisplayPxAt390": 12.3,
+  "contentBottom": 1294,
+  "overlap": false,
+  "overflowX": false,
+  "svgTextClipped": false,
+  "ok": true
+ },
+ {
+  "name": "compare",
+  "width": 1080,
+  "height": 1350,
+  "minSourceFontPx": 34,
+  "minDisplayPxAt390": 12.3,
+  "contentBottom": 1294,
+  "overlap": false,
+  "overflowX": false,
+  "svgTextClipped": false,
+  "ok": true
+ },
+ {
+  "name": "check",
+  "width": 1080,
+  "height": 1350,
+  "minSourceFontPx": 34,
+  "minDisplayPxAt390": 12.3,
+  "contentBottom": 1294,
+  "overlap": false,
+  "overflowX": false,
+  "svgTextClipped": false,
+  "ok": true
+ }
+]

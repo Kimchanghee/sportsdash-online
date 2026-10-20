@@ -35,5 +35,81 @@
       ]
     },
     "publishNote": "Gate requires product.verifiedAt within 2 days of published; re-check option/stock (listing showed low stock, multi-seller) and refresh dates before publishing."
+  },
+  {
+    "slug": "nemo-switchback-regular-orange",
+    "productName": "[니모] NEMO Switchback 스위치백 발포 매트 레귤러",
+    "option": "오렌지 × 1개",
+    "sourceURL": "https://www.coupang.com/vp/products/8680568427?itemId=25199686161&vendorItemId=92196293763",
+    "issuedURI": "https://link.coupang.com/a/h0f8FYJRts",
+    "linkIssuedAt": "2026-10-20T11:59:57.464Z",
+    "productCheckedAt": "2026-10-20T11:59:30.007Z",
+    "manuscript": "ops/queue/nemo-switchback-regular-orange.md",
+    "factsFile": "ops/evidence/nemo-switchback-regular-orange-link.md",
+    "evidenceFile": "ops/evidence/nemo-switchback-regular-orange-link.md",
+    "images": [
+      "ops/queue/images/nemo-switchback-regular-orange/cover.png",
+      "ops/queue/images/nemo-switchback-regular-orange/fold.png",
+      "ops/queue/images/nemo-switchback-regular-orange/compare.png",
+      "ops/queue/images/nemo-switchback-regular-orange/check.png"
+    ],
+    "imageTarget": "public/images/posts/nemo-switchback-regular-orange/",
+    "dryRunPassedAt": "2026-10-20T12:09:57.779Z",
+    "dryRunResult": "publish.ps1 -DryRun: gate 39/39, PUBLISH OK (dry run), protected trees unchanged, sandbox removed",
+    "verifyTokens": [
+      "[니모] NEMO Switchback 스위치백 발포 매트 레귤러",
+      "8680568427 - 25199686161",
+      "오렌지"
+    ],
+    "research": {
+      "serp": "Google \"니모 스위치백 발포매트 레귤러 무게\" + Naver blog \"니모 스위치백 레귤러 발포매트\" 2026-10-20",
+      "originals": [
+        "https://m.blog.naver.com/juneyoup1/222688103115",
+        "https://m.blog.naver.com/ordinarymin/222683002905",
+        "http://san.chosun.com/news/articleView.html?idxno=25427"
+      ],
+      "officialFacts": [
+        "https://www.nemoequipment.com/products/switchback-ultralight-sleeping-pad"
+      ]
+    },
+    "publishNote": "Weight and packed size omitted (official 415 g / 51x13x14 vs listing 355g / 51x183x13). Seller-shipped single seller; re-check option/stock before publishing."
+  },
+  {
+    "slug": "triggerpoint-grid-1-foam-roller-black",
+    "productName": "트리거포인트 그리드 1.0 폼롤러",
+    "option": "블랙 × 33 x 14 cm × 1개",
+    "sourceURL": "https://www.coupang.com/vp/products/37851417?itemId=139701034&vendorItemId=3299574201",
+    "issuedURI": "https://link.coupang.com/a/h0gf10zU6K",
+    "linkIssuedAt": "2026-10-20T12:01:37.038Z",
+    "productCheckedAt": "2026-10-20T12:01:05.006Z",
+    "manuscript": "ops/queue/triggerpoint-grid-1-foam-roller-black.md",
+    "factsFile": "ops/evidence/triggerpoint-grid-1-foam-roller-black-link.md",
+    "evidenceFile": "ops/evidence/triggerpoint-grid-1-foam-roller-black-link.md",
+    "images": [
+      "ops/queue/images/triggerpoint-grid-1-foam-roller-black/cover.png",
+      "ops/queue/images/triggerpoint-grid-1-foam-roller-black/surface.png",
+      "ops/queue/images/triggerpoint-grid-1-foam-roller-black/length.png",
+      "ops/queue/images/triggerpoint-grid-1-foam-roller-black/check.png"
+    ],
+    "imageTarget": "public/images/posts/triggerpoint-grid-1-foam-roller-black/",
+    "dryRunPassedAt": "2026-10-20T12:10:19.002Z",
+    "dryRunResult": "publish.ps1 -DryRun: gate 39/39, PUBLISH OK (dry run), protected trees unchanged, sandbox removed",
+    "verifyTokens": [
+      "트리거포인트 그리드 1.0 폼롤러",
+      "블랙 × 33 x 14 cm × 1개",
+      "37851417 - 139701034"
+    ],
+    "research": {
+      "serp": "Google \"트리거포인트 그리드 1.0 폼롤러 33cm 사용법 후기\" + Naver blog \"트리거포인트 그리드 폼롤러 1.0\" 2026-10-20",
+      "originals": [
+        "https://m.blog.naver.com/syh418/221647228630",
+        "https://mall.spofl.co.kr/brand/triggerpoint/magazine/45",
+        "https://m.blog.naver.com/damececil/221503959386"
+      ],
+      "officialFacts": [
+        "https://www.tptherapy.com/products/grid-1-0-foam-roller"
+      ]
+    },
+    "publishNote": "Load capacity omitted (official 300 lb vs KR importer 226kg); no efficacy claims. Re-check option/stock before publishing."
   }
 ]

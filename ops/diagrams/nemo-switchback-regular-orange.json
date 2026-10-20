@@ -1,0 +1,30 @@
+[
+ {
+  "name": "cover",
+  "kicker": "PICK · CAMPING",
+  "title": "니모 스위치백 레귤러 사양",
+  "body": "<div class=\"cards\"><div class=\"card\"><span class=\"big\">183<small>cm</small></span><span class=\"lab\">펼친 길이</span><span class=\"txt\">폭 51cm (제조사·판매 페이지 동일)</span></div><div class=\"card hl\"><span class=\"big\">2</span><span class=\"lab\">R값</span><span class=\"txt\">제조사 표기 단열 수치</span></div><div class=\"card\"><span class=\"big\">0.9<small>in</small></span><span class=\"lab\">두께</span><span class=\"txt\">약 2.3cm (제조사)</span></div><div class=\"card nobig\"><span class=\"lab\">소재 · 방식</span><span class=\"txt\">PE 폼 · 아코디언처럼 접는 발포매트</span></div></div>",
+  "foot": "스포츠대시 제작 도식 · 출처 nemoequipment.com"
+ },
+ {
+  "name": "fold",
+  "kicker": "DETAIL · 접는 구조",
+  "title": "펴고 접는 방식",
+  "body": "<div class=\"vis\"><svg width=\"952\" height=\"470\" viewBox=\"0 0 952 470\"><g fill=\"#fffdf8\" stroke=\"#1d2a24\" stroke-width=\"4\"><rect x=\"20\" y=\"40\" width=\"100\" height=\"150\" rx=\"8\"/><rect x=\"130\" y=\"40\" width=\"100\" height=\"150\" rx=\"8\"/><rect x=\"240\" y=\"40\" width=\"100\" height=\"150\" rx=\"8\"/><rect x=\"350\" y=\"40\" width=\"100\" height=\"150\" rx=\"8\"/><rect x=\"460\" y=\"40\" width=\"100\" height=\"150\" rx=\"8\"/><rect x=\"570\" y=\"40\" width=\"100\" height=\"150\" rx=\"8\"/><rect x=\"680\" y=\"40\" width=\"100\" height=\"150\" rx=\"8\"/><rect x=\"790\" y=\"40\" width=\"100\" height=\"150\" rx=\"8\"/></g><text x=\"20\" y=\"250\" font-size=\"38\" font-weight=\"800\" fill=\"#1d2a24\">펼친 상태 183 × 51cm</text><g fill=\"#fffdf8\" stroke=\"#1d2a24\" stroke-width=\"4\"><rect x=\"300\" y=\"300\" width=\"150\" height=\"30\" rx=\"6\"/><rect x=\"300\" y=\"334\" width=\"150\" height=\"30\" rx=\"6\"/><rect x=\"300\" y=\"368\" width=\"150\" height=\"30\" rx=\"6\"/><rect x=\"300\" y=\"402\" width=\"150\" height=\"30\" rx=\"6\"/></g><text x=\"480\" y=\"380\" font-size=\"38\" font-weight=\"800\" fill=\"#1d2a24\">접은 상태</text><text x=\"480\" y=\"428\" font-size=\"34\" fill=\"#1d2a24\">패널이 겹쳐 블록 모양</text></svg></div><div class=\"card nobig dash\"><span class=\"txt\">바람을 넣지 않아 바로 펴고 바로 접습니다. 접은 블록은 배낭 바깥에 다는 경우가 많습니다.</span></div>",
+  "foot": "구조 개념도 · 패널 수는 실제와 다를 수 있음"
+ },
+ {
+  "name": "compare",
+  "kicker": "COMPARISON · 매트 방식",
+  "title": "발포매트와 에어매트",
+  "body": "<table class=\"t\"><tr><th>항목</th><th>발포매트</th><th>에어매트</th></tr><tr><td>설치</td><td><b>펴기만 하면 끝</b></td><td>바람 넣기 필요</td></tr><tr><td>구멍 걱정</td><td><b>없음</b></td><td>있음</td></tr><tr><td>수납</td><td>접은 블록</td><td>말아서 작게</td></tr><tr><td>겹쳐 쓰기</td><td colspan=\"2\">추운 날 두 매트를 겹치는 구성도 흔함</td></tr></table>",
+  "foot": "방식 일반 비교 · 개별 제품 수치는 제조사 확인"
+ },
+ {
+  "name": "check",
+  "kicker": "CHECKLIST · 결제 전",
+  "title": "주문 전 체크리스트",
+  "body": "<ol class=\"check\"><li><span class=\"lab\">사이즈</span><span class=\"txt\">레귤러(183cm)인지, 숏이 아닌지</span></li><li><span class=\"lab\">색상</span><span class=\"txt\">오렌지 옵션인지</span></li><li><span class=\"lab\">무게 표기</span><span class=\"txt\">판매 페이지와 제조사 값이 다름</span></li><li><span class=\"lab\">판매자</span><span class=\"txt\">배송비·교환 조건 확인</span></li><li><span class=\"lab\">계절</span><span class=\"txt\">추운 날엔 겹쳐 쓸 매트 준비</span></li></ol>",
+  "foot": "가격·재고는 판매 페이지에서 확인"
+ }
+]

@@ -1,0 +1,30 @@
+[
+ {
+  "name": "cover",
+  "kicker": "PICK · HOME TRAINING",
+  "title": "트리거포인트 그리드 1.0 사양",
+  "body": "<div class=\"cards\"><div class=\"card\"><span class=\"big\">33<small>cm</small></span><span class=\"lab\">길이</span><span class=\"txt\">13인치 (제조사·판매 페이지 동일)</span></div><div class=\"card\"><span class=\"big\">14<small>cm</small></span><span class=\"lab\">지름</span><span class=\"txt\">5.5인치 (제조사·판매 페이지 동일)</span></div><div class=\"card hl nobig\"><span class=\"lab\">구조</span><span class=\"txt\">속이 빈 심재 + 겉면 EVA 폼</span></div><div class=\"card nobig\"><span class=\"lab\">옵션</span><span class=\"txt\">블랙 × 33 x 14 cm × 1개</span></div></div>",
+  "foot": "스포츠대시 제작 도식 · 출처 tptherapy.com"
+ },
+ {
+  "name": "surface",
+  "kicker": "DETAIL · 표면 패턴",
+  "title": "표면이 세 가지로 나뉜다",
+  "body": "<div class=\"cards\"><div class=\"card nobig\"><span class=\"lab\">넓고 평평한 면</span><span class=\"txt\">제조사는 손바닥에 비유</span></div><div class=\"card nobig\"><span class=\"lab\">길쭉한 관 모양 돌기</span><span class=\"txt\">제조사는 손가락에 비유</span></div><div class=\"card nobig\"><span class=\"lab\">작고 촘촘한 돌기</span><span class=\"txt\">제조사는 손끝에 비유</span></div></div><div class=\"card nobig dash\"><span class=\"txt\">닿는 면을 바꾸려면 롤러를 돌려 다른 패턴이 몸에 오게 합니다.</span></div>",
+  "foot": "제조사 설명 요약 · 효과를 뜻하지 않음"
+ },
+ {
+  "name": "length",
+  "kicker": "COMPARISON · 길이",
+  "title": "33cm와 긴 롤러",
+  "body": "<div class=\"vis\"><svg width=\"952\" height=\"330\" viewBox=\"0 0 952 330\"><rect x=\"20\" y=\"40\" width=\"300\" height=\"100\" rx=\"50\" fill=\"#1d2a24\"/><text x=\"350\" y=\"105\" font-size=\"40\" font-weight=\"800\" fill=\"#1d2a24\">33cm · 그리드 1.0</text><rect x=\"20\" y=\"190\" width=\"900\" height=\"100\" rx=\"50\" fill=\"#fffdf8\" stroke=\"#1d2a24\" stroke-width=\"4\" stroke-dasharray=\"14 10\"/><text x=\"60\" y=\"255\" font-size=\"38\" fill=\"#1d2a24\">90cm 안팎의 긴 롤러 (비교용)</text></svg></div><table class=\"t\"><tr><th>상황</th><th>33cm</th><th>긴 롤러</th></tr><tr><td>가방에 넣기</td><td><b>쉬움</b></td><td>어려움</td></tr><tr><td>등을 길게 눕기</td><td>폭이 좁음</td><td><b>편함</b></td></tr></table>",
+  "foot": "길이 비교 개념도 · 긴 롤러는 일반 예시"
+ },
+ {
+  "name": "check",
+  "kicker": "CHECKLIST · 결제 전",
+  "title": "주문 전 체크리스트",
+  "body": "<ol class=\"check\"><li><span class=\"lab\">모델명</span><span class=\"txt\">그리드 1.0인지 (2.0·엑스와 다름)</span></li><li><span class=\"lab\">옵션</span><span class=\"txt\">블랙 × 33 x 14 cm × 1개</span></li><li><span class=\"lab\">하중 표기</span><span class=\"txt\">자료마다 달라 이 글엔 적지 않음</span></li><li><span class=\"lab\">공간</span><span class=\"txt\">매트 위 평평한 바닥에서</span></li><li><span class=\"lab\">통증</span><span class=\"txt\">아프거나 저리면 멈추고 상담</span></li></ol>",
+  "foot": "가격·재고는 판매 페이지에서 확인"
+ }
+]
