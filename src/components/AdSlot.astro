@@ -1,6 +1,8 @@
 ---
-// Reserved in-content ad container with fixed min-height (no layout shift). Auto ads fill it when approved.
+// Flag-gated in-content ad container. Renders nothing (no element, no reserved space) unless
+// PUBLIC_ADS_ENABLED=true; when enabled it keeps a fixed min-height (no layout shift) for auto ads.
+import { site } from '../site.config';
 interface Props { id: string }
 const { id } = Astro.props;
 ---
-<div class="ad-slot" id={`ad-${id}`} role="complementary" aria-label="광고 영역"><span class="ad-slot__label">AD</span></div>
+{site.adsEnabled && <div class="ad-slot" id={`ad-${id}`} role="complementary" aria-label="광고 영역"><span class="ad-slot__label">AD</span></div>}
