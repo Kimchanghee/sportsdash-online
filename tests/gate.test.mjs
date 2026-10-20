@@ -3,7 +3,7 @@ import assert from 'node:assert/strict';
 import { execFileSync, spawnSync } from 'node:child_process';
 import { fileURLToPath } from 'node:url';
 import { dirname, join } from 'node:path';
-import { writeFileSync, mkdtempSync } from 'node:fs';
+import { writeFileSync, mkdtempSync, readFileSync, rmSync } from 'node:fs';
 import { tmpdir } from 'node:os';
 
 const root = join(dirname(fileURLToPath(import.meta.url)), '..');
@@ -22,7 +22,7 @@ test('fail fixture is rejected with the expected reasons', () => {
   assert.equal(r.status, 1);
   const out = JSON.parse(r.stdout);
   const errs = out.results[0].errors.join('\n');
-  for (const needle of ['fabricated first-hand', 'not on coupang allowlist', 'no cover image', 'question-shaped H2', 'in-text affiliate links', 'evidence note not found', 'sources[] empty', 'placeholder text', 'description length', 'published must be ISO']) {
+  for (const needle of ['fabricated first-hand', 'not on coupang allowlist', 'no cover image', 'question-shaped H2', 'in-text affiliate links', 'evidence note not found', 'sources[] empty', 'placeholder text', 'description length', 'published must be ISO', 'distinct photos', 'format: no markdown table']) {
     assert.ok(errs.includes(needle), `expected "${needle}" in:\n${errs}`);
   }
 });
@@ -43,4 +43,20 @@ test('same slug already in publish log is rejected', () => {
   const r = run('--source', ex('pass-example.md'), '--log', log, '--json');
   assert.equal(r.status, 1);
   assert.match(r.stdout, /slug already in publish log/);
+});
+
+test('legacy diagram-format post is rejected by the trail format rules', () => {
+  const d = mkdtempSync(join(tmpdir(), 'gate-'));
+  const src = readFileSync(ex('pass-example.md'), 'utf8')
+    .replace(/fixture-(\d)\.webp/g, 'fixture-$1.png')
+    .replace(/^\|.*\|\s*$/gm, '')
+    .replace(/^\d+\.\s+/gm, '- ');
+  const f = join(ex(''), '_tmp-legacy-format.md');
+  writeFileSync(f, src);
+  try {
+    const r = run('--source', f, '--json', '--log', emptyLog());
+    assert.equal(r.status, 1);
+    const errs = JSON.parse(r.stdout).results[0].errors.join('\n');
+    for (const needle of ['distinct photos', 'WebP/JPEG photo', 'no markdown table', 'checklist (ordered list)']) assert.ok(errs.includes(needle), `expected "${needle}" in:\n${errs}`);
+  } finally { rmSync(f, { force: true }); }
 });

@@ -44,6 +44,8 @@ const posts = defineCollection({
     sources: z.array(source).min(1),
     faq: z.array(faq).default([]),
     disclosure: z.string().optional(),
+    /** 'trail' = rewritten into the approved trail-guide format; the gate then applies the format rules even to live posts. */
+    format: z.enum(['trail']).optional(),
   }),
 });
 

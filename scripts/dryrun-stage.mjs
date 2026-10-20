@@ -38,11 +38,11 @@ try{
   if(existsSync(target))throw Error('fixture slug already exists');
   let text=readFileSync(join(stage,'src/content/posts/_examples/pass-example.md'),'utf8');
   const now=new Date().toISOString().replace(/\.\d{3}Z$/,'Z'),verified=new Date(Date.now()-600000).toISOString().replace(/\.\d{3}Z$/,'Z');
-  text=text.replace(/^slug: .*$/m,`slug: ${slug}`).replace(/^(published|updated): .*$/gm,`$1: "${now}"`).replace(/^  verifiedAt: .*$/m,`  verifiedAt: "${verified}"`);
+  text=text.split('/images/posts/example-foam-roller-fixture/').join(`/images/posts/${slug}/`).replace(/^slug: .*$/m,`slug: ${slug}`).replace(/^(published|updated): .*$/gm,`$1: "${now}"`).replace(/^  verifiedAt: .*$/m,`  verifiedAt: "${verified}"`);
   if(mode==='invalid-source')text=text.replace(/^  optionDetail: .*\r?\n/m,'');
   writeFileSync(target,text);
-  mkdirSync(join(stage,'public/images/examples'),{recursive:true});
-  cpSync(join(stage,'src/content/posts/_examples/public/images/examples/fixture-cover.png'),join(stage,'public/images/examples/fixture-cover.png'));
+  mkdirSync(join(stage,'public/images/posts',slug),{recursive:true});
+  for(const n of readdirSync(join(stage,'src/content/posts/_examples/public/images/posts/example-foam-roller-fixture')))cpSync(join(stage,'src/content/posts/_examples/public/images/posts/example-foam-roller-fixture',n),join(stage,'public/images/posts',slug,n));
   if(mode==='invalid-built')rmSync(join(stage,'public/ads.txt'),{force:true});
  }
  // Mirror _ops/shop-publisher/run-shop-publisher.ps1 (UTF-8 console): on a cp949 console pwsh mis-decodes node's UTF-8 post-info JSON and the Korean title check fails.

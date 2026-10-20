@@ -10,13 +10,15 @@
     "factsFile": "ops/evidence/helinox-chair-one-coyote-tan-link.md",
     "evidenceFile": "ops/evidence/helinox-chair-one-coyote-tan-link.md",
     "images": [
-      "ops/queue/images/helinox-chair-one-coyote-tan/cover.png",
-      "ops/queue/images/helinox-chair-one-coyote-tan/packed.png",
-      "ops/queue/images/helinox-chair-one-coyote-tan/versions.png",
-      "ops/queue/images/helinox-chair-one-coyote-tan/check.png"
+      "ops/queue/images/helinox-chair-one-coyote-tan/helinox-hero-picnic.webp",
+      "ops/queue/images/helinox-chair-one-coyote-tan/helinox-frame-assembly.webp",
+      "ops/queue/images/helinox-chair-one-coyote-tan/helinox-mesh-back.webp",
+      "ops/queue/images/helinox-chair-one-coyote-tan/helinox-packed-sack.webp",
+      "ops/queue/images/helinox-chair-one-coyote-tan/helinox-carry-two.webp",
+      "ops/queue/images/helinox-chair-one-coyote-tan/helinox-low-seat-side.webp",
+      "ops/queue/images/helinox-chair-one-coyote-tan/helinox-feet-ground.webp"
     ],
     "imageTarget": "public/images/posts/helinox-chair-one-coyote-tan/",
-    "dryRunPassedAt": "2026-10-20T05:36:27.638Z",
     "verifyTokens": [
       "헬리녹스 체어원 캠핑의자, 코요테탄, 1개",
       "111239577 - 140376749",
@@ -34,7 +36,9 @@
         "https://helinox.com/products/chair-one-re"
       ]
     },
-    "publishNote": "Gate requires product.verifiedAt within 2 days of published; re-check option/stock (listing showed low stock, multi-seller) and refresh dates before publishing."
+    "publishNote": "Gate requires product.verifiedAt within 2 days of published; re-check option/stock (listing showed low stock, multi-seller) and refresh dates before publishing.",
+    "dryRunPassedAt": "2026-10-20T15:08:26.015Z",
+    "dryRunResult": "publish.ps1 -DryRun (trail format 2026-10-21): gate 39/39, PUBLISH OK (dry run), protected trees unchanged, sandbox removed"
   },
   {
     "slug": "nemo-switchback-regular-orange",
@@ -48,14 +52,14 @@
     "factsFile": "ops/evidence/nemo-switchback-regular-orange-link.md",
     "evidenceFile": "ops/evidence/nemo-switchback-regular-orange-link.md",
     "images": [
-      "ops/queue/images/nemo-switchback-regular-orange/cover.png",
-      "ops/queue/images/nemo-switchback-regular-orange/fold.png",
-      "ops/queue/images/nemo-switchback-regular-orange/compare.png",
-      "ops/queue/images/nemo-switchback-regular-orange/check.png"
+      "ops/queue/images/nemo-switchback-regular-orange/nemo-hero-tent-floor.webp",
+      "ops/queue/images/nemo-switchback-regular-orange/nemo-node-surface.webp",
+      "ops/queue/images/nemo-switchback-regular-orange/nemo-unfolded-length.webp",
+      "ops/queue/images/nemo-switchback-regular-orange/nemo-layered-cold.webp",
+      "ops/queue/images/nemo-switchback-regular-orange/nemo-folded-backpack.webp",
+      "ops/queue/images/nemo-switchback-regular-orange/nemo-packing-scale.webp"
     ],
     "imageTarget": "public/images/posts/nemo-switchback-regular-orange/",
-    "dryRunPassedAt": "2026-10-20T12:09:57.779Z",
-    "dryRunResult": "publish.ps1 -DryRun: gate 39/39, PUBLISH OK (dry run), protected trees unchanged, sandbox removed",
     "verifyTokens": [
       "[니모] NEMO Switchback 스위치백 발포 매트 레귤러",
       "8680568427 - 25199686161",
@@ -72,7 +76,9 @@
         "https://www.nemoequipment.com/products/switchback-ultralight-sleeping-pad"
       ]
     },
-    "publishNote": "Weight and packed size omitted (official 415 g / 51x13x14 vs listing 355g / 51x183x13). Seller-shipped single seller; re-check option/stock before publishing."
+    "publishNote": "Weight and packed size omitted (official 415 g / 51x13x14 vs listing 355g / 51x183x13). Seller-shipped single seller; re-check option/stock before publishing.",
+    "dryRunPassedAt": "2026-10-20T15:11:11.680Z",
+    "dryRunResult": "publish.ps1 -DryRun (trail format 2026-10-21): gate 39/39, PUBLISH OK (dry run), protected trees unchanged, sandbox removed"
   },
   {
     "slug": "triggerpoint-grid-1-foam-roller-black",
@@ -86,14 +92,15 @@
     "factsFile": "ops/evidence/triggerpoint-grid-1-foam-roller-black-link.md",
     "evidenceFile": "ops/evidence/triggerpoint-grid-1-foam-roller-black-link.md",
     "images": [
-      "ops/queue/images/triggerpoint-grid-1-foam-roller-black/cover.png",
-      "ops/queue/images/triggerpoint-grid-1-foam-roller-black/surface.png",
-      "ops/queue/images/triggerpoint-grid-1-foam-roller-black/length.png",
-      "ops/queue/images/triggerpoint-grid-1-foam-roller-black/check.png"
+      "ops/queue/images/triggerpoint-grid-1-foam-roller-black/grid-hero-living.webp",
+      "ops/queue/images/triggerpoint-grid-1-foam-roller-black/grid-surface-closeup.webp",
+      "ops/queue/images/triggerpoint-grid-1-foam-roller-black/grid-gym-bag.webp",
+      "ops/queue/images/triggerpoint-grid-1-foam-roller-black/grid-length-compare.webp",
+      "ops/queue/images/triggerpoint-grid-1-foam-roller-black/grid-calf-use.webp",
+      "ops/queue/images/triggerpoint-grid-1-foam-roller-black/grid-back-crosswise.webp",
+      "ops/queue/images/triggerpoint-grid-1-foam-roller-black/grid-wipe-clean.webp"
     ],
     "imageTarget": "public/images/posts/triggerpoint-grid-1-foam-roller-black/",
-    "dryRunPassedAt": "2026-10-20T12:10:19.002Z",
-    "dryRunResult": "publish.ps1 -DryRun: gate 39/39, PUBLISH OK (dry run), protected trees unchanged, sandbox removed",
     "verifyTokens": [
       "트리거포인트 그리드 1.0 폼롤러",
       "블랙 × 33 x 14 cm × 1개",
@@ -110,6 +117,8 @@
         "https://www.tptherapy.com/products/grid-1-0-foam-roller"
       ]
     },
-    "publishNote": "Load capacity omitted (official 300 lb vs KR importer 226kg); no efficacy claims. Re-check option/stock before publishing."
+    "publishNote": "Load capacity omitted (official 300 lb vs KR importer 226kg); no efficacy claims. Re-check option/stock before publishing.",
+    "dryRunPassedAt": "2026-10-20T15:09:35.417Z",
+    "dryRunResult": "publish.ps1 -DryRun (trail format 2026-10-21): gate 39/39, PUBLISH OK (dry run), protected trees unchanged, sandbox removed"
   }
 ]

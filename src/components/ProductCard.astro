@@ -1,19 +1,26 @@
 ---
 import { providerInfo, type ProviderId } from '../site.config';
+import { ymd } from '../lib/content';
 interface Props {
   product: { name: string; optionDetail: string; provider: ProviderId; url: string; verifiedAt: string; specs: { label: string; value: string }[] };
   variant: 'side' | 'inline';
+  thumb?: string;
 }
-const { product, variant } = Astro.props;
+const { product, variant, thumb } = Astro.props;
 const p = providerInfo(product.provider);
 ---
-<aside class={`product-card ${variant === 'inline' ? 'product-card--inline' : ''}`} aria-label="이 글의 상품">
-  <p class="product-card__label">CHECKED ITEM · {p.name}</p>
-  <p class="product-card__name">{product.name}</p>
-  <p class="product-card__opt">{product.optionDetail}</p>
+<aside class={`pcard pcard--${variant}`} aria-label="이 글의 상품">
+  <div class={`pcard__top ${thumb ? '' : 'pcard__top--nothumb'}`}>
+    {thumb && <img class="pcard__thumb" src={thumb} alt="" width="320" height="240" loading={variant === 'side' ? 'eager' : 'lazy'} decoding="async" />}
+    <div>
+      <p class="pcard__shop">{p.name} 제휴 링크</p>
+      <p class="pcard__name">{product.name}</p>
+      <p class="pcard__opt">옵션: {product.optionDetail}</p>
+    </div>
+  </div>
   {product.specs.length > 0 && (
-    <dl>{product.specs.slice(0, 4).map((s) => (<><dt>{s.label}</dt><dd>{s.value}</dd></>))}</dl>
+    <dl class="pcard__specs">{product.specs.slice(0, 4).map((s) => (<><dt>{s.label}</dt><dd>{s.value}</dd></>))}</dl>
   )}
-  <a class="btn-buy" href={product.url} rel="sponsored nofollow noopener" target="_blank" data-product-link={variant}>{p.name}에서 옵션 확인</a>
-  <p class="product-card__note">제휴 링크 · 링크 확인 {product.verifiedAt.slice(0, 10)} · 가격과 재고는 판매 페이지 기준</p>
+  <a class="btn" href={product.url} rel="sponsored nofollow noopener" target="_blank" data-product-link={variant}>판매 페이지에서 옵션 확인<svg viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M7 4l6 6-6 6"/></svg></a>
+  <p class="pcard__note">링크 확인 {ymd(product.verifiedAt)} · 가격·재고는 판매 페이지 기준</p>
 </aside>

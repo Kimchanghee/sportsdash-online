@@ -18,6 +18,15 @@ export function ymd(iso: string) {
   return iso.slice(0, 10);
 }
 
+/** "2026-10-20T..." -> "2026년 10월 20일" (date part as written, i.e. KST). */
+export function koDate(iso: string) {
+  const [y, m, d] = iso.slice(0, 10).split('-').map(Number);
+  return `${y}년 ${m}월 ${d}일`;
+}
+
+/** Generated/photo images (webp/jpg) are cropped to photo frames; legacy PNG diagrams are shown whole. */
+export const isPhoto = (src: string) => /\.(webp|jpe?g|avif)$/i.test(src);
+
 export function disclosureFor(post: Post) {
   return post.data.disclosure ?? providerInfo(post.data.product.provider).disclosure;
 }

@@ -33,6 +33,18 @@ export const RULES = {
   answerChars: KO ? [20, 220] : [60, 320],
   duplicateWindowDays: 30,
 };
+// Trail-guide post format (approved redesign 2026-10-21). Applies to every post that is not already
+// in the publish log (legacy live posts are exempt until they are rewritten into the format).
+export const FORMAT = {
+  minPhotos: 6,
+  maxPhotos: 9,
+  bodyNonSpaceKo: [1400, 2600],
+  questionH2: [4, 6],
+  maxFaq: 3,
+  minChecklistItems: 3,
+  photoExt: /\.(webp|jpe?g)$/i,
+  bannedCaption: /AI\s?(로|가)?\s?(만든|생성)|AI 이미지|인공지능|생성형|가상 (인물|이미지)|실제 상품 사진이 아닙니다/,
+};
 export const BANNED_FIRST_HAND = [
   /직접\s?써\s?보니/, /직접\s?사용해\s?보니/, /제가\s?(직접\s?)?(사용|써)\s?(해\s?)?보니/, /사용해\s?본\s?결과/, /써\s?본\s?결과/,
   /내돈내산/, /실사용\s?후기/, /한\s?달\s?(동안\s?)?써\s?보/, /I tested/i, /in my experience/i, /we tested/i, /hands-on review/i,
@@ -73,7 +85,7 @@ function readLog(file) {
 }
 
 // ---------- source gate ----------
-export function gateSource(file, { kind, logEntries = [], now = new Date(), knownPaths = null } = {}) {
+export function gateSource(file, { kind, logEntries = [], now = new Date(), knownPaths = null, legacy = false } = {}) {
   const errors = [];
   const warnings = [];
   const text = readFileSync(file, 'utf8');
@@ -155,6 +167,32 @@ export function gateSource(file, { kind, logEntries = [], now = new Date(), know
       if (!img.credit) e(`image credit missing: ${img.src}`);
       if (/AI로 만든|실제 상품 사진이 아닙니다|가상 인물/.test(String(img.alt))) e(`image alt contains production disclaimer: ${img.src}`);
     }
+    // trail-guide format (new posts only)
+    if (!legacy) {
+      const photos = imgs.filter((i) => FORMAT.photoExt.test(String(i?.src ?? '')));
+      const bases = imgs.map((i) => String(i?.src ?? '').split('/').pop());
+      if (photos.length < FORMAT.minPhotos) e(`format: ${photos.length} photos (.webp/.jpg) in frontmatter images < ${FORMAT.minPhotos} distinct photos`);
+      if (imgs.length > FORMAT.maxPhotos) e(`format: ${imgs.length} images > ${FORMAT.maxPhotos}`);
+      if (new Set(bases).size !== bases.length) e('format: image basenames must be unique (publisher copies by basename)');
+      for (const img of imgs) {
+        const s = String(img?.src ?? '');
+        if (!s.startsWith(`/images/posts/${fm.slug}/`)) e(`format: image src must be /images/posts/${fm.slug}/<file>: ${s}`);
+        if (!FORMAT.photoExt.test(s)) e(`format: image must be a WebP/JPEG photo, not a diagram/PNG: ${s}`);
+        if (img?.role !== 'cover' && !body.includes(`](${s}`)) e(`format: image not placed beside its paragraph in the body: ${s}`);
+        if (FORMAT.bannedCaption.test(`${img?.alt ?? ''}`)) e(`format: AI/production caption in alt: ${s}`);
+      }
+      for (const m of body.matchAll(/!\[[^\]]*\]\(([^)\s]+)(?:\s+"([^"]*)")?\)/g)) {
+        if (!imgs.some((i) => i?.src === m[1])) e(`format: body image not listed in frontmatter images: ${m[1]}`);
+        if (m[2] && FORMAT.bannedCaption.test(m[2])) e(`format: AI/production caption: ${m[2]}`);
+      }
+      if (KO && (len < FORMAT.bodyNonSpaceKo[0] || len > FORMAT.bodyNonSpaceKo[1])) e(`format: body ${len} non-space chars not in ${FORMAT.bodyNonSpaceKo.join('–')}`);
+      if (qHeads.length < FORMAT.questionH2[0] || qHeads.length > FORMAT.questionH2[1]) e(`format: ${qHeads.length} question H2 not in ${FORMAT.questionH2.join('–')}`);
+      if (!/^\|.+\|\s*\r?\n\|[\s:|-]+\|\s*$/m.test(body)) e('format: no markdown table');
+      const olItems = [...body.matchAll(/^\d+\.\s+\S/gm)].length;
+      if (olItems < FORMAT.minChecklistItems) e(`format: checklist (ordered list) has ${olItems} items < ${FORMAT.minChecklistItems}`);
+      if ((fm.faq ?? []).length > FORMAT.maxFaq) e(`format: ${fm.faq.length} FAQ > ${FORMAT.maxFaq}`);
+      if (/```|<code|<pre|font-family\s*:\s*[^;]*mono/i.test(body)) e('format: monospace/code block in body');
+    }
     // duplicates in publish log (last 30 days)
     const windowStart = now.getTime() - RULES.duplicateWindowDays * 864e5;
     for (const row of logEntries) {
@@ -217,6 +255,11 @@ export function gatePage(file, dist, { sitemapLocs, entries }) {
   const internal = [...main.matchAll(/<a\s[^>]*href="(\/[^"]*)"/g)].length;
   if (internal < RULES.minInternalLinksPage) e(`internal links in <main> ${internal} < ${RULES.minInternalLinksPage}`);
   if (!sitemapLocs.has(expected)) e('not in sitemap');
+  if (process.env.PUBLIC_ADS_ENABLED !== 'true') {
+    if (/class="ad-slot"/.test(html)) e('ad slot rendered while ads are disabled');
+    if (/adsbygoogle\.js/.test(html)) e('AdSense loader present while ads are disabled');
+  }
+  if (/monospace|ui-monospace|Consolas/i.test(html)) e('monospace font referenced in page');
   for (const re of PLACEHOLDER) if (re.test(visible)) e(`placeholder text ${re}`);
 
   // content pages
@@ -327,7 +370,7 @@ if (isMain) {
     const rowsForOthers = x.kind === 'post' && publishedSlugs.has(x.fm?.slug) && x.fm?.slug !== slug
       ? logEntries.filter((r) => r.slug !== x.fm.slug) // already-live post: do not flag itself as duplicate
       : logEntries;
-    results.push(gateSource(x.file, { kind: x.kind, logEntries: rowsForOthers, now, knownPaths }));
+    results.push(gateSource(x.file, { kind: x.kind, logEntries: rowsForOthers, now, knownPaths, legacy: x.kind === 'post' && publishedSlugs.has(x.fm?.slug) && !x.fm?.format }));
   }
   if (slug && !entries.some((x) => x.fm?.slug === slug)) { console.error(`slug ${slug} not found in src/content/posts`); process.exit(2); }
   const dist = join(root, 'dist');
