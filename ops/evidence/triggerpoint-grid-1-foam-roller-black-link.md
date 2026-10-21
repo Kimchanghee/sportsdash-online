@@ -70,3 +70,13 @@
 - Load capacity: official 300 lb vs Korean importer/spofl 226kg -> omitted.
 - Weight: not on official page (810g only in a blog) -> omitted.
 - All efficacy wording on official page (circulation, recovery, mobility) -> not used.
+
+## Re-check 2026-10-21 (routine 3CJqbDbHnE7Owmp9, logged-in Aside browser)
+
+- checkedAt: 2026-10-21T13:14:16+09:00
+- ordinary listing: https://www.coupang.com/vp/products/37851417?itemId=139701034&vendorItemId=3299574201
+- page title: 트리거포인트 그리드 1.0 폼롤러 - 등/허리 | 쿠팡
+- verifyTokens all present: 트리거포인트 그리드 1.0 폼롤러 / 블랙 × 33 x 14 cm × 1개 / 37851417 - 139701034
+- not sold out (no 품절/판매종료 text); no access denial
+- screenshot: ops/evidence/triggerpoint-grid-1-foam-roller-black-recheck-2026-10-21.png ; text: ops/evidence/triggerpoint-grid-1-foam-roller-black-recheck-2026-10-21.txt
+- own Partners link not opened.

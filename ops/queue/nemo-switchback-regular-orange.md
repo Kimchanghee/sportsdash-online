@@ -14,7 +14,7 @@ product:
   provider: coupang
   url: "https://link.coupang.com/a/h0f8FYJRts"
   landingHost: "www.coupang.com"
-  verifiedAt: "2026-10-20T20:59:30+09:00"
+  verifiedAt: "2026-10-21T13:12:12+09:00"
   evidence: "ops/evidence/nemo-switchback-regular-orange-link.md"
   specs:
     - { label: "펼친 크기", value: "183 × 51cm (제조사·판매 페이지 동일)" }

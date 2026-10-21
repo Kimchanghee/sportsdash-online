@@ -6,7 +6,7 @@
     "sourceURL": "https://www.coupang.com/vp/products/8680568427?itemId=25199686161&vendorItemId=92196293763",
     "issuedURI": "https://link.coupang.com/a/h0f8FYJRts",
     "linkIssuedAt": "2026-10-20T11:59:57.464Z",
-    "productCheckedAt": "2026-10-20T11:59:30.007Z",
+    "productCheckedAt": "2026-10-21T04:12:12.000Z",
     "manuscript": "ops/queue/nemo-switchback-regular-orange.md",
     "factsFile": "ops/evidence/nemo-switchback-regular-orange-link.md",
     "evidenceFile": "ops/evidence/nemo-switchback-regular-orange-link.md",
@@ -37,7 +37,12 @@
     },
     "publishNote": "Weight and packed size omitted (official 415 g / 51x13x14 vs listing 355g / 51x183x13). Seller-shipped single seller; re-check option/stock before publishing.",
     "dryRunPassedAt": "2026-10-20T15:11:11.680Z",
-    "dryRunResult": "publish.ps1 -DryRun (trail format 2026-10-21): gate 39/39, PUBLISH OK (dry run), protected trees unchanged, sandbox removed"
+    "dryRunResult": "publish.ps1 -DryRun (trail format 2026-10-21): gate 39/39, PUBLISH OK (dry run), protected trees unchanged, sandbox removed",
+    "lastRecheck": {
+      "at": "2026-10-21T13:12:12+09:00",
+      "result": "ok",
+      "evidence": "ops/evidence/nemo-switchback-regular-orange-recheck-2026-10-21.png/.txt"
+    }
   },
   {
     "slug": "triggerpoint-grid-1-foam-roller-black",
@@ -46,7 +51,7 @@
     "sourceURL": "https://www.coupang.com/vp/products/37851417?itemId=139701034&vendorItemId=3299574201",
     "issuedURI": "https://link.coupang.com/a/h0gf10zU6K",
     "linkIssuedAt": "2026-10-20T12:01:37.038Z",
-    "productCheckedAt": "2026-10-20T12:01:05.006Z",
+    "productCheckedAt": "2026-10-21T04:14:16.000Z",
     "manuscript": "ops/queue/triggerpoint-grid-1-foam-roller-black.md",
     "factsFile": "ops/evidence/triggerpoint-grid-1-foam-roller-black-link.md",
     "evidenceFile": "ops/evidence/triggerpoint-grid-1-foam-roller-black-link.md",
@@ -78,6 +83,11 @@
     },
     "publishNote": "Load capacity omitted (official 300 lb vs KR importer 226kg); no efficacy claims. Re-check option/stock before publishing.",
     "dryRunPassedAt": "2026-10-20T15:09:35.417Z",
-    "dryRunResult": "publish.ps1 -DryRun (trail format 2026-10-21): gate 39/39, PUBLISH OK (dry run), protected trees unchanged, sandbox removed"
+    "dryRunResult": "publish.ps1 -DryRun (trail format 2026-10-21): gate 39/39, PUBLISH OK (dry run), protected trees unchanged, sandbox removed",
+    "lastRecheck": {
+      "at": "2026-10-21T13:14:16+09:00",
+      "result": "ok",
+      "evidence": "ops/evidence/triggerpoint-grid-1-foam-roller-black-recheck-2026-10-21.png/.txt"
+    }
   }
 ]

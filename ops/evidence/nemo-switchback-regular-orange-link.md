@@ -65,3 +65,13 @@
 ## Omitted (sources disagree)
 - Weight: official Minimum/Packed Weight 415 g vs listing 필수 표기 355g -> omitted.
 - Packed size: official 51 x 13 x 14 cm vs listing "51x183x13cm" (ambiguous/different) -> omitted.
+
+## Re-check 2026-10-21 (routine 3CJqbDbHnE7Owmp9, logged-in Aside browser)
+
+- checkedAt: 2026-10-21T13:12:12+09:00
+- ordinary listing: https://www.coupang.com/vp/products/8680568427?itemId=25199686161&vendorItemId=92196293763
+- page title: [니모] NEMO Switchback 스위치백 발포 매트 레귤러 - 차박매트 | 쿠팡
+- verifyTokens all present: [니모] NEMO Switchback 스위치백 발포 매트 레귤러 / 8680568427 - 25199686161 / 오렌지
+- not sold out (no 품절/판매종료 text); no access denial
+- screenshot: ops/evidence/nemo-switchback-regular-orange-recheck-2026-10-21.png ; text: ops/evidence/nemo-switchback-regular-orange-recheck-2026-10-21.txt
+- own Partners link not opened.
