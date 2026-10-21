@@ -1,46 +1,5 @@
 [
   {
-    "slug": "helinox-chair-one-coyote-tan",
-    "productName": "헬리녹스 체어원 캠핑의자",
-    "option": "코요테탄 × 1개",
-    "sourceURL": "https://www.coupang.com/vp/products/111239577?itemId=140376749&vendorItemId=95951747933",
-    "issuedURI": "https://link.coupang.com/a/hZOnFrzo6u",
-    "linkIssuedAt": "2026-10-20T05:31:32.817Z",
-    "manuscript": "ops/queue/helinox-chair-one-coyote-tan.md",
-    "factsFile": "ops/evidence/helinox-chair-one-coyote-tan-link.md",
-    "evidenceFile": "ops/evidence/helinox-chair-one-coyote-tan-link.md",
-    "images": [
-      "ops/queue/images/helinox-chair-one-coyote-tan/helinox-hero-picnic.webp",
-      "ops/queue/images/helinox-chair-one-coyote-tan/helinox-frame-assembly.webp",
-      "ops/queue/images/helinox-chair-one-coyote-tan/helinox-mesh-back.webp",
-      "ops/queue/images/helinox-chair-one-coyote-tan/helinox-packed-sack.webp",
-      "ops/queue/images/helinox-chair-one-coyote-tan/helinox-carry-two.webp",
-      "ops/queue/images/helinox-chair-one-coyote-tan/helinox-low-seat-side.webp",
-      "ops/queue/images/helinox-chair-one-coyote-tan/helinox-feet-ground.webp"
-    ],
-    "imageTarget": "public/images/posts/helinox-chair-one-coyote-tan/",
-    "verifyTokens": [
-      "헬리녹스 체어원 캠핑의자, 코요테탄, 1개",
-      "111239577 - 140376749",
-      "최대무게: 145kg"
-    ],
-    "research": {
-      "serp": "Naver blog SERP \"헬리녹스 체어원 무게 내하중\" 2026-10-20",
-      "originals": [
-        "https://m.blog.naver.com/bbaaee9/224431266236",
-        "https://m.blog.naver.com/curtis0727/224446576634",
-        "https://m.blog.naver.com/lifemanual365/224386688357"
-      ],
-      "officialFacts": [
-        "https://helinox.com/products/chair-one",
-        "https://helinox.com/products/chair-one-re"
-      ]
-    },
-    "publishNote": "Gate requires product.verifiedAt within 2 days of published; re-check option/stock (listing showed low stock, multi-seller) and refresh dates before publishing.",
-    "dryRunPassedAt": "2026-10-20T15:08:26.015Z",
-    "dryRunResult": "publish.ps1 -DryRun (trail format 2026-10-21): gate 39/39, PUBLISH OK (dry run), protected trees unchanged, sandbox removed"
-  },
-  {
     "slug": "nemo-switchback-regular-orange",
     "productName": "[니모] NEMO Switchback 스위치백 발포 매트 레귤러",
     "option": "오렌지 × 1개",
