@@ -92,5 +92,47 @@
       "result": "ok",
       "evidence": "ops/evidence/helinox-table-one-hard-top-black-recheck-2026-10-22.png/.txt"
     }
+  },
+  {
+    "slug": "black-diamond-distance-carbon-flz-desert-sky-110",
+    "productName": "블랙다이아몬드 디스턴스 카본 FLZ 폴 세트 BD112555",
+    "option": "Desert Sky × 110 × 1세트",
+    "sourceURL": "https://www.coupang.com/vp/products/8640194243?itemId=25073378663&vendorItemId=92077407569",
+    "issuedURI": "https://link.coupang.com/a/h234y5bGNg",
+    "linkIssuedAt": "2026-10-22T04:33:57.418Z",
+    "productCheckedAt": "2026-10-22T04:31:47.562Z",
+    "manuscript": "ops/queue/black-diamond-distance-carbon-flz-desert-sky-110.md",
+    "factsFile": "ops/evidence/black-diamond-distance-carbon-flz-desert-sky-110-link.md",
+    "evidenceFile": "ops/evidence/black-diamond-distance-carbon-flz-desert-sky-110-link.md",
+    "images": [
+      "ops/queue/images/black-diamond-distance-carbon-flz-desert-sky-110/poles-hero-ridge.webp",
+      "ops/queue/images/black-diamond-distance-carbon-flz-desert-sky-110/poles-folded-deck.webp",
+      "ops/queue/images/black-diamond-distance-carbon-flz-desert-sky-110/poles-flicklock-adjust.webp",
+      "ops/queue/images/black-diamond-distance-carbon-flz-desert-sky-110/poles-grip-strap.webp",
+      "ops/queue/images/black-diamond-distance-carbon-flz-desert-sky-110/poles-stone-steps.webp",
+      "ops/queue/images/black-diamond-distance-carbon-flz-desert-sky-110/poles-tip-basket.webp",
+      "ops/queue/images/black-diamond-distance-carbon-flz-desert-sky-110/poles-pack-side.webp"
+    ],
+    "imageTarget": "public/images/posts/black-diamond-distance-carbon-flz-desert-sky-110/",
+    "verifyTokens": [
+      "블랙다이아몬드 디스턴스 카본 FLZ 폴 세트 BD112555",
+      "Desert Sky × 110 × 1세트",
+      "8640194243 - 25073378663"
+    ],
+    "research": {
+      "serp": "Google \"블랙다이아몬드 디스턴스 카본 FLZ 사이즈 길이\" + Naver blog \"디스턴스 카본 FLZ 사이즈\" 2026-10-22",
+      "originals": [
+        "https://m.blog.naver.com/sos-mall/224377128321",
+        "https://m.blog.naver.com/mildmindme/223349957044",
+        "https://m.blog.naver.com/tank51882/223102162796"
+      ],
+      "officialFacts": [
+        "https://blackdiamondequipment.com/products/distance-carbon-flz-poles",
+        "https://blackdiamondequipment.co.kr/goods/view?no=9543"
+      ]
+    },
+    "publishNote": "Rocket (seller 쿠팡), 7 gpt-image WebP from official BD Desert Sky refs (deploy-z cut excluded: wrong joint topology). Listing 중량 154g has no unit basis -> article uses official pair 308g. Retailer height-to-size table omitted (range naming differs from official). Same product page has other sizes/colours and 8 other sellers -> option token must match. Re-check option/stock before publishing.",
+    "dryRunPassedAt": "2026-10-22T04:49:31.000Z",
+    "dryRunResult": "publish.ps1 -DryRun (trail format 2026-10-21): gate 43/43, PUBLISH OK (dry run), protected trees unchanged, sandbox removed (first attempt timed out in sandbox spawn at 180s; rerun passed in 35s)"
   }
 ]
