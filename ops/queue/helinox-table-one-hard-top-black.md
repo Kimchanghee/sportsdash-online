@@ -14,7 +14,7 @@ product:
   provider: coupang
   url: "https://link.coupang.com/a/h1oPReJII0"
   landingHost: "www.coupang.com"
-  verifiedAt: "2026-10-21T13:27:54+09:00"
+  verifiedAt: "2026-10-22T13:12:32+09:00"
   evidence: "ops/evidence/helinox-table-one-hard-top-black-link.md"
   specs:
     - { label: "허용 하중", value: "50kg (제조사·판매 페이지 동일)" }

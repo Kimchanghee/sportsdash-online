@@ -14,7 +14,7 @@ product:
   provider: coupang
   url: "https://link.coupang.com/a/h0gf10zU6K"
   landingHost: "www.coupang.com"
-  verifiedAt: "2026-10-21T13:14:16+09:00"
+  verifiedAt: "2026-10-22T13:06:24+09:00"
   evidence: "ops/evidence/triggerpoint-grid-1-foam-roller-black-link.md"
   specs:
     - { label: "길이", value: "33cm, 13인치 (제조사·판매 페이지 동일)" }

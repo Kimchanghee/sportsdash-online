@@ -80,3 +80,13 @@
 - not sold out (no 품절/판매종료 text); no access denial
 - screenshot: ops/evidence/triggerpoint-grid-1-foam-roller-black-recheck-2026-10-21.png ; text: ops/evidence/triggerpoint-grid-1-foam-roller-black-recheck-2026-10-21.txt
 - own Partners link not opened.
+
+## Re-check 2026-10-22 (sportsdash routine, logged-in Aside browser, Coupang pacing acquire.mjs)
+
+- checkedAt: 2026-10-22T13:06:24+09:00
+- ordinary listing: https://www.coupang.com/vp/products/37851417?itemId=139701034&vendorItemId=3299574201
+- page title: 트리거포인트 그리드 1.0 폼롤러 - 등/허리 | 쿠팡
+- verifyTokens all present in product main area (title/option/buy-button block, before recommendations): 트리거포인트 그리드 1.0 폼롤러 / 블랙 × 33 x 14 cm × 1개 / 37851417 - 139701034
+- not sold out (SOLD_OUT regex from shop-publisher lib.mjs: no match in main area or full page); 장바구니 담기/바로구매 present; no access denial
+- screenshot: ops/evidence/triggerpoint-grid-1-foam-roller-black-recheck-2026-10-22.png ; text: ops/evidence/triggerpoint-grid-1-foam-roller-black-recheck-2026-10-22.txt
+- own Partners link not opened.

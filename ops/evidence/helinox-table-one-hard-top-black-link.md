@@ -49,3 +49,14 @@ Official sources read 2026-10-21:
 - Packed width/height: global 12 x 12.5 cm vs Korean retailer copy 11cm -> omitted (packed length 41cm agrees).
 - Top material: listing "상판소재 : 알루미늄" vs official polyester with inner polycarbonate sheet -> listing value not used.
 - Version: Korean official page sells the "2026 Ver."; listing states 제조일자 2023.01.17 -> article tells buyers to check the version/case design with the seller; no 2026-specific feature claimed.
+
+## Re-check 2026-10-22 (sportsdash routine, logged-in Aside browser, Coupang pacing acquire.mjs)
+
+- checkedAt: 2026-10-22T13:12:32+09:00
+- ordinary listing: https://www.coupang.com/vp/products/7786090852?itemId=21053791063&vendorItemId=88116253660
+- page title: 헬리녹스 테이블원 하드탑 블랙, 하드탑블랙, 1개 - 기타생활잡화 | 쿠팡
+- verifyTokens all present in product main area (title/option/buy-button block, before recommendations): 헬리녹스 테이블원 하드탑 블랙, 하드탑블랙, 1개 / 7786090852 - 21053791063 / 하드탑블랙 × 1개
+- not sold out (SOLD_OUT regex from shop-publisher lib.mjs: no match in main area or full page); 장바구니 담기/바로구매 present; no access denial
+- listing detail text still shows "제조일자 : 2023.01.17." (unchanged since 2026-10-21; manuscript already tells buyers to check version with seller). Seller 레디하우스, 무료배송.
+- screenshot: ops/evidence/helinox-table-one-hard-top-black-recheck-2026-10-22.png ; text: ops/evidence/helinox-table-one-hard-top-black-recheck-2026-10-22.txt
+- own Partners link not opened.
