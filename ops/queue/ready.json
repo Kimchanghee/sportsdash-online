@@ -1,51 +1,5 @@
 [
   {
-    "slug": "triggerpoint-grid-1-foam-roller-black",
-    "productName": "트리거포인트 그리드 1.0 폼롤러",
-    "option": "블랙 × 33 x 14 cm × 1개",
-    "sourceURL": "https://www.coupang.com/vp/products/37851417?itemId=139701034&vendorItemId=3299574201",
-    "issuedURI": "https://link.coupang.com/a/h0gf10zU6K",
-    "linkIssuedAt": "2026-10-20T12:01:37.038Z",
-    "productCheckedAt": "2026-10-22T04:06:24.609Z",
-    "manuscript": "ops/queue/triggerpoint-grid-1-foam-roller-black.md",
-    "factsFile": "ops/evidence/triggerpoint-grid-1-foam-roller-black-link.md",
-    "evidenceFile": "ops/evidence/triggerpoint-grid-1-foam-roller-black-link.md",
-    "images": [
-      "ops/queue/images/triggerpoint-grid-1-foam-roller-black/grid-hero-living.webp",
-      "ops/queue/images/triggerpoint-grid-1-foam-roller-black/grid-surface-closeup.webp",
-      "ops/queue/images/triggerpoint-grid-1-foam-roller-black/grid-gym-bag.webp",
-      "ops/queue/images/triggerpoint-grid-1-foam-roller-black/grid-length-compare.webp",
-      "ops/queue/images/triggerpoint-grid-1-foam-roller-black/grid-calf-use.webp",
-      "ops/queue/images/triggerpoint-grid-1-foam-roller-black/grid-back-crosswise.webp",
-      "ops/queue/images/triggerpoint-grid-1-foam-roller-black/grid-wipe-clean.webp"
-    ],
-    "imageTarget": "public/images/posts/triggerpoint-grid-1-foam-roller-black/",
-    "verifyTokens": [
-      "트리거포인트 그리드 1.0 폼롤러",
-      "블랙 × 33 x 14 cm × 1개",
-      "37851417 - 139701034"
-    ],
-    "research": {
-      "serp": "Google \"트리거포인트 그리드 1.0 폼롤러 33cm 사용법 후기\" + Naver blog \"트리거포인트 그리드 폼롤러 1.0\" 2026-10-20",
-      "originals": [
-        "https://m.blog.naver.com/syh418/221647228630",
-        "https://mall.spofl.co.kr/brand/triggerpoint/magazine/45",
-        "https://m.blog.naver.com/damececil/221503959386"
-      ],
-      "officialFacts": [
-        "https://www.tptherapy.com/products/grid-1-0-foam-roller"
-      ]
-    },
-    "publishNote": "Load capacity omitted (official 300 lb vs KR importer 226kg); no efficacy claims. Re-check option/stock before publishing.",
-    "dryRunPassedAt": "2026-10-20T15:09:35.417Z",
-    "dryRunResult": "publish.ps1 -DryRun (trail format 2026-10-21): gate 39/39, PUBLISH OK (dry run), protected trees unchanged, sandbox removed",
-    "lastRecheck": {
-      "at": "2026-10-22T13:06:24+09:00",
-      "result": "ok",
-      "evidence": "ops/evidence/triggerpoint-grid-1-foam-roller-black-recheck-2026-10-22.png/.txt"
-    }
-  },
-  {
     "slug": "helinox-table-one-hard-top-black",
     "productName": "헬리녹스 테이블원 하드탑 블랙, 하드탑블랙, 1개",
     "option": "하드탑블랙 × 1개",
