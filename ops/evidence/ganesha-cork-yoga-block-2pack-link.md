@@ -51,3 +51,14 @@ Manufacturer page read 2026-10-22: https://ganeshayogaprops.com/153?idx=149 ("[�
 - not sold out (SOLD_OUT regex no match in main area or full page); 장바구니 담기/바로구매 present; no access denial
 - screenshot attempt failed again (CDP capture timeout); text saved to ops/evidence/ganesha-cork-yoga-block-2pack-native.txt
 - own Partners link not opened.
+
+## Re-check 2026-10-24 (sportsdash routine, logged-in Aside browser, Coupang pacing acquire.mjs)
+
+- checkedAt: 2026-10-24T10:58:09+09:00 (acquire.mjs GO 01:58:03Z)
+- ordinary listing: https://www.coupang.com/vp/products/2299429443?itemId=29197875085&vendorItemId=96118379660
+- page title: 가네샤요가프랍스 가네샤 요가 블럭 - 요가블록 | 쿠팡
+- verifyTokens all present in product main area (title/option/buy-button block, before recommendations): 가네샤요가프랍스 가네샤 요가 블럭 / Cork × 14 x 22.8 cm × 2개 / 2299429443 - 29197875085
+- not sold out (SOLD_OUT regex from shop-publisher lib.mjs: no match in main area or full page); 장바구니 담기/바로구매 present; no access denial
+- Rocket listing (새벽도착/무료배송), coupon shown. Selected option Cork × 14 x 22.8 cm × 2개; attributes still list 색상계열: 그레이계열 (manuscript already tells buyer to check). GTIN 842515114991. Native screenshot captured this time (was missing on 2026-10-22).
+- screenshot: ops/evidence/ganesha-cork-yoga-block-2pack-recheck-2026-10-24.png ; text: ops/evidence/ganesha-cork-yoga-block-2pack-recheck-2026-10-24.txt
+- own Partners link not opened.

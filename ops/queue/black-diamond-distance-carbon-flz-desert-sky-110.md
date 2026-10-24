@@ -14,7 +14,7 @@ product:
   provider: coupang
   url: "https://link.coupang.com/a/h234y5bGNg"
   landingHost: "www.coupang.com"
-  verifiedAt: "2026-10-22T13:31:47+09:00"
+  verifiedAt: "2026-10-24T10:51:54+09:00"
   evidence: "ops/evidence/black-diamond-distance-carbon-flz-desert-sky-110-link.md"
   specs:
     - { label: "사용 길이", value: "95~110cm (제조사, 판매 페이지 최장 110cm)" }

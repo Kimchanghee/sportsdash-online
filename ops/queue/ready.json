@@ -6,7 +6,7 @@
     "sourceURL": "https://www.coupang.com/vp/products/8640194243?itemId=25073378663&vendorItemId=92077407569",
     "issuedURI": "https://link.coupang.com/a/h234y5bGNg",
     "linkIssuedAt": "2026-10-22T04:33:57.418Z",
-    "productCheckedAt": "2026-10-22T04:31:47.562Z",
+    "productCheckedAt": "2026-10-24T01:51:54.400Z",
     "manuscript": "ops/queue/black-diamond-distance-carbon-flz-desert-sky-110.md",
     "factsFile": "ops/evidence/black-diamond-distance-carbon-flz-desert-sky-110-link.md",
     "evidenceFile": "ops/evidence/black-diamond-distance-carbon-flz-desert-sky-110-link.md",
@@ -39,7 +39,12 @@
     },
     "publishNote": "Rocket (seller 쿠팡), 7 gpt-image WebP from official BD Desert Sky refs (deploy-z cut excluded: wrong joint topology). Listing 중량 154g has no unit basis -> article uses official pair 308g. Retailer height-to-size table omitted (range naming differs from official). Same product page has other sizes/colours and 8 other sellers -> option token must match. Re-check option/stock before publishing.",
     "dryRunPassedAt": "2026-10-22T04:49:31.000Z",
-    "dryRunResult": "publish.ps1 -DryRun (trail format 2026-10-21): gate 43/43, PUBLISH OK (dry run), protected trees unchanged, sandbox removed (first attempt timed out in sandbox spawn at 180s; rerun passed in 35s)"
+    "dryRunResult": "publish.ps1 -DryRun (trail format 2026-10-21): gate 43/43, PUBLISH OK (dry run), protected trees unchanged, sandbox removed (first attempt timed out in sandbox spawn at 180s; rerun passed in 35s)",
+    "lastRecheck": {
+      "at": "2026-10-24T10:51:54+09:00",
+      "result": "ok",
+      "evidence": "ops/evidence/black-diamond-distance-carbon-flz-desert-sky-110-recheck-2026-10-24.png/.txt"
+    }
   },
   {
     "slug": "ganesha-cork-yoga-block-2pack",
@@ -48,7 +53,7 @@
     "sourceURL": "https://www.coupang.com/vp/products/2299429443?itemId=29197875085&vendorItemId=96118379660",
     "issuedURI": "https://link.coupang.com/a/h25DU1hxgy",
     "linkIssuedAt": "2026-10-22T04:55:55.951Z",
-    "productCheckedAt": "2026-10-22T05:02:03.485Z",
+    "productCheckedAt": "2026-10-24T01:58:09.209Z",
     "manuscript": "ops/queue/ganesha-cork-yoga-block-2pack.md",
     "factsFile": "ops/evidence/ganesha-cork-yoga-block-2pack-link.md",
     "evidenceFile": "ops/evidence/ganesha-cork-yoga-block-2pack-link.md",
@@ -82,6 +87,11 @@
     },
     "publishNote": "Rocket listing; same page also has a 1개 option -> token must be the 2개 option. Listing attributes show 그레이계열/혼합색상 while option is Cork (article tells buyer to check). Native screenshot NOT captured (CDP screenshot timeout x3); text evidence only. 8 gpt-image WebP from manufacturer refs, all PASS. Re-check option/stock before publishing.",
     "dryRunPassedAt": "2026-10-22T05:03:12.000Z",
-    "dryRunResult": "publish.ps1 -DryRun (trail format 2026-10-21): gate 43/43, PUBLISH OK (dry run), protected trees unchanged, sandbox removed"
+    "dryRunResult": "publish.ps1 -DryRun (trail format 2026-10-21): gate 43/43, PUBLISH OK (dry run), protected trees unchanged, sandbox removed",
+    "lastRecheck": {
+      "at": "2026-10-24T10:58:09+09:00",
+      "result": "ok",
+      "evidence": "ops/evidence/ganesha-cork-yoga-block-2pack-recheck-2026-10-24.png/.txt"
+    }
   }
 ]

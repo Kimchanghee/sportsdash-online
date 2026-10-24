@@ -14,7 +14,7 @@ product:
   provider: coupang
   url: "https://link.coupang.com/a/h25DU1hxgy"
   landingHost: "www.coupang.com"
-  verifiedAt: "2026-10-22T14:02:03+09:00"
+  verifiedAt: "2026-10-24T10:58:09+09:00"
   evidence: "ops/evidence/ganesha-cork-yoga-block-2pack-link.md"
   specs:
     - { label: "크기", value: "14 × 22.8 × 8.5cm (제조사, 판매 페이지 14 x 22.8 cm)" }

@@ -45,3 +45,14 @@ Official source read 2026-10-22: https://blackdiamondequipment.com/products/dist
 - Height-to-size mapping (retailer blog: 95–110 for 154–167cm, "105–125" model naming) — not an official table and the range name differs from official 110–125 -> not used; article uses the elbow-90° measuring method only, as general advice.
 - Load/strength, shock absorption, durability vs aluminium -> no official numbers -> not claimed.
 - Included accessories (case, snow basket) -> mentioned only in blogs, not on listing/official spec -> told buyer to check package contents.
+
+## Re-check 2026-10-24 (sportsdash routine, logged-in Aside browser, Coupang pacing acquire.mjs)
+
+- checkedAt: 2026-10-24T10:51:54+09:00 (acquire.mjs GO 01:51:46Z)
+- ordinary listing: https://www.coupang.com/vp/products/8640194243?itemId=25073378663&vendorItemId=92077407569
+- page title: 블랙다이아몬드 디스턴스 카본 FLZ 폴 세트 BD112555 - 등산스틱 | 쿠팡
+- verifyTokens all present in product main area (title/option/buy-button block, before recommendations): 블랙다이아몬드 디스턴스 카본 FLZ 폴 세트 BD112555 / Desert Sky × 110 × 1세트 / 8640194243 - 25073378663
+- not sold out (SOLD_OUT regex from shop-publisher lib.mjs: no match in main area or full page); 장바구니 담기/바로구매 present; no access denial
+- Rocket listing (새벽도착/무료배송), 다른 판매자 보기(8). Header badge "품절임박•9개" (low-stock notice, not sold out; SOLD_OUT regex does not match). Listing attributes unchanged: 3단 / 최장 110cm / 최단 34cm / 중량 154g / 카본. Selected option Desert Sky × 110 × 1세트.
+- screenshot: ops/evidence/black-diamond-distance-carbon-flz-desert-sky-110-recheck-2026-10-24.png ; text: ops/evidence/black-diamond-distance-carbon-flz-desert-sky-110-recheck-2026-10-24.txt
+- own Partners link not opened.
