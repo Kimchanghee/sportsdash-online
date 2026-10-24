@@ -14,7 +14,7 @@ product:
   provider: coupang
   url: "https://link.coupang.com/a/h6d9Z4PQ0O"
   landingHost: "www.coupang.com"
-  verifiedAt: "2026-10-24T11:17:29+09:00"
+  verifiedAt: "2026-10-24T13:03:04+09:00"
   evidence: "ops/evidence/kovea-escape-cookset-1-2p-link.md"
   specs:
     - { label: "구성", value: "포트 1L·0.6L와 뚜껑, 구성품 4개 (판매 페이지)" }

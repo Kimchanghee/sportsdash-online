@@ -33,3 +33,11 @@
 - 재질 "알루미늄/양은" (listing attribute) vs 알루미늄 (필수 표기, official) -> 양은 not used.
 - 사용인원 "1인용" (attribute) vs "1~2" (product name 필수 표기) -> explained in FAQ, no single figure asserted.
 - Per-piece weights, gas canister fit, nonstick coating -> no official statement -> not claimed (article says no nonstick claim exists).
+
+
+## 2026-10-24 13:00 KST routine recheck
+- Observed: 2026-10-24T13:03:04.222+09:00
+- Exact source URL: https://www.coupang.com/vp/products/351146?itemId=862166&vendorItemId=3000727018
+- All verifyTokens matched; selected option purchase controls present. No affiliate link opened.
+- Text: ops/queue/evidence/kovea-escape-cookset-1-2p-recheck-20261024-1300.txt
+- Screenshot: ops/queue/evidence/kovea-escape-cookset-1-2p-recheck-20261024-1300.webp

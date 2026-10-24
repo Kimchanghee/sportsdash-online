@@ -56,3 +56,11 @@ Official source read 2026-10-22: https://blackdiamondequipment.com/products/dist
 - Rocket listing (새벽도착/무료배송), 다른 판매자 보기(8). Header badge "품절임박•9개" (low-stock notice, not sold out; SOLD_OUT regex does not match). Listing attributes unchanged: 3단 / 최장 110cm / 최단 34cm / 중량 154g / 카본. Selected option Desert Sky × 110 × 1세트.
 - screenshot: ops/evidence/black-diamond-distance-carbon-flz-desert-sky-110-recheck-2026-10-24.png ; text: ops/evidence/black-diamond-distance-carbon-flz-desert-sky-110-recheck-2026-10-24.txt
 - own Partners link not opened.
+
+
+## 2026-10-24 13:00 KST routine recheck
+- Observed: 2026-10-24T13:02:36.616+09:00
+- Exact source URL: https://www.coupang.com/vp/products/8640194243?itemId=25073378663&vendorItemId=92077407569
+- All verifyTokens matched; selected option purchase controls present. No affiliate link opened.
+- Text: ops/queue/evidence/black-diamond-distance-carbon-flz-desert-sky-110-recheck-20261024-1300.txt
+- Screenshot: ops/queue/evidence/black-diamond-distance-carbon-flz-desert-sky-110-recheck-20261024-1300.webp

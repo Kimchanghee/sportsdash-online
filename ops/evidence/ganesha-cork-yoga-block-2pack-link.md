@@ -62,3 +62,11 @@ Manufacturer page read 2026-10-22: https://ganeshayogaprops.com/153?idx=149 ("[�
 - Rocket listing (새벽도착/무료배송), coupon shown. Selected option Cork × 14 x 22.8 cm × 2개; attributes still list 색상계열: 그레이계열 (manuscript already tells buyer to check). GTIN 842515114991. Native screenshot captured this time (was missing on 2026-10-22).
 - screenshot: ops/evidence/ganesha-cork-yoga-block-2pack-recheck-2026-10-24.png ; text: ops/evidence/ganesha-cork-yoga-block-2pack-recheck-2026-10-24.txt
 - own Partners link not opened.
+
+
+## 2026-10-24 13:00 KST routine recheck
+- Observed: 2026-10-24T13:02:43.943+09:00
+- Exact source URL: https://www.coupang.com/vp/products/2299429443?itemId=29197875085&vendorItemId=96118379660
+- All verifyTokens matched; selected option purchase controls present. No affiliate link opened.
+- Text: ops/queue/evidence/ganesha-cork-yoga-block-2pack-recheck-20261024-1300.txt
+- Screenshot: ops/queue/evidence/ganesha-cork-yoga-block-2pack-recheck-20261024-1300.webp

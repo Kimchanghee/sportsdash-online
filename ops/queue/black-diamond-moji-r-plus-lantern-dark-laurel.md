@@ -14,7 +14,7 @@ product:
   provider: coupang
   url: "https://link.coupang.com/a/h6dQ85sS04"
   landingHost: "www.coupang.com"
-  verifiedAt: "2026-10-24T11:14:34+09:00"
+  verifiedAt: "2026-10-24T13:02:57+09:00"
   evidence: "ops/evidence/black-diamond-moji-r-plus-lantern-dark-laurel-link.md"
   specs:
     - { label: "배터리", value: "1500mAh 리튬이온 내장, 마이크로 USB 충전 (제조사)" }

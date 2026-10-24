@@ -40,3 +40,11 @@ Official source read 2026-10-24: https://blackdiamondequipment.com/products/moji
 - Lumens: official spec table and description say 200 lm, the official feature list says "150 lumens of white LED" -> conflicting inside the official page, number not used.
 - Burn time from retailer/blog copy (200 lm 5 h / 10 lm 100 h) differs from official 5.5 h / 16 h -> only official values used, labelled as manufacturer values.
 - Size: no official dimension; listing gives none -> not claimed.
+
+
+## 2026-10-24 13:00 KST routine recheck
+- Observed: 2026-10-24T13:02:57.403+09:00
+- Exact source URL: https://www.coupang.com/vp/products/7571671847?itemId=22393462909&vendorItemId=89438399165
+- All verifyTokens matched; selected option purchase controls present. No affiliate link opened.
+- Text: ops/queue/evidence/black-diamond-moji-r-plus-lantern-dark-laurel-recheck-20261024-1300.txt
+- Screenshot: ops/queue/evidence/black-diamond-moji-r-plus-lantern-dark-laurel-recheck-20261024-1300.webp
