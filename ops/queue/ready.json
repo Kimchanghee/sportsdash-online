@@ -1,53 +1,5 @@
 [
   {
-    "slug": "helinox-table-one-hard-top-black",
-    "productName": "헬리녹스 테이블원 하드탑 블랙, 하드탑블랙, 1개",
-    "option": "하드탑블랙 × 1개",
-    "sourceURL": "https://www.coupang.com/vp/products/7786090852?itemId=21053791063&vendorItemId=88116253660",
-    "issuedURI": "https://link.coupang.com/a/h1oPReJII0",
-    "linkIssuedAt": "2026-10-21T04:29:18.235Z",
-    "productCheckedAt": "2026-10-22T04:12:32.546Z",
-    "manuscript": "ops/queue/helinox-table-one-hard-top-black.md",
-    "factsFile": "ops/evidence/helinox-table-one-hard-top-black-link.md",
-    "evidenceFile": "ops/evidence/helinox-table-one-hard-top-black-link.md",
-    "images": [
-      "ops/queue/images/helinox-table-one-hard-top-black/table-hero-campsite.webp",
-      "ops/queue/images/helinox-table-one-hard-top-black/table-top-unfold.webp",
-      "ops/queue/images/helinox-table-one-hard-top-black/table-pole-assembly.webp",
-      "ops/queue/images/helinox-table-one-hard-top-black/table-low-chair.webp",
-      "ops/queue/images/helinox-table-one-hard-top-black/table-items-flat.webp",
-      "ops/queue/images/helinox-table-one-hard-top-black/table-wipe-clean.webp",
-      "ops/queue/images/helinox-table-one-hard-top-black/table-feet-ground.webp",
-      "ops/queue/images/helinox-table-one-hard-top-black/table-packed-case.webp"
-    ],
-    "imageTarget": "public/images/posts/helinox-table-one-hard-top-black/",
-    "verifyTokens": [
-      "헬리녹스 테이블원 하드탑 블랙, 하드탑블랙, 1개",
-      "7786090852 - 21053791063",
-      "하드탑블랙 × 1개"
-    ],
-    "research": {
-      "serp": "Google \"헬리녹스 테이블원 하드탑 무게 크기\" + Naver blog \"헬리녹스 테이블원 하드탑\" 2026-10-21",
-      "originals": [
-        "https://m.blog.naver.com/kkmyeong114/222337366238",
-        "https://m.blog.naver.com/gggggg90-/224394304748",
-        "https://m.blog.naver.com/g99le/224426794680"
-      ],
-      "officialFacts": [
-        "https://helinox.com/products/table-one-hard-top",
-        "https://www.helinox.co.kr/shop/shopdetail.html?branduid=3552725"
-      ]
-    },
-    "publishNote": "Height/weight/surface length omitted (official 38cm, 816/914g, 59cm vs listing 39cm, 960g; KR retailer 60cm). Listing 제조일자 2023 vs KR official 2026 Ver. — article tells buyer to check version. Seller-shipped (레디하우스); sibling listing 7326181596 rejected (L × 57cm option under regular title). Re-check option/stock before publishing.",
-    "dryRunPassedAt": "2026-10-21T04:43:00.000Z",
-    "dryRunResult": "publish.ps1 -DryRun (trail format 2026-10-21): gate 41/41, PUBLISH OK (dry run), protected trees unchanged, sandbox removed",
-    "lastRecheck": {
-      "at": "2026-10-22T13:12:32+09:00",
-      "result": "ok",
-      "evidence": "ops/evidence/helinox-table-one-hard-top-black-recheck-2026-10-22.png/.txt"
-    }
-  },
-  {
     "slug": "black-diamond-distance-carbon-flz-desert-sky-110",
     "productName": "블랙다이아몬드 디스턴스 카본 FLZ 폴 세트 BD112555",
     "option": "Desert Sky × 110 × 1세트",
