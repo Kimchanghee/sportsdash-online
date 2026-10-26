@@ -6,7 +6,7 @@
     "sourceURL": "https://www.coupang.com/vp/products/2299429443?itemId=29197875085&vendorItemId=96118379660",
     "issuedURI": "https://link.coupang.com/a/h25DU1hxgy",
     "linkIssuedAt": "2026-10-22T04:55:55.951Z",
-    "productCheckedAt": "2026-10-24T04:02:43.943Z",
+    "productCheckedAt": "2026-10-25T04:02:43.025Z",
     "manuscript": "ops/queue/ganesha-cork-yoga-block-2pack.md",
     "factsFile": "ops/evidence/ganesha-cork-yoga-block-2pack-link.md",
     "evidenceFile": "ops/evidence/ganesha-cork-yoga-block-2pack-link.md",
@@ -42,10 +42,10 @@
     "dryRunPassedAt": "2026-10-22T05:03:12.000Z",
     "dryRunResult": "publish.ps1 -DryRun (trail format 2026-10-21): gate 43/43, PUBLISH OK (dry run), protected trees unchanged, sandbox removed",
     "lastRecheck": {
-      "at": "2026-10-24T13:02:43.943+09:00",
+      "at": "2026-10-25T04:02:43.025Z",
       "result": "ok",
-      "evidence": "ops/queue/evidence/ganesha-cork-yoga-block-2pack-recheck-20261024-1300.txt",
-      "screenshot": "ops/queue/evidence/ganesha-cork-yoga-block-2pack-recheck-20261024-1300.webp"
+      "evidence": "ops/queue/evidence/ganesha-cork-yoga-block-2pack-recheck-20261025-1300.txt",
+      "screenshot": "ops/queue/evidence/ganesha-cork-yoga-block-2pack-recheck-20261025-1300.webp"
     }
   },
   {
@@ -55,7 +55,7 @@
     "sourceURL": "https://www.coupang.com/vp/products/7571671847?itemId=22393462909&vendorItemId=89438399165",
     "issuedURI": "https://link.coupang.com/a/h6dQ85sS04",
     "linkIssuedAt": "2026-10-24T02:13:42.650Z",
-    "productCheckedAt": "2026-10-24T04:02:57.403Z",
+    "productCheckedAt": "2026-10-25T04:03:03.747Z",
     "manuscript": "ops/queue/black-diamond-moji-r-plus-lantern-dark-laurel.md",
     "factsFile": "ops/evidence/black-diamond-moji-r-plus-lantern-dark-laurel-link.md",
     "evidenceFile": "ops/evidence/black-diamond-moji-r-plus-lantern-dark-laurel-link.md",
@@ -92,10 +92,10 @@
     "dryRunPassedAt": "2026-10-24T02:25:56.000Z",
     "dryRunResult": "publish.ps1 -DryRun (trail format 2026-10-21): gate 47/47, PUBLISH OK (dry run), protected trees unchanged, sandbox removed",
     "lastRecheck": {
-      "at": "2026-10-24T13:02:57.403+09:00",
+      "at": "2026-10-25T04:03:03.747Z",
       "result": "ok",
-      "evidence": "ops/queue/evidence/black-diamond-moji-r-plus-lantern-dark-laurel-recheck-20261024-1300.txt",
-      "screenshot": "ops/queue/evidence/black-diamond-moji-r-plus-lantern-dark-laurel-recheck-20261024-1300.webp"
+      "evidence": "ops/queue/evidence/black-diamond-moji-r-plus-lantern-dark-laurel-recheck-20261025-1300.txt",
+      "screenshot": "ops/queue/evidence/black-diamond-moji-r-plus-lantern-dark-laurel-recheck-20261025-1300.webp"
     }
   },
   {
@@ -105,7 +105,7 @@
     "sourceURL": "https://www.coupang.com/vp/products/351146?itemId=862166&vendorItemId=3000727018",
     "issuedURI": "https://link.coupang.com/a/h6d9Z4PQ0O",
     "linkIssuedAt": "2026-10-24T02:17:55.289Z",
-    "productCheckedAt": "2026-10-24T04:03:04.222Z",
+    "productCheckedAt": "2026-10-25T04:03:11.882Z",
     "manuscript": "ops/queue/kovea-escape-cookset-1-2p.md",
     "factsFile": "ops/evidence/kovea-escape-cookset-1-2p-link.md",
     "evidenceFile": "ops/evidence/kovea-escape-cookset-1-2p-link.md",
@@ -141,10 +141,10 @@
     "dryRunPassedAt": "2026-10-24T02:29:51.000Z",
     "dryRunResult": "publish.ps1 -DryRun (trail format 2026-10-21): gate 47/47, PUBLISH OK (dry run), protected trees unchanged, sandbox removed",
     "lastRecheck": {
-      "at": "2026-10-24T13:03:04.222+09:00",
+      "at": "2026-10-25T04:03:11.882Z",
       "result": "ok",
-      "evidence": "ops/queue/evidence/kovea-escape-cookset-1-2p-recheck-20261024-1300.txt",
-      "screenshot": "ops/queue/evidence/kovea-escape-cookset-1-2p-recheck-20261024-1300.webp"
+      "evidence": "ops/queue/evidence/kovea-escape-cookset-1-2p-recheck-20261025-1300.txt",
+      "screenshot": "ops/queue/evidence/kovea-escape-cookset-1-2p-recheck-20261025-1300.webp"
     }
   }
 ]
