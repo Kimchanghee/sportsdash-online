@@ -1,54 +1,5 @@
 [
   {
-    "slug": "ganesha-cork-yoga-block-2pack",
-    "productName": "가네샤요가프랍스 가네샤 요가 블럭",
-    "option": "Cork × 14 x 22.8 cm × 2개",
-    "sourceURL": "https://www.coupang.com/vp/products/2299429443?itemId=29197875085&vendorItemId=96118379660",
-    "issuedURI": "https://link.coupang.com/a/h25DU1hxgy",
-    "linkIssuedAt": "2026-10-22T04:55:55.951Z",
-    "productCheckedAt": "2026-10-25T04:02:43.025Z",
-    "manuscript": "ops/queue/ganesha-cork-yoga-block-2pack.md",
-    "factsFile": "ops/evidence/ganesha-cork-yoga-block-2pack-link.md",
-    "evidenceFile": "ops/evidence/ganesha-cork-yoga-block-2pack-link.md",
-    "images": [
-      "ops/queue/images/ganesha-cork-yoga-block-2pack/block-hero-mat.webp",
-      "ops/queue/images/ganesha-cork-yoga-block-2pack/block-texture-close.webp",
-      "ops/queue/images/ganesha-cork-yoga-block-2pack/block-three-heights.webp",
-      "ops/queue/images/ganesha-cork-yoga-block-2pack/block-hand-support.webp",
-      "ops/queue/images/ganesha-cork-yoga-block-2pack/block-seated-hips.webp",
-      "ops/queue/images/ganesha-cork-yoga-block-2pack/block-bridge-sacrum.webp",
-      "ops/queue/images/ganesha-cork-yoga-block-2pack/block-compare-foam.webp",
-      "ops/queue/images/ganesha-cork-yoga-block-2pack/block-carry-stack.webp"
-    ],
-    "imageTarget": "public/images/posts/ganesha-cork-yoga-block-2pack/",
-    "verifyTokens": [
-      "가네샤요가프랍스 가네샤 요가 블럭",
-      "Cork × 14 x 22.8 cm × 2개",
-      "2299429443 - 29197875085"
-    ],
-    "research": {
-      "serp": "Google \"코르크 요가블럭 높이 고르는 법 가네샤\" + Naver blog \"가네샤 코르크 요가블럭\" 2026-10-22",
-      "originals": [
-        "https://m.blog.naver.com/designerl7/224301088430",
-        "https://m.blog.naver.com/youmyoum2/224359741599",
-        "https://m.blog.naver.com/suzahir/222006918543"
-      ],
-      "officialFacts": [
-        "https://ganeshayogaprops.com/153?idx=149",
-        "https://ganeshayogaprops.com/153/?idx=205"
-      ]
-    },
-    "publishNote": "Rocket listing; same page also has a 1개 option -> token must be the 2개 option. Listing attributes show 그레이계열/혼합색상 while option is Cork (article tells buyer to check). Native screenshot NOT captured (CDP screenshot timeout x3); text evidence only. 8 gpt-image WebP from manufacturer refs, all PASS. Re-check option/stock before publishing.",
-    "dryRunPassedAt": "2026-10-22T05:03:12.000Z",
-    "dryRunResult": "publish.ps1 -DryRun (trail format 2026-10-21): gate 43/43, PUBLISH OK (dry run), protected trees unchanged, sandbox removed",
-    "lastRecheck": {
-      "at": "2026-10-25T04:02:43.025Z",
-      "result": "ok",
-      "evidence": "ops/queue/evidence/ganesha-cork-yoga-block-2pack-recheck-20261025-1300.txt",
-      "screenshot": "ops/queue/evidence/ganesha-cork-yoga-block-2pack-recheck-20261025-1300.webp"
-    }
-  },
-  {
     "slug": "black-diamond-moji-r-plus-lantern-dark-laurel",
     "productName": "블랙다이아몬드 모지 R 플러스 랜턴 ONE SIZE, Dark Laurel, 1개",
     "option": "Dark Laurel × 1개",
