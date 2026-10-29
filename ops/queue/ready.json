@@ -1,1 +1,58 @@
-[]
+[
+  {
+    "slug": "snowpeak-titanium-single-mug-220",
+    "productName": "스노우피크 캠핑용 접이식 티타늄 머그컵 MG-141 220ml, 실버, 1개",
+    "option": "실버 × 1개",
+    "sourceURL": "https://www.coupang.com/vp/products/8508013368?itemId=23557340490&vendorItemId=90583389421",
+    "issuedURI": "https://link.coupang.com/a/ieD8YJarbo",
+    "linkIssuedAt": "2026-10-29T04:02:31.832Z",
+    "productCheckedAt": "2026-10-29T04:03:06.034Z",
+    "manuscript": "ops/queue/snowpeak-titanium-single-mug-220.md",
+    "factsFile": "ops/evidence/snowpeak-titanium-single-mug-220-link.md",
+    "evidenceFile": "ops/evidence/snowpeak-titanium-single-mug-220-link.md",
+    "images": [
+      "ops/queue/images/snowpeak-titanium-single-mug-220/mg141-hero-ridge.webp",
+      "ops/queue/images/snowpeak-titanium-single-mug-220/mg141-handle-folded.webp",
+      "ops/queue/images/snowpeak-titanium-single-mug-220/mg141-hand-hold.webp",
+      "ops/queue/images/snowpeak-titanium-single-mug-220/mg141-on-stove.webp",
+      "ops/queue/images/snowpeak-titanium-single-mug-220/mg141-nest-stack2.webp",
+      "ops/queue/images/snowpeak-titanium-single-mug-220/mg141-backpack-pocket.webp",
+      "ops/queue/images/snowpeak-titanium-single-mug-220/mg141-rim-closeup.webp",
+      "ops/queue/images/snowpeak-titanium-single-mug-220/mg141-hand-wash.webp"
+    ],
+    "imageTarget": "public/images/posts/snowpeak-titanium-single-mug-220/",
+    "verifyTokens": [
+      "스노우피크 캠핑용 접이식 티타늄 머그컵 MG-141 220ml, 실버, 1개",
+      "실버 × 1개",
+      "8508013368 - 23557340490"
+    ],
+    "research": {
+      "serp": "Google \"스노우피크 티탄 싱글머그 220 직화\" + Naver blog \"스노우피크 티탄 싱글머그 220\" 2026-10-29",
+      "originals": [
+        "https://m.blog.naver.com/o_oplcam/222935211236",
+        "https://m.blog.naver.com/runasis7/224436825085",
+        "https://m.blog.naver.com/fkstm1326/224105926578"
+      ],
+      "officialFacts": [
+        "https://www.snowpeak.co.kr/products/detail?godCd=MG-141",
+        "https://ec.snowpeak.co.jp/item/SNP0117A0183",
+        "https://www.snowpeak.co.uk/products/mg-142"
+      ]
+    },
+    "publishNote": "로켓직구 listing (seller Coupang Japan G.K., 다른 판매자 19, delivery badge global_b). Option list also has a separate '220ml × 1개' option -> option token '실버 × 1개' and 상품번호 token must both match. Listing attributes 투명/뚜껑포함 conflict with official spec (titanium, no lid) -> omitted and explained. 8 GENEXIS gpt-image WebP from official Snow Peak Korea photos (nest-stack first cut rejected: two handles visible; regenerated once as nest-stack2 PASS). Re-check option/stock before publishing.",
+    "format": "trail (2026-10-21)",
+    "imageJob": {
+      "content": "channel-ops/ops/content/sportsdash-queue-20261029-snowpeak-mg141",
+      "state": "channel-ops/ops/state/sportsdash-queue-20261029-snowpeak-mg141"
+    },
+    "lastRecheck": {
+      "at": "2026-10-29T04:03:06.034Z",
+      "result": "ok",
+      "evidence": "ops/evidence/snowpeak-titanium-single-mug-220-native.txt",
+      "screenshot": "ops/evidence/snowpeak-titanium-single-mug-220-native.jpg",
+      "availability": "All verifyTokens matched; 장바구니 담기/바로구매 present; no sold-out text in main block. No affiliate-link visit."
+    },
+    "dryRunPassedAt": "2026-10-29T04:17:02.387Z",
+    "dryRunResult": "bridge shop dryRun (publisher.mjs --dry-run --force-gap, trail format 2026-10-21): gate 55/55, PUBLISH OK (dry run), protected trees unchanged, sandbox removed; receipt rebuild-202610/_mac/bridge/results/20261029-1300-sd-mg141-dryrun.json"
+  }
+]
