@@ -28,7 +28,7 @@ sources:
   - { title: "쿠팡 상품 상세 (선택 옵션 확인)", url: "https://www.coupang.com/vp/products/2268271158?itemId=3889173561" }
   - { title: "요가매트스트랩 _ 가네샤 8피트 요가 스트랩 사용법", url: "https://m.blog.naver.com/hnsdr/223626280173" }
   - { title: "가네샤 요가매트,스트랩 개봉 / 스트랩 활용하기", url: "https://m.blog.naver.com/alice_in_wonderlands/222886955401" }
-  - { title: "가네샤 요가 타올 & 스트랩 추천! 내돈내산, 홈수련에 필수!", url: "https://m.blog.naver.com/la_chun/222365165072" }
+  - { title: "가네샤 요가 스트랩 활용 사례 (독립 작성자)", url: "https://m.blog.naver.com/la_chun/222365165072" }
 faq:
   - { q: "250cm는 8피트와 같은 길이인가요?", a: "정확히 같지 않습니다. 8피트는 약 243.8cm이며 선택된 쿠팡 옵션은 250cm로 표시됩니다. 글에서는 두 표기를 서로 다른 출처의 명칭으로 구분합니다." }
   - { q: "매트 운반에 쓸 때 먼저 무엇을 재나요?", a: "매트를 실제로 말아 둘레를 재고, 손잡이로 남길 길이를 더해 보세요. 고정 방식에 따라 필요한 길이는 달라집니다." }
