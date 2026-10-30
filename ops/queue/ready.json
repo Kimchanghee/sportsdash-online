@@ -1,1 +1,58 @@
-[]
+[
+  {
+    "slug": "ganesha-8ft-yoga-strap-navy",
+    "productName": "가네샤요가프랍스 더 가네샤 8피트 요가 스트랩",
+    "option": "네이비 × 250 x 4.4 cm × 1개",
+    "sourceURL": "https://www.coupang.com/vp/products/2268271158?itemId=3889173561",
+    "issuedURI": "https://link.coupang.com/a/h70B5FCebc",
+    "productCheckedAt": "2026-10-30T04:04:23.462Z",
+    "manuscript": "ops/queue/ganesha-8ft-yoga-strap-navy.md",
+    "factsFile": "ops/evidence/ganesha-8ft-yoga-strap-link.md",
+    "evidenceFile": "ops/evidence/ganesha-8ft-yoga-strap-link.md",
+    "images": [
+      "ops/queue/images/ganesha-8ft-yoga-strap-navy/strap-hero-mat.webp",
+      "ops/queue/images/ganesha-8ft-yoga-strap-navy/strap-mat-wrap.webp",
+      "ops/queue/images/ganesha-8ft-yoga-strap-navy/strap-square-buckle.webp",
+      "ops/queue/images/ganesha-8ft-yoga-strap-navy/strap-measurement.webp",
+      "ops/queue/images/ganesha-8ft-yoga-strap-navy/strap-foot-hold.webp",
+      "ops/queue/images/ganesha-8ft-yoga-strap-navy/strap-purchase-check.webp"
+    ],
+    "imageTarget": "public/images/posts/ganesha-8ft-yoga-strap-navy/",
+    "verifyTokens": [
+      "가네샤요가프랍스 더 가네샤 8피트 요가 스트랩",
+      "네이비 × 250 x 4.4 cm × 1개",
+      "2268271158 - 3889173561"
+    ],
+    "research": [
+      {
+        "url": "https://m.blog.naver.com/hnsdr/223626280173",
+        "note": "2024 원문 읽음; 매트 운반, 250 x 4.4 cm와 2mm를 개인 기록으로 표기. 두께는 공식 확인 부족으로 원고에서 제외."
+      },
+      {
+        "url": "https://m.blog.naver.com/alice_in_wonderlands/222886955401",
+        "note": "2022 원문 읽음; 스트랩과 매트 함께 사용한 개인 기록. 사용 체험·내구성 평가는 원고 사실로 전용하지 않음."
+      },
+      {
+        "url": "https://m.blog.naver.com/la_chun/222365165072",
+        "note": "2021 원문 읽음; 스트랩을 다양한 요가 동작에서 쓰는 사례. 효능/유연성 주장은 재사용하지 않음."
+      },
+      {
+        "url": "https://yogaeun.tistory.com/191",
+        "note": "2020 원문 읽음; 길이 조절과 용도 범위의 일반적 설명. 상품 공식 사양의 증거로 쓰지 않음."
+      }
+    ],
+    "format": "trail (2026-10-21)",
+    "imageJob": {
+      "state": "channel-ops/ops/state/sportsdash-20261030-1300-strap-recovery-obuo",
+      "content": "channel-ops/ops/content/sportsdash-20261030-1300-strap-recovery-obuo"
+    },
+    "lastRecheck": {
+      "at": "2026-10-30T04:04:23.462Z",
+      "result": "ok",
+      "evidence": "ops/evidence/ganesha-8ft-yoga-strap-recheck-20261030.txt",
+      "availability": "selected option exact and enabled 바로구매; no affiliate visit"
+    },
+    "publishNote": "4 original unused photos reused; 2 missing scenes generated sequentially via GENEXIS ChatGPT subscription. Manufacturer 8ft name and source option250cm are distinct; material/thickness/medical claims omitted. Original PNGs and older held attempt preserved.",
+    "linkIssueObservationDate": "2026-10-25 (exact source snapshot preserved; no inferred second timestamp)"
+  }
+]

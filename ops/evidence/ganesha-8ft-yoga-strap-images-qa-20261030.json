@@ -1,0 +1,15 @@
+{
+  "checkedAt": "2026-10-30T04:10:13.563Z",
+  "photos": 6,
+  "reusedOriginals": 4,
+  "newGenerated": 2,
+  "concurrency": 1,
+  "nativeQA": "공식 참조와 네이비 직조·사각 금속 버클·폭 비례 확인. mat-wrap은 매트 고정/휴대 장면, foot-hold는 두 손·두 다리와 스트랩 연속 경로 확인. 추가 하드웨어/상품 구성 단정 없음.",
+  "mobile390QA": "6장390px 변환 컨택트시트 실제 검토. 상품/버클/동작 장면 구분 가능. 크롭에 주요 정보 보존.",
+  "dimensions": "all1280x853 WebP",
+  "unique": 6,
+  "source": "channel-ops/ops/state/sportsdash-20261030-1300-strap-recovery-obuo/jobs.json",
+  "generationResult": "_mac/bridge/results/20261030-1300-sports-obuo-recovery-batch.json",
+  "mobileSheet": "_mac/research/shop-20261030-1300-sportsdash-obuo/mobile390-sixphotos.webp",
+  "caveat": "AI 연출 사진은 실제 실측·실사용 증거가 아님. 브랜드 라벨은 재현하지 않음."
+}

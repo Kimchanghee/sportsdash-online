@@ -1,0 +1,93 @@
+{
+  "strategyVersion": "channel-discovery-20261025-v1",
+  "sourceCatalog": "rebuild-202610/_mac/research/20261025-channel-discovery/sources.json",
+  "sourceIds": [
+    "G01",
+    "G02",
+    "G04",
+    "G05",
+    "G06",
+    "G07",
+    "G08",
+    "G09",
+    "G10",
+    "G11",
+    "W01"
+  ],
+  "channel": "sportsdash.online Astro queue, unpublished",
+  "reader": "요가 스트랩으로 매트 운반과 스트레칭 보조를 함께 고려하는 홈트 사용자",
+  "readerQuestion": "250 x 4.4 cm 스트랩 길이와 버클이 내 매트 운반·동작 보조 방식에 맞는지 어떻게 확인하나?",
+  "nextAction": "매트를 말아 둘레와 휴대에 필요한 여유 길이를 재고, 스트랩을 사용할 동작 범위와 함께 구매 전 점검한다.",
+  "searchIntent": "Google·Naver 검색 및 관련 원문3개는 10/25 준비물 근거 재사용. Naver SERP 완료는 parent-handoff.json/naver-serp.txt에 확인됨",
+  "titlePromise": "선택된 네이비 1개 옵션과 제조사 설명, 독립 원문에서 확인한 활용 사례의 범위 안에서 구매 전 확인법 제시",
+  "directAnswer": "부모가 확인한 네이비 1개 옵션은 250 x 4.4 cm이며, 매트 운반과 스트랩 길이 조절이 필요한 수련에 적합한지 실제 둘레와 동작 범위를 먼저 재야 한다.",
+  "distinctValue": "상품 페이지 숫자를 제조사 사양으로 확대하지 않고, 매트 운반용 길이 계산과 동작용 길이 확인을 분리한다. 독립 원문에서 사용 목적은 참고하되 개인 체험을 사이트 작성자 경험처럼 전하지 않는다.",
+  "productFactsAsOf": "2026-10-30T04:04:23.462Z",
+  "verifiedProduct": {
+    "heading": "가네샤요가프랍스 더 가네샤 8피트 요가 스트랩",
+    "sourceURL": "https://www.coupang.com/vp/products/2268271158?itemId=3889173561",
+    "affiliateURL": "https://link.coupang.com/a/h70B5FCebc",
+    "option": "네이비 × 250 x 4.4 cm × 1개",
+    "availability": "enabled 바로구매 per parent screenshot/text evidence; no further click",
+    "verifyEvidence": "rebuild-202610/_mac/research/shop-20261025-1300-sports/source-verification.txt and .webp; partner-link.txt and .webp"
+  },
+  "officialFacts": [
+    {
+      "fact": "공식 페이지명은 더 가네샤 8피트 요가 스트랩",
+      "url": "https://ganeshayogaprops.com/152/?idx=150"
+    },
+    {
+      "fact": "제조사는 사각 버클이 길이 조절을 쉽게 하고 결속력을 높인다고 설명",
+      "url": "https://ganeshayogaprops.com/152/?idx=150"
+    }
+  ],
+  "independentReading": [
+    {
+      "url": "https://m.blog.naver.com/hnsdr/223626280173",
+      "note": "2024 원문 읽음; 매트 운반, 250 x 4.4 cm와 2mm를 개인 기록으로 표기. 두께는 공식 확인 부족으로 원고에서 제외."
+    },
+    {
+      "url": "https://m.blog.naver.com/alice_in_wonderlands/222886955401",
+      "note": "2022 원문 읽음; 스트랩과 매트 함께 사용한 개인 기록. 사용 체험·내구성 평가는 원고 사실로 전용하지 않음."
+    },
+    {
+      "url": "https://m.blog.naver.com/la_chun/222365165072",
+      "note": "2021 원문 읽음; 스트랩을 다양한 요가 동작에서 쓰는 사례. 효능/유연성 주장은 재사용하지 않음."
+    },
+    {
+      "url": "https://yogaeun.tistory.com/191",
+      "note": "2020 원문 읽음; 길이 조절과 용도 범위의 일반적 설명. 상품 공식 사양의 증거로 쓰지 않음."
+    }
+  ],
+  "excludedClaims": [
+    "재질",
+    "두께",
+    "탄성 여부",
+    "내하중",
+    "의료·통증·유연성 효능",
+    "가격·평점·후기 수",
+    "판매처/제조사 불일치로 검증되지 않은 치수"
+  ],
+  "internalLinks": [
+    "/guides/yoga-mat-thickness-material/",
+    "/category/home-training/"
+  ],
+  "imagePlan": [
+    "대표: 네이비 스트랩과 말린 매트",
+    "매트 운반용 감는 경로",
+    "사각 버클 길이 조절",
+    "평평하게 펼친 길이·폭 비교",
+    "발/손으로 스트랩을 잡는 비의료적 기본 스트레칭 자세",
+    "구매 전 치수 확인 도구와 스트랩"
+  ],
+  "validationPlan": "sportsdash source gate + bridge shop dry-run. New article only; no publish/deploy. 6 unique manufacturer-referenced generated WebP, visual product-shape/color/cut QA before enqueue.",
+  "openItems": [
+    "자동 게시 전 옵션·재고 재확인"
+  ],
+  "imageStatus": {
+    "photos": 6,
+    "reused": 4,
+    "new": 2,
+    "concurrency": 1
+  }
+}
