@@ -1,0 +1,90 @@
+{
+  "strategyVersion": "channel-discovery-20261025-v1",
+  "sourceIds": [
+    "G01",
+    "G02",
+    "G04",
+    "G05",
+    "G06",
+    "G07",
+    "G08"
+  ],
+  "domain": "sportsdash.online",
+  "audience": "캠핑용 근거리 헤드램프를 고르는 독자",
+  "question": "티키나의 건전지와 별매 CORE는 어떻게 구분하나?",
+  "searchEngineEvidence": [
+    "Google 실제 검색결과",
+    "네이버 실제 검색결과"
+  ],
+  "sourceReads": [
+    {
+      "url": "https://m.blog.naver.com/jcarmack/222625632332",
+      "title": "페츨 티키나 헤드랜턴 AP-E091DA 간략 후기",
+      "method": "native snapshot and full main textContent",
+      "read": true,
+      "analysis": "2022년 구형 모델. 구매 상황→전면/각도→전원→밴드·관리 순서. 250루멘 등 구형 수치는 현재 사양에 사용하지 않음. 모델 세대와 CORE 별매가 빠진 선택 안내를 보완."
+    },
+    {
+      "url": "https://blog.naver.com/fufu_42/220684642080",
+      "title": "페츨 헤드랜턴 티카RXP, 티키나(tikkina)",
+      "method": "native snapshot",
+      "read": true,
+      "analysis": "2016년 두 모델 외형·모드 비교와 야간 장면. 단일 버튼 2모드의 구형으로 현재 제품 사양·체감 추천은 제외. 자동 반응 기능을 티키나에 상속하지 않도록 분리."
+    },
+    {
+      "url": "https://blog.naver.com/kkkhyunsu79/150153286296",
+      "title": "캠핑용 헤드랜턴 페츨 티키나2",
+      "method": "native iframe body.innerText full, stored and entire article read",
+      "read": true,
+      "analysis": "2012년 구형 TIKKINA2 전체 본문 완독. 캠핑에서 사용할 이유→외형/전원/각도→다른 랜턴과 실내 밝기 비교→밴드 착용감→주관적 자비구매 후기 구조. 23lm/55h·체감비교·추천은 현재 상품 사양 근거에서 제외. 현재 모델 확인과 CORE 별매 안내를 차별점으로 사용.",
+      "fullTextFile": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/rebuild-202610/_mac/shop-runs/20261105-1300/prepared/sportsdash/petzl-source3-full.txt"
+    }
+  ],
+  "manufacturerSource": "https://www.petzl.com/US/en/Sport/Headlamps/TIKKINA",
+  "nativeModel": "AP-E060AB00 / 블랙",
+  "intentValue": "상품명만 같은 구형 후기와 현행 모델 구분, 전원 포함/별매 구분, 고정조명 역할 분리",
+  "firstHandClaim": false,
+  "affiliateLinkOpened": false,
+  "visualQA": {
+    "imagesActuallyRead": 6,
+    "officialReferenceCompared": true,
+    "all1280x853WebP": true,
+    "contextPropsNotIncluded": true
+  },
+  "sourceGate": {
+    "pass": true,
+    "results": [
+      {
+        "file": "ops/queue/petzl-tikkina-black-camp-headlamp-battery-check.md",
+        "kind": "post",
+        "slug": "petzl-tikkina-black-camp-headlamp-battery-check",
+        "errors": [],
+        "warnings": [],
+        "bodyChars": 1843,
+        "questionH2": 5
+      }
+    ],
+    "siteErrors": []
+  },
+  "notClaimed": [
+    "공개 게시",
+    "색인",
+    "검색 성과"
+  ],
+  "heldSecondCandidate": "SILVA Ranger37461 제조사 HTTP429",
+  "dryRun": {
+    "requestId": "20261105-shop-petzl-sportsdash-dryrun-3",
+    "passedAt": "2026-11-05T04:25:07.923Z",
+    "gateChecks": "59/59",
+    "isolated": true,
+    "localPreview": {
+      "origin": "http://127.0.0.1:4411",
+      "http200": true,
+      "title": true,
+      "disclosure": true,
+      "exactProductHref": true
+    },
+    "protectedTreesUnchanged": true,
+    "nativeListing": "unattended inconclusive-0, earlier real native verification retained"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "facts": [
+    {
+      "fact": "AAA/LR03 3개 포함, CORE 별매 호환",
+      "source": "https://www.petzl.com/US/en/Sport/Headlamps/TIKKINA"
+    },
+    {
+      "fact": "넓은 빔과 백색 조명 3단계, 단일 버튼",
+      "source": "https://www.petzl.com/US/en/Sport/Headlamps/TIKKINA"
+    },
+    {
+      "fact": "도로용 인증 조명이 아니며 필수 표준 조명 대체 불가",
+      "source": "https://www.petzl.com/US/en/Sport/Headlamps/TIKKINA"
+    },
+    {
+      "fact": "BLACK 공식 참조 모델 E060AB00",
+      "source": "https://www.petzl.com/US/en/Sport/Headlamps/TIKKINA"
+    }
+  ],
+  "officialReferenceURL": "https://www.petzl.com/dw/image/v2/BLQG_PRD/on/demandware.static/-/Sites-petzl-master-catalog/default/dwd318b3d2/media/product/E060AB00-TIKKINA_LowRes_068Tx000006L3h3IAC.jpeg?sh=800",
+  "officialReferenceFile": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/rebuild-202610/_mac/shop-runs/20261105-1300/prepared/sportsdash/petzl-E060AB00-official.jpeg",
+  "download": {
+    "httpStatus": 200,
+    "contentType": "image/jpeg"
+  },
+  "excluded": [
+    "사용시간과 밝기 숫자는 원고에서 생략",
+    "과거 블로그 사양과 사용감은 제품 사실 근거로 사용하지 않음"
+  ]
+}

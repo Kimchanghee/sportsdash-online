@@ -1,1 +1,27 @@
-[]
+[
+  {
+    "slug": "petzl-tikkina-black-camp-headlamp-battery-check",
+    "manuscript": "ops/queue/petzl-tikkina-black-camp-headlamp-battery-check.md",
+    "sourceURL": "https://www.coupang.com/vp/products/9600361942?vendorItemId=94781974762&sourceType=SDP_ALSO_VIEWED",
+    "issuedURI": "https://link.coupang.com/a/iqhlNL7V7I",
+    "option": "블랙 × one / 수량 1",
+    "verifyTokens": [
+      "티키나",
+      "블랙",
+      "one"
+    ],
+    "evidence": "ops/queue/evidence/petzl-tikkina-black-camp-headlamp-battery-check.md",
+    "images": [
+      "ops/queue/images/petzl-tikkina-black-camp-headlamp-battery-check/01-cover.webp",
+      "ops/queue/images/petzl-tikkina-black-camp-headlamp-battery-check/02-context.webp",
+      "ops/queue/images/petzl-tikkina-black-camp-headlamp-battery-check/03-power.webp",
+      "ops/queue/images/petzl-tikkina-black-camp-headlamp-battery-check/04-detail.webp",
+      "ops/queue/images/petzl-tikkina-black-camp-headlamp-battery-check/05-comparison.webp",
+      "ops/queue/images/petzl-tikkina-black-camp-headlamp-battery-check/06-check.webp"
+    ],
+    "preparationState": "ready",
+    "dryRunPassedAt": "2026-11-05T04:25:07.923Z",
+    "productName": "[페츨] 티키나 헤드램프",
+    "verifiedAt": "2026-11-05T04:05:10Z"
+  }
+]

@@ -1,0 +1,70 @@
+{
+  "officialReference": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/rebuild-202610/_mac/shop-runs/20261105-1300/prepared/sportsdash/petzl-E060AB00-official.jpeg",
+  "generationReceipts": [
+    "20261105-shop-petzl-gen-1",
+    "20261105-shop-petzl-gen-2"
+  ],
+  "conversion": [
+    {
+      "input": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261105-petzl-tikkina/01-cover.png",
+      "output": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/rebuild-202610/sportsdash.online/ops/queue/images/petzl-tikkina-black-camp-headlamp-battery-check/01-cover.webp",
+      "width": 1280,
+      "height": 853,
+      "bytes": 215186,
+      "sha256": "17b11a8a358fa312c2aa7664b86beddf6b338e2bfb7e880ef8e3779566e9d323",
+      "visualQA": "pass_actual_image_read",
+      "qaNote": "공식 블랙 본체·밴드·단일 버튼·전면광원·구성 대조"
+    },
+    {
+      "input": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261105-petzl-tikkina/02-context.png",
+      "output": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/rebuild-202610/sportsdash.online/ops/queue/images/petzl-tikkina-black-camp-headlamp-battery-check/02-context.webp",
+      "width": 1280,
+      "height": 853,
+      "bytes": 227078,
+      "sha256": "4919b7c24525a7185c6779c8321c08d3474a19a17bfa76593cd8d4faeaa32c75",
+      "visualQA": "pass_actual_image_read",
+      "qaNote": "공식 블랙 본체·밴드·단일 버튼·전면광원·구성 대조"
+    },
+    {
+      "input": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261105-petzl-tikkina/03-power.png",
+      "output": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/rebuild-202610/sportsdash.online/ops/queue/images/petzl-tikkina-black-camp-headlamp-battery-check/03-power.webp",
+      "width": 1280,
+      "height": 853,
+      "bytes": 202950,
+      "sha256": "e228be76d0a5b1d19bfccfe3205133ff01507fcf136fcae9c87799467bba3867",
+      "visualQA": "pass_actual_image_read",
+      "qaNote": "공식 블랙 본체·밴드·단일 버튼·전면광원·구성 대조"
+    },
+    {
+      "input": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261105-petzl-tikkina/04-detail.png",
+      "output": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/rebuild-202610/sportsdash.online/ops/queue/images/petzl-tikkina-black-camp-headlamp-battery-check/04-detail.webp",
+      "width": 1280,
+      "height": 853,
+      "bytes": 211420,
+      "sha256": "80ba3ad23c08033e987e591ef4d4f43c9fa98151d0dbd69bcbcf37889a72e15b",
+      "visualQA": "pass_actual_image_read",
+      "qaNote": "공식 블랙 본체·밴드·단일 버튼·전면광원·구성 대조"
+    },
+    {
+      "input": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261105-petzl-tikkina/05-comparison.png",
+      "output": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/rebuild-202610/sportsdash.online/ops/queue/images/petzl-tikkina-black-camp-headlamp-battery-check/05-comparison.webp",
+      "width": 1280,
+      "height": 853,
+      "bytes": 158560,
+      "sha256": "89a049f44d0b17932826fbfdb1ee9804f7ecc1541fbd5f89324a5e849c8f7870",
+      "visualQA": "pass_actual_image_read",
+      "qaNote": "고정식 랜턴은 별도 준비품으로 본문과 ALT에 명시"
+    },
+    {
+      "input": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261105-petzl-tikkina/06-check.png",
+      "output": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/rebuild-202610/sportsdash.online/ops/queue/images/petzl-tikkina-black-camp-headlamp-battery-check/06-check.webp",
+      "width": 1280,
+      "height": 853,
+      "bytes": 339650,
+      "sha256": "de3491ac024b52d8b438bac158992aa88c42433b0377a66f29328c30b2ecf5b7",
+      "visualQA": "pass_actual_image_read",
+      "qaNote": "파우치는 별도 준비품, AAA3개 전원 예시, CORE 포함 주장 없음"
+    }
+  ],
+  "all6VisualQA": true
+}
