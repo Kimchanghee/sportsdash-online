@@ -70,5 +70,8 @@
   "referenceFile": "rebuild-202610/_mac/shop/20261106-1300/sportsdash-dretec-official-ref.jpg",
   "officialSideLED": "https://www.dretec.co.jp/upload/tenant_1/029ce99c92a823e2c96b526d6ad7073b.jpg",
   "newImageReceipt": "rebuild-202610/_mac/bridge/results/20261107-shop-dretec-remaining3.json",
-  "publication": false
+  "publication": false,
+  "mobile390QAPassed": true,
+  "mobileQAContact": "rebuild-202610/_mac/shop/20261107-1300/dretec-mobile390-contact.webp",
+  "dryrunReceipt": "rebuild-202610/_mac/bridge/results/20261107-shop-sports-dryrun4.json"
 }

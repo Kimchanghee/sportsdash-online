@@ -22,7 +22,8 @@
       "ops/queue/images/dretec-pr-323ror-camp-radio-power-check/pack.webp",
       "ops/queue/images/dretec-pr-323ror-camp-radio-power-check/detail.webp"
     ],
-    "dryRunPassedAt": null,
-    "reviewState": "staged_for_bridge_dryrun_not_approved"
+    "dryRunPassedAt": "2026-11-07T04:12:36Z",
+    "reviewState": "approved_for_daily_launcher",
+    "dryRunResult": "20261107-shop-sports-dryrun4 code0; full gate61/61; local native title/disclosure/exacthref; protectedtreesunchanged and sandboxremoved. Automatic listing403 is inconclusive; native verification retained2026-11-07T04:02:03Z. Not publication."
   }
 ]
