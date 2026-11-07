@@ -1,0 +1,74 @@
+{
+  "qa": [
+    {
+      "name": "cover",
+      "src": "channel-ops/ops/content/shop-20261106-1300-sportsdash-dretec/cover.png",
+      "sha256": "839af80adfa3f9d46c3984a94c0cc3c49fef6727ff80051595d95ac1c5a7a6da",
+      "width": 1536,
+      "height": 1024,
+      "out": "rebuild-202610/sportsdash.online/ops/queue/images/dretec-pr-323ror-camp-radio-power-check/cover.webp",
+      "webpSha256": "55a94fdd66bbd555bff44fcc48b28876c61983f9c05e9c013372787a971721ed",
+      "visual": "passed_front_colour_hexgrille_2dials_4sliders",
+      "sideLamp": "not_applicable"
+    },
+    {
+      "name": "power",
+      "src": "channel-ops/ops/content/shop-20261106-1300-sportsdash-dretec/power.png",
+      "sha256": "8dde790d1d9e014be2d90245520a34f3b7fdd348d32c200cadbd86a0662b6147",
+      "width": 1536,
+      "height": 1024,
+      "out": "rebuild-202610/sportsdash.online/ops/queue/images/dretec-pr-323ror-camp-radio-power-check/power.webp",
+      "webpSha256": "8a400e276791449a1d09353b6dee5bd2891944e16fc0c5a8f42cee9fae66cf71",
+      "visual": "passed_front_colour_hexgrille_2dials_4sliders",
+      "sideLamp": "not_applicable"
+    },
+    {
+      "name": "tuning",
+      "src": "channel-ops/ops/content/shop-20261106-1300-sportsdash-dretec/tuning.png",
+      "sha256": "5c428c11053e09f75718e4ad08ecbb150354bcaef93e1169157c8eedfb09bde7",
+      "width": 1536,
+      "height": 1024,
+      "out": "rebuild-202610/sportsdash.online/ops/queue/images/dretec-pr-323ror-camp-radio-power-check/tuning.webp",
+      "webpSha256": "bd19b7d125a6d1ce0c66695d8c1449466ca8d209b381c91d96493359213c028c",
+      "visual": "passed_front_colour_hexgrille_2dials_4sliders",
+      "sideLamp": "not_applicable"
+    },
+    {
+      "name": "light",
+      "src": "channel-ops/ops/content/shop-20261106-1300-sportsdash-dretec/light.png",
+      "sha256": "949ac331e14b71d1e4de4405fcbc760d4298b3ec5c549534e9ad0dd3ded4eeaf",
+      "width": 1536,
+      "height": 1024,
+      "out": "rebuild-202610/sportsdash.online/ops/queue/images/dretec-pr-323ror-camp-radio-power-check/light.webp",
+      "webpSha256": "9212f7a2e8129f5f552c249e8c33d0a806beeedde22bfd66ca9d12df175ba107",
+      "visual": "passed_front_colour_hexgrille_2dials_4sliders",
+      "sideLamp": "matched_official_details_1_LED_and_0_orange_side"
+    },
+    {
+      "name": "pack",
+      "src": "channel-ops/ops/content/shop-20261106-1300-sportsdash-dretec/pack.png",
+      "sha256": "0824341b14343404fc64a0f58099ed5d60988629d06bec8cc7c550530370ecd2",
+      "width": 1536,
+      "height": 1024,
+      "out": "rebuild-202610/sportsdash.online/ops/queue/images/dretec-pr-323ror-camp-radio-power-check/pack.webp",
+      "webpSha256": "a68e04548ec53ce8ed522c922eb2e4616a69a12c1be89f06547fbee75785df98",
+      "visual": "passed_front_colour_hexgrille_2dials_4sliders",
+      "sideLamp": "not_applicable"
+    },
+    {
+      "name": "detail",
+      "src": "channel-ops/ops/content/shop-20261106-1300-sportsdash-dretec/detail.png",
+      "sha256": "7ec2aa015c54b38e21bb482fe2108d177c94d35fe06bbca1e5b1faddd67c25e7",
+      "width": 1536,
+      "height": 1024,
+      "out": "rebuild-202610/sportsdash.online/ops/queue/images/dretec-pr-323ror-camp-radio-power-check/detail.webp",
+      "webpSha256": "ae34731e8f52f30d2d96f3f5e31639eaf98ca9b61609c17623847aeb273b7c7a",
+      "visual": "passed_front_colour_hexgrille_2dials_4sliders",
+      "sideLamp": "not_applicable"
+    }
+  ],
+  "referenceFile": "rebuild-202610/_mac/shop/20261106-1300/sportsdash-dretec-official-ref.jpg",
+  "officialSideLED": "https://www.dretec.co.jp/upload/tenant_1/029ce99c92a823e2c96b526d6ad7073b.jpg",
+  "newImageReceipt": "rebuild-202610/_mac/bridge/results/20261107-shop-dretec-remaining3.json",
+  "publication": false
+}
