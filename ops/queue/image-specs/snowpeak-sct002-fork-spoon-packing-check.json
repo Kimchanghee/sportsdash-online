@@ -1,0 +1,103 @@
+{
+  "slot": "20261115-1920-shop",
+  "creatorSessionId": "kuWJU8rq0pCnpQnO",
+  "observedUTC": "2026-11-15T10:53:25.922Z",
+  "visualInspection": "all original files read individually with read_file",
+  "photoCount": 6,
+  "photoIds": [
+    "sct01",
+    "sct02",
+    "sct03",
+    "sct04",
+    "sct05",
+    "sct06"
+  ],
+  "rejected": [],
+  "photos": [
+    {
+      "id": "sct01",
+      "source": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261115-1920-sct002/sct01.png",
+      "sourceSHA256": "6faddca67c28c434262a70193961d131eef35efabad9c8b87e1f1cc45761a7f0",
+      "sourceBytes": 2891464,
+      "sourceWidth": 1536,
+      "sourceHeight": 1024,
+      "rotation": 0,
+      "target": "ops/queue/images/snowpeak-sct002-fork-spoon-packing-check/01-sct01.webp",
+      "targetSHA256": "e9f4153ba3f5e856006dc443a9c0afc0e0217b387c0e6621e140a8e04dd1f03b",
+      "width": 1280,
+      "height": 853,
+      "visualQA": "approved: individually inspected original with read_file"
+    },
+    {
+      "id": "sct02",
+      "source": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261115-1920-sct002/sct02.png",
+      "sourceSHA256": "457dd4d3b44e1bc405413ce31a850c0934ff16defc41a89af7b7d1bea4bdf204",
+      "sourceBytes": 4480714,
+      "sourceWidth": 1122,
+      "sourceHeight": 1402,
+      "rotation": 90,
+      "target": "ops/queue/images/snowpeak-sct002-fork-spoon-packing-check/02-sct02.webp",
+      "targetSHA256": "80e85edc3b2fa9021ddac7053efddb5b58bd567ac7535f3616ce8940b911fc88",
+      "width": 1280,
+      "height": 853,
+      "visualQA": "approved: individually inspected original with read_file"
+    },
+    {
+      "id": "sct03",
+      "source": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261115-1920-sct002/sct03.png",
+      "sourceSHA256": "db0ab7b9bf6361553626ab4adcfa3b3b1bed27ad734341f41d86f0f2bcdf7ec6",
+      "sourceBytes": 4078017,
+      "sourceWidth": 1122,
+      "sourceHeight": 1402,
+      "rotation": 90,
+      "target": "ops/queue/images/snowpeak-sct002-fork-spoon-packing-check/03-sct03.webp",
+      "targetSHA256": "c3bca298a6578e59ff813f6185e6c269f31addd04cad75b4763fde114ee4850f",
+      "width": 1280,
+      "height": 853,
+      "visualQA": "approved: individually inspected original with read_file"
+    },
+    {
+      "id": "sct04",
+      "source": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261115-1920-sct002/sct04.png",
+      "sourceSHA256": "f02027857c0b995ee257cf6129655717c61e728b1aeb91752de0a3fe908bfcb6",
+      "sourceBytes": 3761088,
+      "sourceWidth": 1536,
+      "sourceHeight": 1024,
+      "rotation": 0,
+      "target": "ops/queue/images/snowpeak-sct002-fork-spoon-packing-check/04-sct04.webp",
+      "targetSHA256": "0afd72dec9dcf5999a629e54495acb390f9e7858e632c7245eb7fdcfdb054653",
+      "width": 1280,
+      "height": 853,
+      "visualQA": "approved: individually inspected original with read_file"
+    },
+    {
+      "id": "sct05",
+      "source": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261115-1920-sct002/sct05.png",
+      "sourceSHA256": "1c3277292f87de589100945c5fde8dac8ff63899144bfc2d852875fc311492f1",
+      "sourceBytes": 2332852,
+      "sourceWidth": 1536,
+      "sourceHeight": 1024,
+      "rotation": 0,
+      "target": "ops/queue/images/snowpeak-sct002-fork-spoon-packing-check/05-sct05.webp",
+      "targetSHA256": "bc9fa79bf6f8c1b5e52f2c566f6ccc72ea6d4aa9664db1ab9882c8f35c006f4a",
+      "width": 1280,
+      "height": 853,
+      "visualQA": "approved: individually inspected original with read_file"
+    },
+    {
+      "id": "sct06",
+      "source": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261115-1920-sct002/sct06.png",
+      "sourceSHA256": "e6a55050f9846b27c0b21eade28a00508f6b34aa605189cdf8882a8af50852a8",
+      "sourceBytes": 2967634,
+      "sourceWidth": 1536,
+      "sourceHeight": 1024,
+      "rotation": 0,
+      "target": "ops/queue/images/snowpeak-sct002-fork-spoon-packing-check/06-sct06.webp",
+      "targetSHA256": "f1f309b35446047d700d3095a737b080c1596ae59cc7e150765053429962e0af",
+      "width": 1280,
+      "height": 853,
+      "visualQA": "approved: individually inspected original with read_file"
+    }
+  ],
+  "inspectedAtUTC": "2026-11-15T10:53:26.864Z"
+}

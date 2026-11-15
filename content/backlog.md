@@ -45,3 +45,5 @@
 | 질문 | 근거 | 유형 | 상태 | URL |
 |---|---|---|---|---|
 | 미니호즈키 모리, 건전지와 거는 자리 고르기 | 정확 옵션·구매버튼 2026-11-15 확인, 제휴 URI 발급, 사진6 원본 시각검수·SHA, 전체 격리검사 63/63 | 상품 노트(제휴) | 대기(queued) | 미발행 (snowpeak-mini-hozuki-mori-aaa-mount-check) |
+
+| snowpeak-sct002-fork-spoon-packing-check | pick | queued | 2026-11-15 exact option verified; 6 photos; pending rehearsal |

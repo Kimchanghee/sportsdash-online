@@ -1,1 +1,29 @@
-[]
+[
+  {
+    "domain": "sportsdash.online",
+    "slug": "snowpeak-sct002-fork-spoon-packing-check",
+    "manuscript": "ops/queue/snowpeak-sct002-fork-spoon-packing-check.md",
+    "option": "1세트 / SCT-002 / 포크·스푼·케이스",
+    "sourceURL": "https://www.coupang.com/vp/products/5575975898?vendorItemId=92812667984",
+    "issuedURI": "https://link.coupang.com/a/iHiQJvQYX6",
+    "verifyTokens": [
+      "SCT-002",
+      "포크 포함",
+      "8897094805"
+    ],
+    "evidence": "ops/queue/evidence/snowpeak-sct002-fork-spoon-packing-check.md",
+    "images": [
+      "ops/queue/images/snowpeak-sct002-fork-spoon-packing-check/01-sct01.webp",
+      "ops/queue/images/snowpeak-sct002-fork-spoon-packing-check/02-sct02.webp",
+      "ops/queue/images/snowpeak-sct002-fork-spoon-packing-check/03-sct03.webp",
+      "ops/queue/images/snowpeak-sct002-fork-spoon-packing-check/04-sct04.webp",
+      "ops/queue/images/snowpeak-sct002-fork-spoon-packing-check/05-sct05.webp",
+      "ops/queue/images/snowpeak-sct002-fork-spoon-packing-check/06-sct06.webp"
+    ],
+    "verifiedAt": "2026-11-15T19:24:57+09:00",
+    "photoCount": 6,
+    "addedAt": "2026-11-15T10:48:24.193Z",
+    "creatorSessionId": "kuWJU8rq0pCnpQnO",
+    "status": "pending-dryrun"
+  }
+]
