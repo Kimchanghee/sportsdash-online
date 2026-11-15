@@ -1,0 +1,87 @@
+{
+  "slug": "snowpeak-mini-hozuki-mori-aaa-mount-check",
+  "observedUTC": "2026-11-15T04:30:53.401Z",
+  "creatorSessionId": "LvnufLFHB9xO1dsJ",
+  "sourceReferencePolicy": "actual official manufacturer reference attached",
+  "visualQA": "read_file original PNGs checked individually before eligibility",
+  "photos": [
+    {
+      "id": "hozuki-tent-hanging",
+      "source": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261115-hozuki/hozuki-tent-hanging.png",
+      "sourceSHA256": "9d91f369702be49a2ec04ae108ee1794904b01c5ef43fcc79d554cda4695271e",
+      "sourceBytes": 2084507,
+      "sourceWidth": 1536,
+      "sourceHeight": 1024,
+      "target": "ops/queue/images/snowpeak-mini-hozuki-mori-aaa-mount-check/01-hozuki-tent-hanging.webp",
+      "targetSHA256": "677d291616ff20da3dd03e160fc2365049130a010dc3f2a91f089d6cc4631068",
+      "targetBytes": 68122,
+      "width": 1280,
+      "height": 853
+    },
+    {
+      "id": "hozuki-palm-size",
+      "source": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261115-hozuki/hozuki-palm-size.png",
+      "sourceSHA256": "5dfece155ac87dd1374cd273770131dc9c08e02d7483aed2d45007316ec6fc4f",
+      "sourceBytes": 2568986,
+      "sourceWidth": 1536,
+      "sourceHeight": 1024,
+      "target": "ops/queue/images/snowpeak-mini-hozuki-mori-aaa-mount-check/02-hozuki-palm-size.webp",
+      "targetSHA256": "a19a63901d681d2eb0b0c488edfe900ae018915015a893912083803f7bb41d42",
+      "targetBytes": 124176,
+      "width": 1280,
+      "height": 853
+    },
+    {
+      "id": "hozuki-magnetic-loop",
+      "source": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261115-hozuki/hozuki-magnetic-loop.png",
+      "sourceSHA256": "ea04ea60256e4d7908da18072c28b56b0d22df4da47aa87404473586c0e8dfcf",
+      "sourceBytes": 2207863,
+      "sourceWidth": 1536,
+      "sourceHeight": 1024,
+      "target": "ops/queue/images/snowpeak-mini-hozuki-mori-aaa-mount-check/03-hozuki-magnetic-loop.webp",
+      "targetSHA256": "7281b10951ce3b603b3815f532d258e8d7f535fcacccc553fd0ac3e4e369dc00",
+      "targetBytes": 90090,
+      "width": 1280,
+      "height": 853
+    },
+    {
+      "id": "hozuki-aaa-check",
+      "source": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261115-hozuki/hozuki-aaa-check.png",
+      "sourceSHA256": "6b7a483a968dfb9dd2cf442145d79722ac53e0c2b2a2e3f67181ba22e4f45f6a",
+      "sourceBytes": 2132267,
+      "sourceWidth": 1536,
+      "sourceHeight": 1024,
+      "target": "ops/queue/images/snowpeak-mini-hozuki-mori-aaa-mount-check/04-hozuki-aaa-check.webp",
+      "targetSHA256": "b8708a78dd51ef5064ec0d08676ee6753a0b76ee9f8599f636b3f730722f9e9c",
+      "targetBytes": 87150,
+      "width": 1280,
+      "height": 853
+    },
+    {
+      "id": "hozuki-shade-press",
+      "source": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261115-hozuki/hozuki-shade-press.png",
+      "sourceSHA256": "40bd721a7f0408a1da71aadc5fbddfbdd6e741b2d1724d1d213f946cb94998a1",
+      "sourceBytes": 2159905,
+      "sourceWidth": 1536,
+      "sourceHeight": 1024,
+      "target": "ops/queue/images/snowpeak-mini-hozuki-mori-aaa-mount-check/05-hozuki-shade-press.webp",
+      "targetSHA256": "9c62f29a992a132609edd40fb80329d4acd8f57570278dfe9971bc4565023884",
+      "targetBytes": 71082,
+      "width": 1280,
+      "height": 853
+    },
+    {
+      "id": "hozuki-pouch-pack",
+      "source": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261115-hozuki/hozuki-pouch-pack.png",
+      "sourceSHA256": "24d76dba81c8045faa19fcf7808675fd04b1b853dec4e47bcc5f9dcb4e7d9096",
+      "sourceBytes": 2695737,
+      "sourceWidth": 1536,
+      "sourceHeight": 1024,
+      "target": "ops/queue/images/snowpeak-mini-hozuki-mori-aaa-mount-check/06-hozuki-pouch-pack.webp",
+      "targetSHA256": "f2f206b850b14254b7d624c911ec7226d7079ff6fe26f7df3ae227e19fca73ec",
+      "targetBytes": 135668,
+      "width": 1280,
+      "height": 853
+    }
+  ]
+}

@@ -1,1 +1,33 @@
-[]
+[
+  {
+    "domain": "sportsdash.online",
+    "slug": "snowpeak-mini-hozuki-mori-aaa-mount-check",
+    "manuscript": "ops/queue/snowpeak-mini-hozuki-mori-aaa-mount-check.md",
+    "option": "미니호즈키 모리 · 1개 · 건전지식 · item25826117576",
+    "sourceURL": "https://www.coupang.com/vp/products/7610605307?itemId=25826117576&vendorItemId=92812929931",
+    "issuedURI": "https://link.coupang.com/a/iGRXYElwR2",
+    "verifyTokens": [
+      "미니호즈키 모리",
+      "AAA",
+      "25826117576"
+    ],
+    "evidence": "ops/queue/evidence/snowpeak-mini-hozuki-mori-aaa-mount-check.md",
+    "images": [
+      "ops/queue/images/snowpeak-mini-hozuki-mori-aaa-mount-check/01-hozuki-tent-hanging.webp",
+      "ops/queue/images/snowpeak-mini-hozuki-mori-aaa-mount-check/02-hozuki-palm-size.webp",
+      "ops/queue/images/snowpeak-mini-hozuki-mori-aaa-mount-check/03-hozuki-magnetic-loop.webp",
+      "ops/queue/images/snowpeak-mini-hozuki-mori-aaa-mount-check/04-hozuki-aaa-check.webp",
+      "ops/queue/images/snowpeak-mini-hozuki-mori-aaa-mount-check/05-hozuki-shade-press.webp",
+      "ops/queue/images/snowpeak-mini-hozuki-mori-aaa-mount-check/06-hozuki-pouch-pack.webp"
+    ],
+    "distinctPhotos": 6,
+    "rawNonSpace": 2361,
+    "productName": "스노우피크 미니호즈키 모리 캠핑 랜턴",
+    "productCheckedAt": "2026-11-15T04:25:23Z",
+    "dryRunPassedAt": "2026-11-15T04:31:42Z",
+    "reviewState": "approved",
+    "dryRunReceipt": "../_mac/bridge/results/20261115-shop-sportsdash-full-dryrun-v2.json",
+    "dryRunChecks": 63,
+    "reviewedBy": "LvnufLFHB9xO1dsJ"
+  }
+]
