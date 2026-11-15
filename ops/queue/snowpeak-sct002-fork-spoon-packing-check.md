@@ -18,7 +18,7 @@ product:
   url: "https://link.coupang.com/a/iHiQJvQYX6"
   landingHost: "www.coupang.com"
   verifiedAt: "2026-11-15T19:24:57+09:00"
-  evidence: "ops/queue/evidence/snowpeak-sct002-fork-spoon-packing-check.md"
+  evidence: "ops/evidence/snowpeak-sct002-fork-spoon-packing-check-link.md"
 images:
   - src: "/images/posts/snowpeak-sct002-fork-spoon-packing-check/01-sct01.webp"
     alt: "캠핑 아침 식탁의 그릇 옆에 놓은 포크와 스푼"
