@@ -1,0 +1,36 @@
+{
+  "slug": "aeros-premium-regular-pillow-size-air-check",
+  "manuscript": "ops/queue/aeros-premium-regular-pillow-size-air-check.md",
+  "jobs": [
+    {
+      "name": "01-ap1.webp",
+      "src": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261118-1920/ap1.png",
+      "width": 1280
+    },
+    {
+      "name": "02-ap2.webp",
+      "src": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261118-1920/ap2.png",
+      "width": 1280
+    },
+    {
+      "name": "03-ap3.webp",
+      "src": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261118-1920/ap3.png",
+      "width": 1280
+    },
+    {
+      "name": "04-ap4.webp",
+      "src": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261118-1920/ap4.png",
+      "width": 1280
+    },
+    {
+      "name": "05-ap5.webp",
+      "src": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261118-1920/ap5.png",
+      "width": 1280
+    },
+    {
+      "name": "06-ap6.webp",
+      "src": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261118-1920/ap6.png",
+      "width": 1280
+    }
+  ]
+}

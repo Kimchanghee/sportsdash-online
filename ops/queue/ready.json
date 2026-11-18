@@ -1,1 +1,31 @@
-[]
+[
+  {
+    "slug": "aeros-premium-regular-pillow-size-air-check",
+    "sourceURL": "https://www.coupang.com/vp/products/8521892302?itemId=28038665508&vendorItemId=95376067831",
+    "issuedURI": "https://link.coupang.com/a/iMhG34jGg0",
+    "productName": "씨투써밋 에어로 필로우 프리미엄 레귤러 베개(필로우 락 패치)",
+    "option": "레귤러 / 메디테라니아 / 1개",
+    "verifyTokens": [
+      "8521892302 - 28038665508",
+      "레귤러",
+      "메디테라니아"
+    ],
+    "file": "ops/queue/aeros-premium-regular-pillow-size-air-check.md",
+    "manuscript": "ops/queue/aeros-premium-regular-pillow-size-air-check.md",
+    "evidence": "ops/queue/evidence/aeros-premium-regular-pillow-size-air-check.md",
+    "images": [
+      "ops/queue/images/aeros-premium-regular-pillow-size-air-check/01-ap1.webp",
+      "ops/queue/images/aeros-premium-regular-pillow-size-air-check/02-ap2.webp",
+      "ops/queue/images/aeros-premium-regular-pillow-size-air-check/03-ap3.webp",
+      "ops/queue/images/aeros-premium-regular-pillow-size-air-check/04-ap4.webp",
+      "ops/queue/images/aeros-premium-regular-pillow-size-air-check/05-ap5.webp",
+      "ops/queue/images/aeros-premium-regular-pillow-size-air-check/06-ap6.webp"
+    ],
+    "preparedAt": "2026-11-18T10:42:12Z",
+    "verifiedAt": "2026-11-18T10:37:56Z",
+    "creatorSessionId": "VhL995F7QaZyzI0x",
+    "slot": "20261118-1920-shop",
+    "dryRunPassedAt": "2026-11-18T10:45:45.512Z",
+    "dryRunBridgeReceipt": "rebuild-202610/_mac/bridge/results/20261118-1920-shop-dryrun-aligned.json"
+  }
+]

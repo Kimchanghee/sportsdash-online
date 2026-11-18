@@ -1,0 +1,87 @@
+{
+  "observedUTC": "2026-11-18T10:42:13.064Z",
+  "creatorSessionId": "VhL995F7QaZyzI0x",
+  "slot": "20261118-1920-shop",
+  "photoCount": 6,
+  "method": "Exact original read_file visual inspection once each; native manufacturer reference matched. No QA collage or resized QA copies.",
+  "photos": [
+    {
+      "id": "ap1",
+      "source": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261118-1920/ap1.png",
+      "sourceSHA256": "b59e23d45ef8485ef4ecdfc4f039f48c2ef21e87a6566e4d0debdedc6355c660",
+      "sourceBytes": 2977923,
+      "sourceWidth": 1536,
+      "sourceHeight": 1024,
+      "target": "ops/queue/images/aeros-premium-regular-pillow-size-air-check/01-ap1.webp",
+      "targetSHA256": "8d0508f0226ca5385541b8a8f38fb210ca7af2a0088ffc8be420f229949da655",
+      "targetBytes": 142092,
+      "visualQA": "accepted; distinct role; no logo/text/art anomaly; ALT grounded to visible scene; conceptual not actual use/performance proof",
+      "pngCRCChunksVerified": 4
+    },
+    {
+      "id": "ap2",
+      "source": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261118-1920/ap2.png",
+      "sourceSHA256": "d3dc33fc75d79febf56ff99afd6f73bf3fbfc7f45255bf7753a05b08c3c0208d",
+      "sourceBytes": 3416291,
+      "sourceWidth": 1536,
+      "sourceHeight": 1024,
+      "target": "ops/queue/images/aeros-premium-regular-pillow-size-air-check/02-ap2.webp",
+      "targetSHA256": "6fad53b1a2dbce73baa96547c6acc7ce6a348868f28591b4e0e21a0b5491b7ce",
+      "targetBytes": 162456,
+      "visualQA": "accepted; distinct role; no logo/text/art anomaly; ALT grounded to visible scene; conceptual not actual use/performance proof",
+      "pngCRCChunksVerified": 4
+    },
+    {
+      "id": "ap3",
+      "source": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261118-1920/ap3.png",
+      "sourceSHA256": "4c30f52001801ff7eca1a2c56254d9895b0be2fec0bac54a0c0fa3fbcf54eb85",
+      "sourceBytes": 2838179,
+      "sourceWidth": 1536,
+      "sourceHeight": 1024,
+      "target": "ops/queue/images/aeros-premium-regular-pillow-size-air-check/03-ap3.webp",
+      "targetSHA256": "c5d9d1262176540873c8a39b1837645e8c53c17969da7e398932e63ae50d5576",
+      "targetBytes": 130716,
+      "visualQA": "accepted; distinct role; no logo/text/art anomaly; ALT grounded to visible scene; conceptual not actual use/performance proof",
+      "pngCRCChunksVerified": 4
+    },
+    {
+      "id": "ap4",
+      "source": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261118-1920/ap4.png",
+      "sourceSHA256": "43996ccf69d8b02fd50083081e4f7932469ef704107b6a7e30f05a4bccf0881b",
+      "sourceBytes": 2972783,
+      "sourceWidth": 1536,
+      "sourceHeight": 1024,
+      "target": "ops/queue/images/aeros-premium-regular-pillow-size-air-check/04-ap4.webp",
+      "targetSHA256": "d3844242ddd98a03d08a19109b57e0150c1c039cf625207554e82bd0cd5b7bb4",
+      "targetBytes": 144436,
+      "visualQA": "accepted; distinct role; no logo/text/art anomaly; ALT grounded to visible scene; conceptual not actual use/performance proof",
+      "pngCRCChunksVerified": 4
+    },
+    {
+      "id": "ap5",
+      "source": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261118-1920/ap5.png",
+      "sourceSHA256": "0394f5ec5a13117105674bc6ba97d8af951c553dc3609e1f1054f3ae880eda22",
+      "sourceBytes": 3424820,
+      "sourceWidth": 1536,
+      "sourceHeight": 1024,
+      "target": "ops/queue/images/aeros-premium-regular-pillow-size-air-check/05-ap5.webp",
+      "targetSHA256": "cee9521ac8ff7a2f777530fe6429e5bba4a9dde0ec2ce774d728fc977860b7d8",
+      "targetBytes": 248774,
+      "visualQA": "accepted; distinct role; no logo/text/art anomaly; ALT grounded to visible scene; conceptual not actual use/performance proof",
+      "pngCRCChunksVerified": 4
+    },
+    {
+      "id": "ap6",
+      "source": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261118-1920/ap6.png",
+      "sourceSHA256": "f3fe9e85ae2fd734665240b7db3ea21ef334e5d3165769db2ed5e470c8c8b34e",
+      "sourceBytes": 2905448,
+      "sourceWidth": 1536,
+      "sourceHeight": 1024,
+      "target": "ops/queue/images/aeros-premium-regular-pillow-size-air-check/06-ap6.webp",
+      "targetSHA256": "871717b5b99f7b6695b1512dcaba73e26b0468c5ab76afda77ad7ee3b1a9bb7e",
+      "targetBytes": 158086,
+      "visualQA": "accepted; distinct role; no logo/text/art anomaly; ALT grounded to visible scene; conceptual not actual use/performance proof",
+      "pngCRCChunksVerified": 4
+    }
+  ]
+}
