@@ -1,0 +1,75 @@
+{
+  "observedUTC": "2026-11-18T04:32:26.526Z",
+  "slot": "20261118-1300-shop",
+  "creatorSessionId": "d8zxn8V3ZO3cCgDc",
+  "photoCount": 6,
+  "method": "read_file exact original each; actual WebP output from selected source. No QA-only image copies",
+  "photos": [
+    {
+      "id": "zl1",
+      "source": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261118-1300/zl1.png",
+      "sourceSHA256": "e968ccd33dc7348b4ccc4b67d0e695eb2f9f7d9e5ed9ad8c18e24abec325887b",
+      "sourceBytes": 3097545,
+      "target": "ops/queue/images/thermarest-zlite-sol-regular-rvalue-pack-check/01-zl1.webp",
+      "targetSHA256": "288f12bbfbc68671ee4014bd895696e936b1ff1a2bfeade9eae273efabf9cee4",
+      "targetBytes": 201010,
+      "crop": null,
+      "visualQA": "blue/silver foam dimpled accordion mat; silver side up; zl6fix plain logo-free end panel; no measured-temperature claim"
+    },
+    {
+      "id": "zl2",
+      "source": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261118-1300/zl2.png",
+      "sourceSHA256": "a9f832db2b063bd02aa5108b3650ff6a9f7b780518cd0d50bd0ca6cd65ccb6ea",
+      "sourceBytes": 3062921,
+      "target": "ops/queue/images/thermarest-zlite-sol-regular-rvalue-pack-check/02-zl2.webp",
+      "targetSHA256": "99ccd79dda69bfcd3e924cff3b156851b95d752bdd3e8e479552e28f0786eff4",
+      "targetBytes": 225822,
+      "crop": null,
+      "visualQA": "blue/silver foam dimpled accordion mat; silver side up; zl6fix plain logo-free end panel; no measured-temperature claim"
+    },
+    {
+      "id": "zl3",
+      "source": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261118-1300/zl3.png",
+      "sourceSHA256": "565853b584ee252d5975175b120e25dee196611f0728fe14c16a707d4149d994",
+      "sourceBytes": 3308937,
+      "target": "ops/queue/images/thermarest-zlite-sol-regular-rvalue-pack-check/03-zl3.webp",
+      "targetSHA256": "ee7ab39b06245912323f47b3b02429a467c2a83381269bc64a51dd99e5220df4",
+      "targetBytes": 242402,
+      "crop": null,
+      "visualQA": "blue/silver foam dimpled accordion mat; silver side up; zl6fix plain logo-free end panel; no measured-temperature claim"
+    },
+    {
+      "id": "zl4",
+      "source": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261118-1300/zl4.png",
+      "sourceSHA256": "5e13e23eedc2c369410c085c0e78f46107270228e16321c6ca760d137dcbe82d",
+      "sourceBytes": 2884909,
+      "target": "ops/queue/images/thermarest-zlite-sol-regular-rvalue-pack-check/04-zl4.webp",
+      "targetSHA256": "fd91578035165cd495897882efb52a498549b3764b0093dc089e93bea3d38b63",
+      "targetBytes": 141184,
+      "crop": null,
+      "visualQA": "blue/silver foam dimpled accordion mat; silver side up; zl6fix plain logo-free end panel; no measured-temperature claim"
+    },
+    {
+      "id": "zl5",
+      "source": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261118-1300/zl5.png",
+      "sourceSHA256": "3ea787f2d94e70885b2c35142671a4e34ab4e401b3c8c5076399c9987413fcd3",
+      "sourceBytes": 2971809,
+      "target": "ops/queue/images/thermarest-zlite-sol-regular-rvalue-pack-check/05-zl5.webp",
+      "targetSHA256": "5c0109c30641f9f003cc3c3aada41f065c5cc6d6919e4b97374a372c00d07825",
+      "targetBytes": 190280,
+      "crop": null,
+      "visualQA": "blue/silver foam dimpled accordion mat; silver side up; zl6fix plain logo-free end panel; no measured-temperature claim"
+    },
+    {
+      "id": "zl6fix",
+      "source": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261118-1300/zl6fix.png",
+      "sourceSHA256": "6d3389c2268f38c38bf85bc876ed1aa4486df77fc31ee5dbb70b1dc8e902788a",
+      "sourceBytes": 3271534,
+      "target": "ops/queue/images/thermarest-zlite-sol-regular-rvalue-pack-check/06-zl6fix.webp",
+      "targetSHA256": "275abafb8049d4541c38d12eaa7f397f879e622ef082168cd99df3d5e01afcb6",
+      "targetBytes": 231742,
+      "crop": null,
+      "visualQA": "blue/silver foam dimpled accordion mat; silver side up; zl6fix plain logo-free end panel; no measured-temperature claim"
+    }
+  ]
+}

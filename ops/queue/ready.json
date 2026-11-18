@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "slug": "thermarest-zlite-sol-regular-rvalue-pack-check",
+    "sourceURL": "https://www.coupang.com/vp/products/6588288640?itemId=14855821635&vendorItemId=95331998218",
+    "issuedURI": "https://link.coupang.com/a/iLQOr4Nc9k",
+    "productName": "써머레스트 Z 라이트 솔 레귤러",
+    "option": "실버블루 / 레귤러 / 1개 / 30118 일본 판매 표기",
+    "verifyTokens": [
+      "6588288640 - 14855821635",
+      "30118"
+    ],
+    "file": "ops/queue/thermarest-zlite-sol-regular-rvalue-pack-check.md",
+    "images": [
+      "ops/queue/images/thermarest-zlite-sol-regular-rvalue-pack-check/01-zl1.webp",
+      "ops/queue/images/thermarest-zlite-sol-regular-rvalue-pack-check/02-zl2.webp",
+      "ops/queue/images/thermarest-zlite-sol-regular-rvalue-pack-check/03-zl3.webp",
+      "ops/queue/images/thermarest-zlite-sol-regular-rvalue-pack-check/04-zl4.webp",
+      "ops/queue/images/thermarest-zlite-sol-regular-rvalue-pack-check/05-zl5.webp",
+      "ops/queue/images/thermarest-zlite-sol-regular-rvalue-pack-check/06-zl6fix.webp"
+    ],
+    "preparedAt": "2026-11-18T04:25:15.374Z",
+    "creatorSessionId": "d8zxn8V3ZO3cCgDc",
+    "slot": "20261118-1300-shop",
+    "manuscript": "ops/queue/thermarest-zlite-sol-regular-rvalue-pack-check.md",
+    "evidence": "ops/queue/evidence/thermarest-zlite-sol-regular-rvalue-pack-check.md",
+    "verifiedAt": "2026-11-18T04:27:56Z",
+    "dryRunPassedAt": "2026-11-18T04:39:38.127Z",
+    "dryRunReceipt": "rebuild-202610/_mac/bridge/results/20261118-1300-shop-inline-final-dryrun.json",
+    "nativeVerifiedAt": "2026-11-18T04:27:56Z",
+    "photoCount": 6
+  }
+]
