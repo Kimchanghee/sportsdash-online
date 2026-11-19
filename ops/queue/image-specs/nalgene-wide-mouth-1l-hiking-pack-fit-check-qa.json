@@ -1,0 +1,81 @@
+{
+  "observedUTC": "2026-11-19T10:40:29.984Z",
+  "creatorSessionId": "TD5DeGmfm90YOfVQ",
+  "slot": "20261119-1920-shop",
+  "photoCount": 6,
+  "method": "Exact original read_file visual inspection once each; native manufacturer reference matched. No QA collage or resized QA copies.",
+  "photos": [
+    {
+      "id": "nb1",
+      "source": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261119-1920/nb1.png",
+      "sourceSHA256": "44695831116b5b6db49b2c5610e26e9eb88856ae091be11974ade72ebb80119f",
+      "sourceBytes": 2568464,
+      "sourceWidth": 1536,
+      "sourceHeight": 1024,
+      "target": "ops/queue/images/nalgene-wide-mouth-1l-hiking-pack-fit-check/01-nb1.webp",
+      "targetSHA256": "3f6ff2046209d98d508c6fe15eaea41931db6d25b0a6504ecfeec1334281cdf1",
+      "targetBytes": 141370,
+      "visualQA": "accepted; distinct role; no logo/text/art anomaly; ALT grounded to visible scene; conceptual not actual use/performance proof"
+    },
+    {
+      "id": "nb2",
+      "source": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261119-1920/nb2.png",
+      "sourceSHA256": "1c8af14d797daed00f567a815b1aba2e8677941ba9741dd5853ef8d66565b9a6",
+      "sourceBytes": 2142539,
+      "sourceWidth": 1536,
+      "sourceHeight": 1024,
+      "target": "ops/queue/images/nalgene-wide-mouth-1l-hiking-pack-fit-check/02-nb2.webp",
+      "targetSHA256": "1a12606bff2f4a2218547dfa41e90b8c7f79d8884c817623fa468fb5c8ebf0e4",
+      "targetBytes": 103776,
+      "visualQA": "accepted; distinct role; no logo/text/art anomaly; ALT grounded to visible scene; conceptual not actual use/performance proof"
+    },
+    {
+      "id": "nb3",
+      "source": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261119-1920/nb3.png",
+      "sourceSHA256": "b00092e8f6b877c4bfaecf798187f22eedfbb7e7cbd5416bf5b222fa66bc14cb",
+      "sourceBytes": 2466218,
+      "sourceWidth": 1536,
+      "sourceHeight": 1024,
+      "target": "ops/queue/images/nalgene-wide-mouth-1l-hiking-pack-fit-check/03-nb3.webp",
+      "targetSHA256": "3d20c89d5d02230a4533a300b28b933c4145d6e7a32a2a2c7b8e381a72c10e5e",
+      "targetBytes": 120502,
+      "visualQA": "accepted; distinct role; no logo/text/art anomaly; ALT grounded to visible scene; conceptual not actual use/performance proof"
+    },
+    {
+      "id": "nb4",
+      "source": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261119-1920/nb4.png",
+      "sourceSHA256": "4b745897c44da29dd54631693073ca921ec48a61394067f6a6db2d9cbf43019d",
+      "sourceBytes": 2652227,
+      "sourceWidth": 1536,
+      "sourceHeight": 1024,
+      "target": "ops/queue/images/nalgene-wide-mouth-1l-hiking-pack-fit-check/04-nb4.webp",
+      "targetSHA256": "74d56f5aba1f6efc8fbc0b023f26dd7e977f28c92a53398abbbd59aea5e665b0",
+      "targetBytes": 167088,
+      "visualQA": "accepted; distinct role; no logo/text/art anomaly; ALT grounded to visible scene; conceptual not actual use/performance proof"
+    },
+    {
+      "id": "nb5",
+      "source": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261119-1920/nb5.png",
+      "sourceSHA256": "04d0b30b55b429fc3a637ce1e2334314014c848506b7a70ec24b24efe9e17eae",
+      "sourceBytes": 2579768,
+      "sourceWidth": 1536,
+      "sourceHeight": 1024,
+      "target": "ops/queue/images/nalgene-wide-mouth-1l-hiking-pack-fit-check/05-nb5.webp",
+      "targetSHA256": "f680b365adf1c186800bfe1661ddf9f3c16ebfa06e45bae131686773314e1b6c",
+      "targetBytes": 149926,
+      "visualQA": "accepted; distinct role; no logo/text/art anomaly; ALT grounded to visible scene; conceptual not actual use/performance proof"
+    },
+    {
+      "id": "nb6",
+      "source": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261119-1920/nb6.png",
+      "sourceSHA256": "2836e2ab69d749302ec48a997ba9fe5099b90fee1c95f68e8515b3b036cdab24",
+      "sourceBytes": 2393398,
+      "sourceWidth": 1536,
+      "sourceHeight": 1024,
+      "target": "ops/queue/images/nalgene-wide-mouth-1l-hiking-pack-fit-check/06-nb6.webp",
+      "targetSHA256": "e441c95bae8fdc3f597033874ccaf55d873eccc198e06fb06a39543c9a710899",
+      "targetBytes": 128372,
+      "visualQA": "accepted; distinct role; no logo/text/art anomaly; ALT grounded to visible scene; conceptual not actual use/performance proof"
+    }
+  ]
+}
