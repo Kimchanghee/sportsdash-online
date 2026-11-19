@@ -1,0 +1,87 @@
+{
+  "observedUTC": "2026-11-19T04:25:11.710Z",
+  "creatorSessionId": "P6HMkyeVTUCG88Qe",
+  "slot": "20261119-1300-shop",
+  "photoCount": 6,
+  "method": "Exact original read_file visual inspection once each; native manufacturer reference matched. No QA collage or resized QA copies.",
+  "photos": [
+    {
+      "id": "mb1",
+      "source": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261119-1300/mb1.png",
+      "sourceSHA256": "0fc030be696e2d08fa484a72c27e25a3974b11d880f60879b04e9c4df1990ba9",
+      "sourceBytes": 2838017,
+      "sourceWidth": 1536,
+      "sourceHeight": 1024,
+      "target": "ops/queue/images/triggerpoint-mb1-single-ball-foam-choice/01-mb1.webp",
+      "targetSHA256": "959f4b6f8b38a324775af7cfc5e14a821e474bbb14a917deaa9b8fe9d2907f79",
+      "targetBytes": 166466,
+      "visualQA": "accepted; distinct role; no logo/text/art anomaly; ALT grounded to visible scene; conceptual not actual use/performance proof",
+      "pngCRCChunksVerified": 4
+    },
+    {
+      "id": "mb2",
+      "source": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261119-1300/mb2.png",
+      "sourceSHA256": "6f6c04da1633357e671d2ea5aeb0cc9e700ca987eafcb2a1b3976d9aea0d5f91",
+      "sourceBytes": 2793030,
+      "sourceWidth": 1536,
+      "sourceHeight": 1024,
+      "target": "ops/queue/images/triggerpoint-mb1-single-ball-foam-choice/02-mb2.webp",
+      "targetSHA256": "f5995f495dcdcaa9038c46e73437201f5a4af7e5a01f2855d1d9fb8e3eeef962",
+      "targetBytes": 174830,
+      "visualQA": "accepted; distinct role; no logo/text/art anomaly; ALT grounded to visible scene; conceptual not actual use/performance proof",
+      "pngCRCChunksVerified": 4
+    },
+    {
+      "id": "mb3",
+      "source": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261119-1300/mb3.png",
+      "sourceSHA256": "05660122098cddc88a2aea62d53055d2c3915fa7bf4eb2e49765cddb4ca14296",
+      "sourceBytes": 2768208,
+      "sourceWidth": 1536,
+      "sourceHeight": 1024,
+      "target": "ops/queue/images/triggerpoint-mb1-single-ball-foam-choice/03-mb3.webp",
+      "targetSHA256": "bdd1ae543702bf52a9826c4f95675431fbf4494b320c4f6544f9c0a65a375353",
+      "targetBytes": 153770,
+      "visualQA": "accepted; distinct role; no logo/text/art anomaly; ALT grounded to visible scene; conceptual not actual use/performance proof",
+      "pngCRCChunksVerified": 4
+    },
+    {
+      "id": "mb4",
+      "source": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261119-1300/mb4.png",
+      "sourceSHA256": "0177fb9510ab33602a95ae96453f66758bc1bb5937cba1c50ca1e3ad33247ef9",
+      "sourceBytes": 2908436,
+      "sourceWidth": 1536,
+      "sourceHeight": 1024,
+      "target": "ops/queue/images/triggerpoint-mb1-single-ball-foam-choice/04-mb4.webp",
+      "targetSHA256": "51d072e8dab8abf11af3bcb80d13c038f5073be6d81b12b7444e54543233297d",
+      "targetBytes": 161906,
+      "visualQA": "accepted; distinct role; no logo/text/art anomaly; ALT grounded to visible scene; conceptual not actual use/performance proof",
+      "pngCRCChunksVerified": 4
+    },
+    {
+      "id": "mb5",
+      "source": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261119-1300/mb5.png",
+      "sourceSHA256": "8dfdc0d3b8a8cfb98dfcef2f5f0ed05c8d56c48339a20aea0fe3c46154ecb6ce",
+      "sourceBytes": 2714448,
+      "sourceWidth": 1536,
+      "sourceHeight": 1024,
+      "target": "ops/queue/images/triggerpoint-mb1-single-ball-foam-choice/05-mb5.webp",
+      "targetSHA256": "e86fdc878759d332cfd3fcb0501215684d2282e59986d39696adf2ef490cbbfc",
+      "targetBytes": 153184,
+      "visualQA": "accepted; distinct role; no logo/text/art anomaly; ALT grounded to visible scene; conceptual not actual use/performance proof",
+      "pngCRCChunksVerified": 4
+    },
+    {
+      "id": "mb6",
+      "source": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261119-1300/mb6.png",
+      "sourceSHA256": "e1a82310f8117a1b0e5e4f592d65b27f631b4033bf1fef0a2d5f0fd250d8e2a5",
+      "sourceBytes": 3037511,
+      "sourceWidth": 1536,
+      "sourceHeight": 1024,
+      "target": "ops/queue/images/triggerpoint-mb1-single-ball-foam-choice/06-mb6.webp",
+      "targetSHA256": "44f07aceb31b190a9644b10895dc88c1fb309ba8c88cb69698fb207e0ff83a20",
+      "targetBytes": 189288,
+      "visualQA": "accepted; distinct role; no logo/text/art anomaly; ALT grounded to visible scene; conceptual not actual use/performance proof",
+      "pngCRCChunksVerified": 4
+    }
+  ]
+}

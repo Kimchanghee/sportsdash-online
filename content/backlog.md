@@ -51,3 +51,5 @@
 | 지라이트 솔 레귤러, 겨울에도 한 장이면 될까? | thermarest-zlite-sol-regular-rvalue-pack-check | queued | 2026-11-18 SHOP 13:00; 6 photos; native option verified; publication pending |
 
 | 에어로 프리미엄 레귤러, 라지 대신 골라도 될까? | aeros-premium-regular-pillow-size-air-check | queued | 2026-11-18 SHOP 19:20; 6 photos; isolated dry-run passed; publication pending |
+
+| MB1 마사지볼, 폼롤러 대신 작은 공이 필요할까? | triggerpoint-mb1-single-ball-foam-choice | queued | 2026-11-19 SHOP 13:00; 6 photos; isolated dry-run passed; publication pending |

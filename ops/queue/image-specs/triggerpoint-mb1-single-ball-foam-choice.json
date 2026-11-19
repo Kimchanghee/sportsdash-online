@@ -1,0 +1,36 @@
+{
+  "slug": "triggerpoint-mb1-single-ball-foam-choice",
+  "manuscript": "ops/queue/triggerpoint-mb1-single-ball-foam-choice.md",
+  "jobs": [
+    {
+      "name": "01-mb1.webp",
+      "src": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261119-1300/mb1.png",
+      "width": 1280
+    },
+    {
+      "name": "02-mb2.webp",
+      "src": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261119-1300/mb2.png",
+      "width": 1280
+    },
+    {
+      "name": "03-mb3.webp",
+      "src": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261119-1300/mb3.png",
+      "width": 1280
+    },
+    {
+      "name": "04-mb4.webp",
+      "src": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261119-1300/mb4.png",
+      "width": 1280
+    },
+    {
+      "name": "05-mb5.webp",
+      "src": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261119-1300/mb5.png",
+      "width": 1280
+    },
+    {
+      "name": "06-mb6.webp",
+      "src": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261119-1300/mb6.png",
+      "width": 1280
+    }
+  ]
+}
