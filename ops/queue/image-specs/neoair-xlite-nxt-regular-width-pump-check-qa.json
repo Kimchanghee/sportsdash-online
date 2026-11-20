@@ -1,0 +1,81 @@
+{
+  "observedUTC": "2026-11-20T10:39:28.412Z",
+  "creatorSessionId": "csIcW2hT5iIPrYXo",
+  "slot": "20261120-1920-shop",
+  "photoCount": 6,
+  "method": "Exact original read_file visual inspection once each; native manufacturer reference matched. No QA collage or resized QA copies.",
+  "photos": [
+    {
+      "id": "nx1",
+      "source": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261120-1920/nx1.png",
+      "sourceSHA256": "4e7a6096515e235bb9c0e968fcf82224ec8e8a4a47440fa959586237febbc156",
+      "sourceBytes": 2756487,
+      "sourceWidth": 1536,
+      "sourceHeight": 1024,
+      "target": "ops/queue/images/neoair-xlite-nxt-regular-width-pump-check/01-nx1.webp",
+      "targetSHA256": "4994689905c6cecd130873e0942c918d3dc618f0c2cdcd0dd344d43e54d54fd5",
+      "targetBytes": 154202,
+      "visualQA": "accepted; distinct role; no logo/text/art anomaly; ALT grounded to visible scene; conceptual not actual use/performance proof"
+    },
+    {
+      "id": "nx2",
+      "source": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261120-1920/nx2.png",
+      "sourceSHA256": "60d15578ab5ebc8950e792f80f679c867fe95d982580bf72f5a5a11c1b3c9832",
+      "sourceBytes": 2595558,
+      "sourceWidth": 1536,
+      "sourceHeight": 1024,
+      "target": "ops/queue/images/neoair-xlite-nxt-regular-width-pump-check/02-nx2.webp",
+      "targetSHA256": "af2d2e7f280ff5bfa6ce714203f7d5303fe53b3d9f96271c1d859b712ebc33a8",
+      "targetBytes": 89770,
+      "visualQA": "accepted; distinct role; no logo/text/art anomaly; ALT grounded to visible scene; conceptual not actual use/performance proof"
+    },
+    {
+      "id": "nx3",
+      "source": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261120-1920/nx3.png",
+      "sourceSHA256": "7ed8f39d384548ac3a214775a794903b9ff667f33a01a4b39539f591c01a95f9",
+      "sourceBytes": 2709594,
+      "sourceWidth": 1536,
+      "sourceHeight": 1024,
+      "target": "ops/queue/images/neoair-xlite-nxt-regular-width-pump-check/03-nx3.webp",
+      "targetSHA256": "d7900a84a33da8cb4282e3591a6ea7efc0e1e53fae4b952af48855c4ed3696d5",
+      "targetBytes": 129220,
+      "visualQA": "accepted; distinct role; no logo/text/art anomaly; ALT grounded to visible scene; conceptual not actual use/performance proof"
+    },
+    {
+      "id": "nx4-fabric",
+      "source": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261120-1920/nx4-fabric.png",
+      "sourceSHA256": "d861792d9c077673efc34c86d4ef66e873fac66260c886dc20f5f043f22f6bc4",
+      "sourceBytes": 2096453,
+      "sourceWidth": 1536,
+      "sourceHeight": 1024,
+      "target": "ops/queue/images/neoair-xlite-nxt-regular-width-pump-check/04-nx4-fabric.webp",
+      "targetSHA256": "90b1d9c2f146f6b688719a705f79d84bcdface704f7ef8754e1603000951bcce",
+      "targetBytes": 69616,
+      "visualQA": "accepted; distinct role; no logo/text/art anomaly; ALT grounded to visible scene; conceptual not actual use/performance proof"
+    },
+    {
+      "id": "nx5",
+      "source": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261120-1920/nx5.png",
+      "sourceSHA256": "48a1da17b3b46c95f5bba37b3951ad944fb84a35ddffec456cbb8ff5ff9deb29",
+      "sourceBytes": 2478665,
+      "sourceWidth": 1536,
+      "sourceHeight": 1024,
+      "target": "ops/queue/images/neoair-xlite-nxt-regular-width-pump-check/05-nx5.webp",
+      "targetSHA256": "588d0d93635e9805888f44fec374478d15776c60dadefca82daa368057013114",
+      "targetBytes": 109730,
+      "visualQA": "accepted; distinct role; no logo/text/art anomaly; ALT grounded to visible scene; conceptual not actual use/performance proof"
+    },
+    {
+      "id": "nx6",
+      "source": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261120-1920/nx6.png",
+      "sourceSHA256": "d734923fa8dc2f498dee3b26572c0a5158b0dbec70e06176df78ac72d9dd2885",
+      "sourceBytes": 2806941,
+      "sourceWidth": 1536,
+      "sourceHeight": 1024,
+      "target": "ops/queue/images/neoair-xlite-nxt-regular-width-pump-check/06-nx6.webp",
+      "targetSHA256": "d89c5ba8ae2d2a4e3640a22efbe9b85269e07e371c5a28e7497285973202d5cd",
+      "targetBytes": 155394,
+      "visualQA": "accepted; distinct role; no logo/text/art anomaly; ALT grounded to visible scene; conceptual not actual use/performance proof"
+    }
+  ]
+}

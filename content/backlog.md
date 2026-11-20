@@ -57,3 +57,5 @@
 | 날진 1L 등산 물통, 와이드 입구부터 골라야 할까? | nalgene-wide-mouth-1l-hiking-pack-fit-check | queued | 2026-11-19 SHOP 19:20; 6 photos; isolated dry-run passed; publication pending |
 
 | 씨투써밋 드라이백 8L, 배낭 안과 물속은 다를까? | seatosummit-lightweight-8l-rolltop-pack-check | queued | 2026-11-20 SHOP 13:00; 6 photos; isolated dry-run passed; publication pending |
+
+| 엑스라이트 NXT R, 51cm 폭이면 충분할까요? | neoair-xlite-nxt-regular-width-pump-check | queued | 2026-11-20 SHOP 19:20; 6 photos; isolated dry-run passed; publication pending |

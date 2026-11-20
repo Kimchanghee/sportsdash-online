@@ -1,0 +1,36 @@
+{
+  "slug": "neoair-xlite-nxt-regular-width-pump-check",
+  "manuscript": "ops/queue/neoair-xlite-nxt-regular-width-pump-check.md",
+  "jobs": [
+    {
+      "name": "01-nx1.webp",
+      "src": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261120-1920/nx1.png",
+      "width": 1280
+    },
+    {
+      "name": "02-nx2.webp",
+      "src": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261120-1920/nx2.png",
+      "width": 1280
+    },
+    {
+      "name": "03-nx3.webp",
+      "src": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261120-1920/nx3.png",
+      "width": 1280
+    },
+    {
+      "name": "04-nx4-fabric.webp",
+      "src": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261120-1920/nx4-fabric.png",
+      "width": 1280
+    },
+    {
+      "name": "05-nx5.webp",
+      "src": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261120-1920/nx5.png",
+      "width": 1280
+    },
+    {
+      "name": "06-nx6.webp",
+      "src": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261120-1920/nx6.png",
+      "width": 1280
+    }
+  ]
+}
