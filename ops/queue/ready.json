@@ -1,1 +1,31 @@
-[]
+[
+  {
+    "slug": "seatosummit-lightweight-8l-rolltop-pack-check",
+    "sourceURL": "https://www.coupang.com/vp/products/8715703030?itemId=25313930566&vendorItemId=92308986750",
+    "issuedURI": "https://link.coupang.com/a/iO983cg6Nw",
+    "productName": "씨투써밋 라이트웨이트 드라이 백 8L",
+    "option": "8L / 벨루가 / 1개",
+    "verifyTokens": [
+      "8L",
+      "벨루가",
+      "8715703030 - 25313930566"
+    ],
+    "file": "ops/queue/seatosummit-lightweight-8l-rolltop-pack-check.md",
+    "manuscript": "ops/queue/seatosummit-lightweight-8l-rolltop-pack-check.md",
+    "evidence": "ops/queue/evidence/seatosummit-lightweight-8l-rolltop-pack-check.md",
+    "images": [
+      "ops/queue/images/seatosummit-lightweight-8l-rolltop-pack-check/01-sd1.webp",
+      "ops/queue/images/seatosummit-lightweight-8l-rolltop-pack-check/02-sd2.webp",
+      "ops/queue/images/seatosummit-lightweight-8l-rolltop-pack-check/03-sd3-open.webp",
+      "ops/queue/images/seatosummit-lightweight-8l-rolltop-pack-check/04-sd4-detail.webp",
+      "ops/queue/images/seatosummit-lightweight-8l-rolltop-pack-check/05-sd5.webp",
+      "ops/queue/images/seatosummit-lightweight-8l-rolltop-pack-check/06-sd6-open.webp"
+    ],
+    "preparedAt": "2026-11-20T04:17:03Z",
+    "verifiedAt": "2026-11-20T04:03:58Z",
+    "creatorSessionId": "xphcVf8NPL5xEaUV",
+    "slot": "20261120-1300-shop",
+    "dryRunPassedAt": "2026-11-20T04:20:07.716Z",
+    "dryRunBridgeReceipt": "rebuild-202610/_mac/bridge/results/20261120-1300-shop-sports-dryrun-fixed-pointer.json"
+  }
+]

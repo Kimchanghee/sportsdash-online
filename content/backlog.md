@@ -55,3 +55,5 @@
 | MB1 마사지볼, 폼롤러 대신 작은 공이 필요할까? | triggerpoint-mb1-single-ball-foam-choice | queued | 2026-11-19 SHOP 13:00; 6 photos; isolated dry-run passed; publication pending |
 
 | 날진 1L 등산 물통, 와이드 입구부터 골라야 할까? | nalgene-wide-mouth-1l-hiking-pack-fit-check | queued | 2026-11-19 SHOP 19:20; 6 photos; isolated dry-run passed; publication pending |
+
+| 씨투써밋 드라이백 8L, 배낭 안과 물속은 다를까? | seatosummit-lightweight-8l-rolltop-pack-check | queued | 2026-11-20 SHOP 13:00; 6 photos; isolated dry-run passed; publication pending |

@@ -1,0 +1,81 @@
+{
+  "observedUTC": "2026-11-20T04:17:03.803Z",
+  "creatorSessionId": "xphcVf8NPL5xEaUV",
+  "slot": "20261120-1300-shop",
+  "photoCount": 6,
+  "method": "Exact original read_file visual inspection once each; native manufacturer reference matched. No QA collage or resized QA copies.",
+  "photos": [
+    {
+      "id": "sd1",
+      "source": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261120-1300/sd1.png",
+      "sourceSHA256": "aadd703bbecfc924f5d01c9612e9c3efee13d7666049802e5e3961439013f77f",
+      "sourceBytes": 2924282,
+      "sourceWidth": 1536,
+      "sourceHeight": 1024,
+      "target": "ops/queue/images/seatosummit-lightweight-8l-rolltop-pack-check/01-sd1.webp",
+      "targetSHA256": "2610b6e05a157b98ef0ef2cb8abe31bbe1a31fe9bff44d8907ff50c827be47e1",
+      "targetBytes": 183864,
+      "visualQA": "accepted; distinct role; no logo/text/art anomaly; ALT grounded to visible scene; conceptual not actual use/performance proof"
+    },
+    {
+      "id": "sd2",
+      "source": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261120-1300/sd2.png",
+      "sourceSHA256": "02da50ffe70cd67ae21579eed1607d881ad3dfedfb01fd26962849aa40933362",
+      "sourceBytes": 2654708,
+      "sourceWidth": 1536,
+      "sourceHeight": 1024,
+      "target": "ops/queue/images/seatosummit-lightweight-8l-rolltop-pack-check/02-sd2.webp",
+      "targetSHA256": "d7288583c4df2fbd0e96b5ffac36cfe7f3a5d1ddd6c7a98195cf78110603592d",
+      "targetBytes": 139800,
+      "visualQA": "accepted; distinct role; no logo/text/art anomaly; ALT grounded to visible scene; conceptual not actual use/performance proof"
+    },
+    {
+      "id": "sd3-open",
+      "source": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261120-1300/sd3-open.png",
+      "sourceSHA256": "7062b054f171effff09d8e46896281ebaa4cb46315a9dd48c6569e30859c21b1",
+      "sourceBytes": 2572530,
+      "sourceWidth": 1536,
+      "sourceHeight": 1024,
+      "target": "ops/queue/images/seatosummit-lightweight-8l-rolltop-pack-check/03-sd3-open.webp",
+      "targetSHA256": "80a18562be712d16a780bf88ca5f9f20fc916dc757157ec864564a8b3938545e",
+      "targetBytes": 127892,
+      "visualQA": "accepted; distinct role; no logo/text/art anomaly; ALT grounded to visible scene; conceptual not actual use/performance proof"
+    },
+    {
+      "id": "sd4-detail",
+      "source": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261120-1300/sd4-detail.png",
+      "sourceSHA256": "dfe7ee514265a611f6e0c4f165a0843c680a79664b3e2163af2dfcf171926152",
+      "sourceBytes": 3444961,
+      "sourceWidth": 1536,
+      "sourceHeight": 1024,
+      "target": "ops/queue/images/seatosummit-lightweight-8l-rolltop-pack-check/04-sd4-detail.webp",
+      "targetSHA256": "78e3fa62a6065d28791aa934698ce99cdbab3bb378ef3bd11b11bea22d037f1e",
+      "targetBytes": 214094,
+      "visualQA": "accepted; distinct role; no logo/text/art anomaly; ALT grounded to visible scene; conceptual not actual use/performance proof"
+    },
+    {
+      "id": "sd5",
+      "source": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261120-1300/sd5.png",
+      "sourceSHA256": "0a1d2c96062402b81693d11162ef81af4affc53f17c5045ec59ee689460fbe04",
+      "sourceBytes": 2800501,
+      "sourceWidth": 1536,
+      "sourceHeight": 1024,
+      "target": "ops/queue/images/seatosummit-lightweight-8l-rolltop-pack-check/05-sd5.webp",
+      "targetSHA256": "12769a9c0b89a717a1ca0962f433eca58bb41a6aa2ad5d9eecf27f16bdaf0f9e",
+      "targetBytes": 153592,
+      "visualQA": "accepted; distinct role; no logo/text/art anomaly; ALT grounded to visible scene; conceptual not actual use/performance proof"
+    },
+    {
+      "id": "sd6-open",
+      "source": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261120-1300/sd6-open.png",
+      "sourceSHA256": "2cb191bc6bc3e043232bb2e73b19190352c8c355ee6b8f2953a45990f2173ca2",
+      "sourceBytes": 2680994,
+      "sourceWidth": 1536,
+      "sourceHeight": 1024,
+      "target": "ops/queue/images/seatosummit-lightweight-8l-rolltop-pack-check/06-sd6-open.webp",
+      "targetSHA256": "e29e505c85ca369853f34b4fe22c716366b275d4b93b56bcfdc022ee3b8efb6b",
+      "targetBytes": 154976,
+      "visualQA": "accepted; distinct role; no logo/text/art anomaly; ALT grounded to visible scene; conceptual not actual use/performance proof"
+    }
+  ]
+}
