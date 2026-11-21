@@ -1,0 +1,41 @@
+{
+  "slug": "nemo-chipper-folded-pack-space-check",
+  "manuscript": "ops/queue/nemo-chipper-folded-pack-space-check.md",
+  "jobs": [
+    {
+      "name": "01-ch1.webp",
+      "src": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261121-1920/ch1.png",
+      "width": 1280
+    },
+    {
+      "name": "02-ch2-correct.webp",
+      "src": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261121-1920/ch2-correct.png",
+      "width": 1280
+    },
+    {
+      "name": "03-ch3-correct.webp",
+      "src": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261121-1920/ch3-correct.png",
+      "width": 1280
+    },
+    {
+      "name": "04-ch4.webp",
+      "src": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261121-1920/ch4.png",
+      "width": 1280
+    },
+    {
+      "name": "05-ch5.webp",
+      "src": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261121-1920/ch5.png",
+      "width": 1280
+    },
+    {
+      "name": "06-ch6.webp",
+      "src": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261121-1920/ch6.png",
+      "width": 1280
+    }
+  ],
+  "visualQA": "Originals read_file once each; target corrected photos only accepted",
+  "rejected": [
+    "ch2.png:elongated",
+    "ch3.png:three layers"
+  ]
+}

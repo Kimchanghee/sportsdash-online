@@ -1,0 +1,97 @@
+{
+  "observedUTC": "2026-11-21T10:39:42.725Z",
+  "creatorSessionId": "HHSQYEvVJbzqDG3o",
+  "slot": "20261121-1920-shop",
+  "photoCount": 6,
+  "photos": [
+    {
+      "id": "ch1",
+      "source": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261121-1920/ch1.png",
+      "sourceSHA256": "2228cd45c8bd1d8859bd824188d009032a1bf6b7fa0028f6b27da9c987de5531",
+      "sourceBytes": 3523539,
+      "sourceWidth": 1536,
+      "sourceHeight": 1024,
+      "target": "ops/queue/images/nemo-chipper-folded-pack-space-check/01-ch1.webp",
+      "targetSHA256": "933d98a7758bddf611b6be4888a48918871d353b94aed0011b00e63f74206f11",
+      "targetBytes": 287630,
+      "targetWidth": 1280,
+      "targetHeight": 853,
+      "visualQA": "accepted against real official identity and region; distinct scene; original read_file only; illustrative not actual test"
+    },
+    {
+      "id": "ch2-correct",
+      "source": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261121-1920/ch2-correct.png",
+      "sourceSHA256": "d9b4d4d3e749b7342c4bcee320cb0c8cf8d59a9243dbd9cdfbf8f9d7bc19523e",
+      "sourceBytes": 3320192,
+      "sourceWidth": 1437,
+      "sourceHeight": 1095,
+      "target": "ops/queue/images/nemo-chipper-folded-pack-space-check/02-ch2-correct.webp",
+      "targetSHA256": "0f2ee3f6529f508e68737eb13868859a55e923d29f5dc1c051b78a48d27100f0",
+      "targetBytes": 256104,
+      "targetWidth": 1280,
+      "targetHeight": 853,
+      "visualQA": "accepted against real official identity and region; distinct scene; original read_file only; illustrative not actual test"
+    },
+    {
+      "id": "ch3-correct",
+      "source": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261121-1920/ch3-correct.png",
+      "sourceSHA256": "dbe6fe7fb6db65af24c7648077e6a62f61b08b6f0ddaa74ad1770663c3ed513d",
+      "sourceBytes": 2668012,
+      "sourceWidth": 1536,
+      "sourceHeight": 1024,
+      "target": "ops/queue/images/nemo-chipper-folded-pack-space-check/03-ch3-correct.webp",
+      "targetSHA256": "7d2b043782981e274313b1217f0b0a944c99d605a77794aef488bb4463e99eef",
+      "targetBytes": 152302,
+      "targetWidth": 1280,
+      "targetHeight": 853,
+      "visualQA": "accepted against real official identity and region; distinct scene; original read_file only; illustrative not actual test"
+    },
+    {
+      "id": "ch4",
+      "source": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261121-1920/ch4.png",
+      "sourceSHA256": "9ea7c4c2769ac80811ab8bb4d8d35ec95e1b60e43423ae6dc0a25ab513f408f4",
+      "sourceBytes": 3353543,
+      "sourceWidth": 1536,
+      "sourceHeight": 1024,
+      "target": "ops/queue/images/nemo-chipper-folded-pack-space-check/04-ch4.webp",
+      "targetSHA256": "f3da6f9c4faf11fa69a6a7d76128e064ca6536839de27f96f28569d7c355d449",
+      "targetBytes": 254572,
+      "targetWidth": 1280,
+      "targetHeight": 853,
+      "visualQA": "accepted against real official identity and region; distinct scene; original read_file only; illustrative not actual test"
+    },
+    {
+      "id": "ch5",
+      "source": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261121-1920/ch5.png",
+      "sourceSHA256": "a7f15e7e01288987e9a8c8562b1dbcb2635a7b4603d241d17eb59ffa25471860",
+      "sourceBytes": 2788341,
+      "sourceWidth": 1536,
+      "sourceHeight": 1024,
+      "target": "ops/queue/images/nemo-chipper-folded-pack-space-check/05-ch5.webp",
+      "targetSHA256": "839ed0fef6e5e0c32eeab703b61de57fdf82e095dfa8a390f247f47f766ef239",
+      "targetBytes": 155778,
+      "targetWidth": 1280,
+      "targetHeight": 853,
+      "visualQA": "accepted against real official identity and region; distinct scene; original read_file only; illustrative not actual test"
+    },
+    {
+      "id": "ch6",
+      "source": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261121-1920/ch6.png",
+      "sourceSHA256": "f7437a9fc3d59239f582cab54eae23b120d84e8be83a1622be7c90794a3fe63a",
+      "sourceBytes": 2688030,
+      "sourceWidth": 1536,
+      "sourceHeight": 1024,
+      "target": "ops/queue/images/nemo-chipper-folded-pack-space-check/06-ch6.webp",
+      "targetSHA256": "1a9ebe3295ebbb33fe3d6a487196a2550ccb3dd7d820398da6e6f893a52a899c",
+      "targetBytes": 127948,
+      "targetWidth": 1280,
+      "targetHeight": 853,
+      "visualQA": "accepted against real official identity and region; distinct scene; original read_file only; illustrative not actual test"
+    }
+  ],
+  "rejected": [
+    "ch2.png:elongated",
+    "ch3.png:three layers"
+  ],
+  "originalReadFileQA": true
+}
