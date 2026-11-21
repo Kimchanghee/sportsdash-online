@@ -24,6 +24,8 @@
     "preparedAt": "2026-11-21T10:39:42.726Z",
     "verifiedAt": "2026-11-21T10:37:34.638Z",
     "creatorSessionId": "HHSQYEvVJbzqDG3o",
-    "slot": "20261121-1920-shop"
+    "slot": "20261121-1920-shop",
+    "dryRunPassedAt": "2026-11-21T10:42:18.729Z",
+    "dryRunReceipt": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/rebuild-202610/_mac/bridge/results/20261121-1920-shop-sports-dryrun-fixed.json"
   }
 ]
