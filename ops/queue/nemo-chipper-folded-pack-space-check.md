@@ -17,7 +17,7 @@ product:
   url: "https://link.coupang.com/a/iQPk4L0cYS"
   landingHost: "www.coupang.com"
   verifiedAt: "2026-11-21T10:37:34Z"
-  evidence: "ops/queue/evidence/nemo-chipper-folded-pack-space-check.md"
+  evidence: "ops/evidence/nemo-chipper-folded-pack-space-check.md"
 images:
   - src: "/images/posts/nemo-chipper-folded-pack-space-check/01-ch1.webp"
     alt: "가을 등산로의 평평한 돌 위에 펼친 혼합색 방석"
