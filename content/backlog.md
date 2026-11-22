@@ -61,3 +61,5 @@
 | 엑스라이트 NXT R, 51cm 폭이면 충분할까요? | neoair-xlite-nxt-regular-width-pump-check | queued | 2026-11-20 SHOP 19:20; 6 photos; isolated dry-run passed; publication pending |
 
 | 니모 치퍼 방석, 접은 뒤 배낭에 들어갈까요? | nemo-chipper-folded-pack-space-check | queued | 2026-11-21 SHOP 19:20; 6 photos; isolated rehearsal passed; publication pending |
+
+| spot400r-microusb-rechargeable-vs-aaa-check | pick | queued | 스팟400-R, 건전지 대신 충전해 쓰는 타입인가요? | 2026-11-22 SHOP; exact option; six inspected photos; isolated rehearsal pending |

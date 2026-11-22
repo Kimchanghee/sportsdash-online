@@ -1,0 +1,38 @@
+{
+  "slug": "spot400r-microusb-rechargeable-vs-aaa-check",
+  "manuscript": "ops/queue/spot400r-microusb-rechargeable-vs-aaa-check.md",
+  "jobs": [
+    {
+      "name": "01-sp1.webp",
+      "src": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261122-1300/sp1.png",
+      "width": 1280
+    },
+    {
+      "name": "02-sp2.webp",
+      "src": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261122-1300/sp2.png",
+      "width": 1280
+    },
+    {
+      "name": "03-sp3.webp",
+      "src": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261122-1300/sp3.png",
+      "width": 1280
+    },
+    {
+      "name": "04-sp4.webp",
+      "src": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261122-1300/sp4.png",
+      "width": 1280
+    },
+    {
+      "name": "05-sp5.webp",
+      "src": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261122-1300/sp5.png",
+      "width": 1280
+    },
+    {
+      "name": "06-sp6.webp",
+      "src": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261122-1300/sp6.png",
+      "width": 1280
+    }
+  ],
+  "visualQA": "All originals inspected through read_file only",
+  "rejected": []
+}
