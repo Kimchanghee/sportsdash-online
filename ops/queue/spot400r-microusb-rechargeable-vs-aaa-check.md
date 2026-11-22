@@ -17,7 +17,7 @@ product:
   url: "https://link.coupang.com/a/iSt3EiHDxc"
   landingHost: "www.coupang.com"
   verifiedAt: "2026-11-22T04:16:18Z"
-  evidence: "ops/queue/evidence/spot400r-microusb-rechargeable-vs-aaa-check.md"
+  evidence: "ops/evidence/spot400r-microusb-rechargeable-vs-aaa-check.md"
 images:
   - src: "/images/posts/spot400r-microusb-rechargeable-vs-aaa-check/01-sp1.webp"
     alt: "캠핑장 바위 위에서 배낭 지퍼 부근을 비추는 검은 헤드램프"
