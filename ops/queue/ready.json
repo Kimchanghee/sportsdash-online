@@ -1,1 +1,29 @@
-[]
+[
+  {
+    "slug": "trek900-titanium-900ml-pack-menu-check",
+    "sourceURL": "https://www.coupang.com/vp/products/6285909603?itemId=12928411965",
+    "issuedURI": "https://link.coupang.com/a/iSU8PMo92O",
+    "productName": "스노우피크 티타늄 트렉 900 쿠커 세트 SCS-008T",
+    "option": "SCS-008T / 단일 옵션 / 1개(포트·뚜껑 구성)",
+    "verifyTokens": [
+      "SCS-008T",
+      "단일 옵션",
+      "6285909603 - 12928411965"
+    ],
+    "file": "ops/queue/trek900-titanium-900ml-pack-menu-check.md",
+    "manuscript": "ops/queue/trek900-titanium-900ml-pack-menu-check.md",
+    "evidence": "ops/queue/evidence/trek900-titanium-900ml-pack-menu-check.md",
+    "images": [
+      "ops/queue/images/trek900-titanium-900ml-pack-menu-check/01-tr1-clean.webp",
+      "ops/queue/images/trek900-titanium-900ml-pack-menu-check/02-tr2.webp",
+      "ops/queue/images/trek900-titanium-900ml-pack-menu-check/03-tr3.webp",
+      "ops/queue/images/trek900-titanium-900ml-pack-menu-check/04-tr4.webp",
+      "ops/queue/images/trek900-titanium-900ml-pack-menu-check/05-tr5.webp",
+      "ops/queue/images/trek900-titanium-900ml-pack-menu-check/06-tr6.webp"
+    ],
+    "preparedAt": "2026-11-22T10:40:01.027Z",
+    "verifiedAt": "2026-11-22T10:29:20Z",
+    "creatorSessionId": "cI3qaFhcdNyL177Y",
+    "slot": "20261122-1920-shop"
+  }
+]

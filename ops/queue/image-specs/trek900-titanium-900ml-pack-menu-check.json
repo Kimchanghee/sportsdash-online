@@ -1,0 +1,116 @@
+{
+  "slug": "trek900-titanium-900ml-pack-menu-check",
+  "manuscript": "ops/queue/trek900-titanium-900ml-pack-menu-check.md",
+  "jobs": [
+    {
+      "name": "01-tr1-clean.webp",
+      "src": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261122-1920/tr1-clean.png",
+      "width": 1280
+    },
+    {
+      "name": "02-tr2.webp",
+      "src": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261122-1920/tr2.png",
+      "width": 1280
+    },
+    {
+      "name": "03-tr3.webp",
+      "src": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261122-1920/tr3.png",
+      "width": 1280
+    },
+    {
+      "name": "04-tr4.webp",
+      "src": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261122-1920/tr4.png",
+      "width": 1280
+    },
+    {
+      "name": "05-tr5.webp",
+      "src": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261122-1920/tr5.png",
+      "width": 1280
+    },
+    {
+      "name": "06-tr6.webp",
+      "src": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261122-1920/tr6.png",
+      "width": 1280
+    }
+  ],
+  "photos": [
+    {
+      "id": "tr1-clean",
+      "source": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261122-1920/tr1-clean.png",
+      "sourceSHA256": "5bcf6e065ad5c78fbd972d2178487c4ea16f9da8eeace250b40990c83302af70",
+      "sourceBytes": 2405005,
+      "target": "ops/queue/images/trek900-titanium-900ml-pack-menu-check/01-tr1-clean.webp",
+      "targetSHA256": "c8f6730852feea1b074a3763b4f82806b725c4b0d1426ff7f271a8864ae0b146",
+      "targetBytes": 125960,
+      "width": 1280,
+      "height": 853,
+      "visualQA": "accepted; original read_file once; exact official reference actually attached; shape/count/color/text checked; not physical test evidence"
+    },
+    {
+      "id": "tr2",
+      "source": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261122-1920/tr2.png",
+      "sourceSHA256": "3f98626e4e0c5459d1a9ca42a5e9f633e22c774951b66ba122a59459b8e810da",
+      "sourceBytes": 2653314,
+      "target": "ops/queue/images/trek900-titanium-900ml-pack-menu-check/02-tr2.webp",
+      "targetSHA256": "b91f410c83af6672a942f66fab909d2c7431e3ae659edcfc824b9b953ab247ad",
+      "targetBytes": 124516,
+      "width": 1280,
+      "height": 853,
+      "visualQA": "accepted; original read_file once; exact official reference actually attached; shape/count/color/text checked; not physical test evidence"
+    },
+    {
+      "id": "tr3",
+      "source": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261122-1920/tr3.png",
+      "sourceSHA256": "1edda35d99f9674332f846baaf471d0a189adf884253a3d56a54c93d9f0e7f98",
+      "sourceBytes": 2577398,
+      "target": "ops/queue/images/trek900-titanium-900ml-pack-menu-check/03-tr3.webp",
+      "targetSHA256": "55752685dabaa79250e4d8ecfa414a7ae392ac14d9441569738156b7c78892fc",
+      "targetBytes": 112962,
+      "width": 1280,
+      "height": 853,
+      "visualQA": "accepted; original read_file once; exact official reference actually attached; shape/count/color/text checked; not physical test evidence"
+    },
+    {
+      "id": "tr4",
+      "source": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261122-1920/tr4.png",
+      "sourceSHA256": "f8f5a2a60dc11afc2616f82dc911ff44d421c7c7fcef9427f78b52c5ac6faa21",
+      "sourceBytes": 3143130,
+      "target": "ops/queue/images/trek900-titanium-900ml-pack-menu-check/04-tr4.webp",
+      "targetSHA256": "3ab90a71bc166e2e97e2e8478fff37518dfa71822d524a7d91870eca9136b4d4",
+      "targetBytes": 213370,
+      "width": 1280,
+      "height": 853,
+      "visualQA": "accepted; original read_file once; exact official reference actually attached; shape/count/color/text checked; not physical test evidence"
+    },
+    {
+      "id": "tr5",
+      "source": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261122-1920/tr5.png",
+      "sourceSHA256": "1824fa262971c6c9f5ac82f3da16c914ea58f175388488853a33cff5b4a177b5",
+      "sourceBytes": 2955946,
+      "target": "ops/queue/images/trek900-titanium-900ml-pack-menu-check/05-tr5.webp",
+      "targetSHA256": "f2ecae8879ed7171b60eb8970dbff9e4b89042905dcaf5ab9173691901710242",
+      "targetBytes": 180954,
+      "width": 1280,
+      "height": 853,
+      "visualQA": "accepted; original read_file once; exact official reference actually attached; shape/count/color/text checked; not physical test evidence"
+    },
+    {
+      "id": "tr6",
+      "source": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261122-1920/tr6.png",
+      "sourceSHA256": "db15548dce5890adab67fc38bf1d30f7599408bb4ea08a3117398b72e6c044c6",
+      "sourceBytes": 2915089,
+      "target": "ops/queue/images/trek900-titanium-900ml-pack-menu-check/06-tr6.webp",
+      "targetSHA256": "952106c431d6d0ac05f2660267214e174c8925b66cc521b3641e1923e42363cd",
+      "targetBytes": 167762,
+      "width": 1280,
+      "height": 853,
+      "visualQA": "accepted; original read_file once; exact official reference actually attached; shape/count/color/text checked; not physical test evidence"
+    }
+  ],
+  "originalReadFileQA": true,
+  "creatorSessionId": "cI3qaFhcdNyL177Y",
+  "slot": "20261122-1920-shop",
+  "rejected": [
+    "tr1.png: bag star logo; exact-target tr1-clean.png accepted"
+  ]
+}
