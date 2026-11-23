@@ -1,0 +1,114 @@
+{
+  "slug": "chairzero-l-black-pack-space-check",
+  "manuscript": "ops/queue/chairzero-l-black-pack-space-check.md",
+  "jobs": [
+    {
+      "name": "01-cz1.webp",
+      "src": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261123-1300/cz1.png",
+      "width": 1280
+    },
+    {
+      "name": "02-cz2.webp",
+      "src": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261123-1300/cz2.png",
+      "width": 1280
+    },
+    {
+      "name": "03-cz3.webp",
+      "src": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261123-1300/cz3.png",
+      "width": 1280
+    },
+    {
+      "name": "04-cz4.webp",
+      "src": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261123-1300/cz4.png",
+      "width": 1280
+    },
+    {
+      "name": "05-cz5.webp",
+      "src": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261123-1300/cz5.png",
+      "width": 1280
+    },
+    {
+      "name": "06-cz6.webp",
+      "src": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261123-1300/cz6.png",
+      "width": 1280
+    }
+  ],
+  "photos": [
+    {
+      "id": "cz1",
+      "source": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261123-1300/cz1.png",
+      "sourceSHA256": "21c6b7779b7ba72b87b433243b61e2e2e3de0ae169a06764bb8f499904e0c3a0",
+      "sourceBytes": 3627892,
+      "target": "ops/queue/images/chairzero-l-black-pack-space-check/01-cz1.webp",
+      "targetSHA256": "b7fb221b1b6ff64742eeb68f0ad124d8f4f9a4ec8b9c5abfc70ca7e28d24f9dd",
+      "targetBytes": 292422,
+      "width": 1280,
+      "height": 853,
+      "visualQA": "accepted; original read_file once; exact official reference actually attached; shape/count/color/text checked; not physical test evidence"
+    },
+    {
+      "id": "cz2",
+      "source": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261123-1300/cz2.png",
+      "sourceSHA256": "2490babc29007d8b431533f734f74ca653c707339ee43e107b5c9ec1bdb46803",
+      "sourceBytes": 3259256,
+      "target": "ops/queue/images/chairzero-l-black-pack-space-check/02-cz2.webp",
+      "targetSHA256": "2e94e3fc7a851d5f21335bf5d28d2a48adc33a6677d1859b40242473002c36bf",
+      "targetBytes": 226080,
+      "width": 1280,
+      "height": 853,
+      "visualQA": "accepted; original read_file once; exact official reference actually attached; shape/count/color/text checked; not physical test evidence"
+    },
+    {
+      "id": "cz3",
+      "source": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261123-1300/cz3.png",
+      "sourceSHA256": "9b6b6534fc76386ece24c8618986eab2c17eb59d4907407ed9cadbdf202fc065",
+      "sourceBytes": 3344449,
+      "target": "ops/queue/images/chairzero-l-black-pack-space-check/03-cz3.webp",
+      "targetSHA256": "dd30cd14bd0b7b135f884b72b6e83b9913163a7ba3e916c3dfa644a093c96b80",
+      "targetBytes": 252522,
+      "width": 1280,
+      "height": 853,
+      "visualQA": "accepted; original read_file once; exact official reference actually attached; shape/count/color/text checked; not physical test evidence"
+    },
+    {
+      "id": "cz4",
+      "source": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261123-1300/cz4.png",
+      "sourceSHA256": "803bf6b009b6b443e93ed45f29cc7224f9a52632651623051c8f04b8b18c0f9c",
+      "sourceBytes": 3193941,
+      "target": "ops/queue/images/chairzero-l-black-pack-space-check/04-cz4.webp",
+      "targetSHA256": "082e62401839bf42c8a96d48ee5c011f5358ac0512f81ac25d5f77c312dc49f0",
+      "targetBytes": 237262,
+      "width": 1280,
+      "height": 853,
+      "visualQA": "accepted; original read_file once; exact official reference actually attached; shape/count/color/text checked; not physical test evidence"
+    },
+    {
+      "id": "cz5",
+      "source": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261123-1300/cz5.png",
+      "sourceSHA256": "6c342b5de84ea98ca2d2cb5f2d90b727bfc42906eb2602c0b1002e4bbfc138ca",
+      "sourceBytes": 3676775,
+      "target": "ops/queue/images/chairzero-l-black-pack-space-check/05-cz5.webp",
+      "targetSHA256": "87b660f1f7a926af6642d4de8de60ebbe377a976f49083dc1f8b9b1404585453",
+      "targetBytes": 292458,
+      "width": 1280,
+      "height": 853,
+      "visualQA": "accepted; original read_file once; exact official reference actually attached; shape/count/color/text checked; not physical test evidence"
+    },
+    {
+      "id": "cz6",
+      "source": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261123-1300/cz6.png",
+      "sourceSHA256": "fa5d4a538fe3c34dff1c1310837850b79b89a4f7bbea5523b964a682ea4c1f88",
+      "sourceBytes": 2980584,
+      "target": "ops/queue/images/chairzero-l-black-pack-space-check/06-cz6.webp",
+      "targetSHA256": "94057e7d049fa5e3037fddf4f625f3ad99055c17ac99ad2a1e6c572b215fa91a",
+      "targetBytes": 178748,
+      "width": 1280,
+      "height": 853,
+      "visualQA": "accepted; original read_file once; exact official reference actually attached; shape/count/color/text checked; not physical test evidence"
+    }
+  ],
+  "originalReadFileQA": true,
+  "creatorSessionId": "ANC24lmpQT4hoGPW",
+  "slot": "20261123-1300-shop",
+  "rejected": []
+}

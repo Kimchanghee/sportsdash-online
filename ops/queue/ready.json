@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "slug": "chairzero-l-black-pack-space-check",
+    "sourceURL": "https://www.coupang.com/vp/products/8521892610?itemId=23288673109",
+    "issuedURI": "https://link.coupang.com/a/iT8ZSklTtQ",
+    "productName": "헬리녹스 캠핑의자 체어제로L 라지",
+    "option": "블랙L / 52cm × FREE / 수량 1",
+    "verifyTokens": [
+      "체어제로L",
+      "블랙L",
+      "8809584134536",
+      "8521892610 - 23288673109"
+    ],
+    "file": "ops/queue/chairzero-l-black-pack-space-check.md",
+    "manuscript": "ops/queue/chairzero-l-black-pack-space-check.md",
+    "evidence": "ops/queue/evidence/chairzero-l-black-pack-space-check.md",
+    "images": [
+      "ops/queue/images/chairzero-l-black-pack-space-check/01-cz1.webp",
+      "ops/queue/images/chairzero-l-black-pack-space-check/02-cz2.webp",
+      "ops/queue/images/chairzero-l-black-pack-space-check/03-cz3.webp",
+      "ops/queue/images/chairzero-l-black-pack-space-check/04-cz4.webp",
+      "ops/queue/images/chairzero-l-black-pack-space-check/05-cz5.webp",
+      "ops/queue/images/chairzero-l-black-pack-space-check/06-cz6.webp"
+    ],
+    "preparedAt": "2026-11-23T04:17:09.903Z",
+    "verifiedAt": "2026-11-23T04:09:11Z",
+    "creatorSessionId": "ANC24lmpQT4hoGPW",
+    "slot": "20261123-1300-shop"
+  }
+]
