@@ -67,3 +67,5 @@
 | trek900-titanium-900ml-pack-menu-check | pick | queued | 트렉 900 티타늄, 용량과 수납을 어떻게 맞출까요? | 2026-11-22 SHOP evening; exact option; six inspected photos; isolated gate pending |
 
 | chairzero-l-black-pack-space-check | pick | queued | 체어제로 L, 배낭 공간과 낮은 좌면이 맞을까? | 2026-11-23 SHOP13:00; exact option; six inspected photos; isolated gate pending |
+
+| soto-st310-folding-cold-pack-check | pick | queued | 소토 ST-310, 접은 크기만 보고 배낭에 넣어도 될까? | 2026-11-23 SHOP evening; exact option; six inspected photos; isolated gate pending |

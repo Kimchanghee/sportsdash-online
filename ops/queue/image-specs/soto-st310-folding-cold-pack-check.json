@@ -1,0 +1,114 @@
+{
+  "slug": "soto-st310-folding-cold-pack-check",
+  "manuscript": "ops/queue/soto-st310-folding-cold-pack-check.md",
+  "jobs": [
+    {
+      "name": "01-st1.webp",
+      "src": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261123-1920/st1.png",
+      "width": 1280
+    },
+    {
+      "name": "02-st2.webp",
+      "src": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261123-1920/st2.png",
+      "width": 1280
+    },
+    {
+      "name": "03-st3.webp",
+      "src": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261123-1920/st3.png",
+      "width": 1280
+    },
+    {
+      "name": "04-st4.webp",
+      "src": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261123-1920/st4.png",
+      "width": 1280
+    },
+    {
+      "name": "05-st5.webp",
+      "src": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261123-1920/st5.png",
+      "width": 1280
+    },
+    {
+      "name": "06-st6.webp",
+      "src": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261123-1920/st6.png",
+      "width": 1280
+    }
+  ],
+  "photos": [
+    {
+      "id": "st1",
+      "source": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261123-1920/st1.png",
+      "sourceSHA256": "9a353c734589e2f38e26d4a20546be61d0d9499da0936e9462ccfcae5d54ba1d",
+      "sourceBytes": 2183574,
+      "target": "ops/queue/images/soto-st310-folding-cold-pack-check/01-st1.webp",
+      "targetSHA256": "ee256b29e8bb85def4f500f2a920bcaf0f5343782a62ec14a1e68c67b66d9dbf",
+      "targetBytes": 75610,
+      "width": 1280,
+      "height": 853,
+      "visualQA": "accepted; original read_file once; exact official reference actually attached; shape/count/color/text checked; not physical test evidence"
+    },
+    {
+      "id": "st2",
+      "source": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261123-1920/st2.png",
+      "sourceSHA256": "b3e361d41f2852b5f6da02e8addd4ebf379a522cbca56f88cfe6cc004d2ebfa5",
+      "sourceBytes": 3305951,
+      "target": "ops/queue/images/soto-st310-folding-cold-pack-check/02-st2.webp",
+      "targetSHA256": "702a8591cd8e8a4f62dd844dff1471ff47e8a277b54a1c340423e7cb7d2887ea",
+      "targetBytes": 183478,
+      "width": 1280,
+      "height": 853,
+      "visualQA": "accepted; original read_file once; exact official reference actually attached; shape/count/color/text checked; not physical test evidence"
+    },
+    {
+      "id": "st3",
+      "source": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261123-1920/st3.png",
+      "sourceSHA256": "9012ae03657989326bbfa206efef8d025ef46ec7de10439b5bf8f881f3f4a1e3",
+      "sourceBytes": 3129420,
+      "target": "ops/queue/images/soto-st310-folding-cold-pack-check/03-st3.webp",
+      "targetSHA256": "ff763bd734755b9bbc362c734d75444784c6f1f045c9160dfffa9a8764b79ad3",
+      "targetBytes": 227144,
+      "width": 1280,
+      "height": 853,
+      "visualQA": "accepted; original read_file once; exact official reference actually attached; shape/count/color/text checked; not physical test evidence"
+    },
+    {
+      "id": "st4",
+      "source": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261123-1920/st4.png",
+      "sourceSHA256": "56a62dbffce27309599d8e6ba61b8eadf8a38cb766f11e7a2fd2419dea608827",
+      "sourceBytes": 2817675,
+      "target": "ops/queue/images/soto-st310-folding-cold-pack-check/04-st4.webp",
+      "targetSHA256": "f1cd2b74210d7cababd3dc7da1bf9e5bf7853ca44d40bc01fc6a365ec997ac6d",
+      "targetBytes": 179568,
+      "width": 1280,
+      "height": 853,
+      "visualQA": "accepted; original read_file once; exact official reference actually attached; shape/count/color/text checked; not physical test evidence"
+    },
+    {
+      "id": "st5",
+      "source": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261123-1920/st5.png",
+      "sourceSHA256": "6ca0a0a54930dd533c48e936d0ee2ae765b7a4c69ba5cff80ed2efda9e3b892d",
+      "sourceBytes": 2996361,
+      "target": "ops/queue/images/soto-st310-folding-cold-pack-check/05-st5.webp",
+      "targetSHA256": "e0f3b29be13994d8c7bcc968ebefc446c1c311e0e08ac624fde3b4e4e1e53b28",
+      "targetBytes": 192176,
+      "width": 1280,
+      "height": 853,
+      "visualQA": "accepted; original read_file once; exact official reference actually attached; shape/count/color/text checked; not physical test evidence"
+    },
+    {
+      "id": "st6",
+      "source": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261123-1920/st6.png",
+      "sourceSHA256": "b366e32578e45db6124adc74b1ae7717189742a857479537d1e9725a6b89bd8c",
+      "sourceBytes": 3052088,
+      "target": "ops/queue/images/soto-st310-folding-cold-pack-check/06-st6.webp",
+      "targetSHA256": "b469d24a37b257250bc95188c5210c0503ab7efd9649b49d28fe3349cfa7d1b7",
+      "targetBytes": 209558,
+      "width": 1280,
+      "height": 853,
+      "visualQA": "accepted; original read_file once; exact official reference actually attached; shape/count/color/text checked; not physical test evidence"
+    }
+  ],
+  "originalReadFileQA": true,
+  "creatorSessionId": "Zx2gArertWZu4WiO",
+  "slot": "20261123-1920-shop",
+  "rejected": []
+}
