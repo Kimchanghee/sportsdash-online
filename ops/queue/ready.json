@@ -1,1 +1,29 @@
-[]
+[
+  {
+    "slug": "helinox-ground-chair-black-square-base-check",
+    "sourceURL": "https://www.coupang.com/vp/products/7138402590?itemId=17917162960&vendorItemId=86905661787",
+    "issuedURI": "https://link.coupang.com/a/iVN3CIZQPI",
+    "productName": "헬리녹스 그라운드체어",
+    "option": "블랙 / 1개 / 수량 1",
+    "verifyTokens": [
+      "그라운드체어",
+      "블랙",
+      "7138402590 - 17917162960"
+    ],
+    "file": "ops/queue/helinox-ground-chair-black-square-base-check.md",
+    "manuscript": "ops/queue/helinox-ground-chair-black-square-base-check.md",
+    "evidence": "ops/evidence/helinox-ground-chair-black-square-base-check.md",
+    "images": [
+      "ops/queue/images/helinox-ground-chair-black-square-base-check/01-gr1.webp",
+      "ops/queue/images/helinox-ground-chair-black-square-base-check/02-gr2.webp",
+      "ops/queue/images/helinox-ground-chair-black-square-base-check/03-gr3.webp",
+      "ops/queue/images/helinox-ground-chair-black-square-base-check/04-gr4.webp",
+      "ops/queue/images/helinox-ground-chair-black-square-base-check/05-gr5.webp",
+      "ops/queue/images/helinox-ground-chair-black-square-base-check/06-gr6.webp"
+    ],
+    "preparedAt": "2026-11-24T10:32:17.880Z",
+    "verifiedAt": "2026-11-24T10:31:10Z",
+    "creatorSessionId": "LGIzAVoErVDGFbSi",
+    "slot": "20261124-1920-shop"
+  }
+]

@@ -69,3 +69,5 @@
 | chairzero-l-black-pack-space-check | pick | queued | 체어제로 L, 배낭 공간과 낮은 좌면이 맞을까? | 2026-11-23 SHOP13:00; exact option; six inspected photos; isolated gate pending |
 
 | soto-st310-folding-cold-pack-check | pick | queued | 소토 ST-310, 접은 크기만 보고 배낭에 넣어도 될까? | 2026-11-23 SHOP evening; exact option; six inspected photos; isolated gate pending |
+
+| helinox-ground-chair-black-square-base-check | pick | queued | 헬리녹스 그라운드체어, 낮은 좌면보다 먼저 볼 바닥 구조는? | 2026-11-24 SHOP evening; exact option; six inspected photos; isolated gate pending |
