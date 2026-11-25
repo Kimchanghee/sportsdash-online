@@ -1,1 +1,29 @@
-[]
+[
+  {
+    "slug": "black-diamond-trail-trekking-poles-pine-smoke-pack-length-check",
+    "sourceURL": "https://www.coupang.com/vp/products/8791898843?itemId=25590424059",
+    "issuedURI": "https://link.coupang.com/a/iXsYAgRJL2",
+    "productName": "블랙다이아몬드 트레일 트레킹 폴 세트 BD110045",
+    "option": "파인 스모크 / 100~140cm / 1세트",
+    "verifyTokens": [
+      "BD110045",
+      "파인 스모크",
+      "8791898843 - 25590424059"
+    ],
+    "file": "ops/queue/black-diamond-trail-trekking-poles-pine-smoke-pack-length-check.md",
+    "manuscript": "ops/queue/black-diamond-trail-trekking-poles-pine-smoke-pack-length-check.md",
+    "evidence": "ops/evidence/black-diamond-trail-trekking-poles-pine-smoke-pack-length-check.md",
+    "images": [
+      "ops/queue/images/black-diamond-trail-trekking-poles-pine-smoke-pack-length-check/01-tp1.webp",
+      "ops/queue/images/black-diamond-trail-trekking-poles-pine-smoke-pack-length-check/02-tp2.webp",
+      "ops/queue/images/black-diamond-trail-trekking-poles-pine-smoke-pack-length-check/03-tp3.webp",
+      "ops/queue/images/black-diamond-trail-trekking-poles-pine-smoke-pack-length-check/04-tp4.webp",
+      "ops/queue/images/black-diamond-trail-trekking-poles-pine-smoke-pack-length-check/05-tp5.webp",
+      "ops/queue/images/black-diamond-trail-trekking-poles-pine-smoke-pack-length-check/06-tp6.webp"
+    ],
+    "preparedAt": "2026-11-25T04:17:28.056Z",
+    "verifiedAt": "2026-11-25T04:11:00Z",
+    "creatorSessionId": "RRAeiIVoCaUoTZPr-fork",
+    "slot": "20261125-1300-shop"
+  }
+]
