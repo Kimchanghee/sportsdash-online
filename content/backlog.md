@@ -75,3 +75,5 @@
 | black-diamond-trail-trekking-poles-pine-smoke-pack-length-check | pick | queued | 블랙다이아몬드 트레일 폴, 접은 길이는 배낭에 맞을까? | 2026-11-25 SHOP 13:00; exact option; six inspected photos; isolated gate pending |
 
 | osprey-daylite-13l-black-daypack-size-fit-check | pick | queued | 오스프리 데이라이트 13L, 하루 산행 짐이 들어갈까? | 2026-11-25 SHOP 19:20; exact option; six inspected photos; isolated gate pending |
+
+| theraband-red-level2-2m-band-resistance-length-check | pick | queued | 세라밴드 레드 2M, 몇 단계 강도이고 길이는 맞을까? | 2026-11-25 SHOP 19:20; exact option; six inspected photos; isolated gate pending |
