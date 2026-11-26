@@ -83,3 +83,5 @@
 | helinox-air-headrest-black-compatible-chairs-attach-check | pick | queued | 헬리녹스 에어 헤드레스트, 내 캠핑 의자에 달 수 있을까? | 2026-11-26 SHOP 13:00; exact option; six inspected photos; isolated gate pending |
 
 | manduka-prolite-black-yoga-mat-home-use-check | pick | queued | 만두카 프로 라이트 블랙, 집에서 쓰기 괜찮을까? | 2026-11-26 SHOP 19:20; exact option; six inspected photos; isolated gate pending |
+
+| snowpeak-giga-power-g-auto-r-fuel-wind-check | pick | queued | 기가파워 스토브 G 오토 R, 바람막이 없이 써도 될까? | 2026-11-26 SHOP 19:20; exact option; six inspected photos; isolated gate pending |
