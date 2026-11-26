@@ -1,32 +1,5 @@
 [
   {
-    "slug": "osprey-daylite-13l-black-daypack-size-fit-check",
-    "sourceURL": "https://www.coupang.com/vp/products/9400507899?itemId=27922519164",
-    "issuedURI": "https://link.coupang.com/a/iXT5PxiIJU",
-    "productName": "오스프리 소형배낭 13L Daylite",
-    "option": "BLACK / one (43 x 26 x 20cm) / 13L",
-    "verifyTokens": [
-      "Daylite",
-      "BLACK",
-      "9400507899 - 27922519164"
-    ],
-    "file": "ops/queue/osprey-daylite-13l-black-daypack-size-fit-check.md",
-    "manuscript": "ops/queue/osprey-daylite-13l-black-daypack-size-fit-check.md",
-    "evidence": "ops/evidence/osprey-daylite-13l-black-daypack-size-fit-check.md",
-    "images": [
-      "ops/queue/images/osprey-daylite-13l-black-daypack-size-fit-check/01-sd1.webp",
-      "ops/queue/images/osprey-daylite-13l-black-daypack-size-fit-check/02-sd2.webp",
-      "ops/queue/images/osprey-daylite-13l-black-daypack-size-fit-check/03-sd3.webp",
-      "ops/queue/images/osprey-daylite-13l-black-daypack-size-fit-check/04-sd4.webp",
-      "ops/queue/images/osprey-daylite-13l-black-daypack-size-fit-check/05-sd5.webp",
-      "ops/queue/images/osprey-daylite-13l-black-daypack-size-fit-check/06-sd6.webp"
-    ],
-    "preparedAt": "2026-11-25T10:35:40.429Z",
-    "verifiedAt": "2026-11-25T10:33:00Z",
-    "creatorSessionId": "DkJFOEOUZ4mpTuPc-fork-sportsdash",
-    "slot": "20261125-1920-shop"
-  },
-  {
     "slug": "sea-to-summit-airlite-towel-large-outback-size-weight-check",
     "sourceURL": "https://www.coupang.com/vp/products/9249229306?itemId=28067134719",
     "issuedURI": "https://link.coupang.com/a/iY7RncKFhY",
