@@ -81,3 +81,5 @@
 | sea-to-summit-airlite-towel-large-outback-size-weight-check | pick | queued | 씨투써밋 에어라이트 타월 L, 크기와 무게 괜찮을까? | 2026-11-26 SHOP 13:00; exact option; six inspected photos; isolated gate pending |
 
 | helinox-air-headrest-black-compatible-chairs-attach-check | pick | queued | 헬리녹스 에어 헤드레스트, 내 캠핑 의자에 달 수 있을까? | 2026-11-26 SHOP 13:00; exact option; six inspected photos; isolated gate pending |
+
+| manduka-prolite-black-yoga-mat-home-use-check | pick | queued | 만두카 프로 라이트 블랙, 집에서 쓰기 괜찮을까? | 2026-11-26 SHOP 19:20; exact option; six inspected photos; isolated gate pending |
