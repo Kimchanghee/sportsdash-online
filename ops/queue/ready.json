@@ -1,33 +1,5 @@
 [
   {
-    "slug": "theraband-red-level2-2m-band-resistance-length-check",
-    "sourceURL": "https://www.coupang.com/vp/products/8508788760?itemId=220749870",
-    "issuedURI": "https://link.coupang.com/a/iXUOVEJVQW",
-    "productName": "세라밴드 탄성저항 밴드 2M",
-    "option": "레드 / 125 x 2000mm / 1개",
-    "verifyTokens": [
-      "세라밴드",
-      "레드",
-      "125 x 2000 mm",
-      "8508788760 - 220749870"
-    ],
-    "file": "ops/queue/theraband-red-level2-2m-band-resistance-length-check.md",
-    "manuscript": "ops/queue/theraband-red-level2-2m-band-resistance-length-check.md",
-    "evidence": "ops/evidence/theraband-red-level2-2m-band-resistance-length-check.md",
-    "images": [
-      "ops/queue/images/theraband-red-level2-2m-band-resistance-length-check/01-th1.webp",
-      "ops/queue/images/theraband-red-level2-2m-band-resistance-length-check/02-th2.webp",
-      "ops/queue/images/theraband-red-level2-2m-band-resistance-length-check/03-th3.webp",
-      "ops/queue/images/theraband-red-level2-2m-band-resistance-length-check/04-th4.webp",
-      "ops/queue/images/theraband-red-level2-2m-band-resistance-length-check/05-th5.webp",
-      "ops/queue/images/theraband-red-level2-2m-band-resistance-length-check/06-th6.webp"
-    ],
-    "preparedAt": "2026-11-25T10:43:45.223Z",
-    "verifiedAt": "2026-11-25T10:45:00Z",
-    "creatorSessionId": "DkJFOEOUZ4mpTuPc-fork-sportsdash",
-    "slot": "20261125-1920-shop"
-  },
-  {
     "slug": "osprey-daylite-13l-black-daypack-size-fit-check",
     "sourceURL": "https://www.coupang.com/vp/products/9400507899?itemId=27922519164",
     "issuedURI": "https://link.coupang.com/a/iXT5PxiIJU",
