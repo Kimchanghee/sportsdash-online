@@ -1,5 +1,32 @@
 [
   {
+    "slug": "snowpeak-giga-power-g-auto-r-fuel-wind-check",
+    "sourceURL": "https://www.coupang.com/vp/products/8705688641?itemId=25281817990",
+    "issuedURI": "https://link.coupang.com/a/iZy81cWzBs",
+    "productName": "스노우피크 기가파워 스토브 G 오토 R",
+    "option": "혼합색상 / 1개",
+    "verifyTokens": [
+      "기가파워 스토브 G 오토 R",
+      "GS-100AR2",
+      "8705688641 - 25281817990"
+    ],
+    "file": "ops/queue/snowpeak-giga-power-g-auto-r-fuel-wind-check.md",
+    "manuscript": "ops/queue/snowpeak-giga-power-g-auto-r-fuel-wind-check.md",
+    "evidence": "ops/evidence/snowpeak-giga-power-g-auto-r-fuel-wind-check.md",
+    "images": [
+      "ops/queue/images/snowpeak-giga-power-g-auto-r-fuel-wind-check/01-sdsv1.webp",
+      "ops/queue/images/snowpeak-giga-power-g-auto-r-fuel-wind-check/02-sdsv2.webp",
+      "ops/queue/images/snowpeak-giga-power-g-auto-r-fuel-wind-check/03-sdsv3.webp",
+      "ops/queue/images/snowpeak-giga-power-g-auto-r-fuel-wind-check/04-sdsv4.webp",
+      "ops/queue/images/snowpeak-giga-power-g-auto-r-fuel-wind-check/05-sdsv5.webp",
+      "ops/queue/images/snowpeak-giga-power-g-auto-r-fuel-wind-check/06-sdsv6.webp"
+    ],
+    "preparedAt": "2026-11-26T10:48:11.600Z",
+    "verifiedAt": "2026-11-26T10:42:36Z",
+    "creatorSessionId": "ClaudeTakeover1920S-fork-sportsdash",
+    "slot": "20261126-1920-shop"
+  },
+  {
     "slug": "manduka-prolite-black-yoga-mat-home-use-check",
     "sourceURL": "https://www.coupang.com/vp/products/9574739060?itemId=16737733523",
     "issuedURI": "https://link.coupang.com/a/iZy8uurFEi",
@@ -79,32 +106,5 @@
     "verifiedAt": "2026-11-26T04:17:00Z",
     "creatorSessionId": "ClaudeTakeover1300S-fork-sportsdash",
     "slot": "20261126-1300-shop"
-  },
-  {
-    "slug": "snowpeak-giga-power-g-auto-r-fuel-wind-check",
-    "sourceURL": "https://www.coupang.com/vp/products/8705688641?itemId=25281817990",
-    "issuedURI": "https://link.coupang.com/a/iZy81cWzBs",
-    "productName": "스노우피크 기가파워 스토브 G 오토 R",
-    "option": "혼합색상 / 1개",
-    "verifyTokens": [
-      "기가파워 스토브 G 오토 R",
-      "GS-100AR2",
-      "8705688641 - 25281817990"
-    ],
-    "file": "ops/queue/snowpeak-giga-power-g-auto-r-fuel-wind-check.md",
-    "manuscript": "ops/queue/snowpeak-giga-power-g-auto-r-fuel-wind-check.md",
-    "evidence": "ops/evidence/snowpeak-giga-power-g-auto-r-fuel-wind-check.md",
-    "images": [
-      "ops/queue/images/snowpeak-giga-power-g-auto-r-fuel-wind-check/01-sdsv1.webp",
-      "ops/queue/images/snowpeak-giga-power-g-auto-r-fuel-wind-check/02-sdsv2.webp",
-      "ops/queue/images/snowpeak-giga-power-g-auto-r-fuel-wind-check/03-sdsv3.webp",
-      "ops/queue/images/snowpeak-giga-power-g-auto-r-fuel-wind-check/04-sdsv4.webp",
-      "ops/queue/images/snowpeak-giga-power-g-auto-r-fuel-wind-check/05-sdsv5.webp",
-      "ops/queue/images/snowpeak-giga-power-g-auto-r-fuel-wind-check/06-sdsv6.webp"
-    ],
-    "preparedAt": "2026-11-26T10:48:11.600Z",
-    "verifiedAt": "2026-11-26T10:42:36Z",
-    "creatorSessionId": "ClaudeTakeover1920S-fork-sportsdash",
-    "slot": "20261126-1920-shop"
   }
 ]
