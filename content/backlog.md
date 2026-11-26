@@ -77,3 +77,5 @@
 | osprey-daylite-13l-black-daypack-size-fit-check | pick | queued | 오스프리 데이라이트 13L, 하루 산행 짐이 들어갈까? | 2026-11-25 SHOP 19:20; exact option; six inspected photos; isolated gate pending |
 
 | theraband-red-level2-2m-band-resistance-length-check | pick | queued | 세라밴드 레드 2M, 몇 단계 강도이고 길이는 맞을까? | 2026-11-25 SHOP 19:20; exact option; six inspected photos; isolated gate pending |
+
+| sea-to-summit-airlite-towel-large-outback-size-weight-check | pick | queued | 씨투써밋 에어라이트 타월 L, 크기와 무게 괜찮을까? | 2026-11-26 SHOP 13:00; exact option; six inspected photos; isolated gate pending |
