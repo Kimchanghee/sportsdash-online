@@ -1,0 +1,36 @@
+{
+  "slug": "helinox-air-headrest-black-compatible-chairs-attach-check",
+  "manuscript": "ops/queue/helinox-air-headrest-black-compatible-chairs-attach-check.md",
+  "jobs": [
+    {
+      "name": "01-sdhr1.webp",
+      "src": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261126-1300/sd1_headrest.png",
+      "width": 1280
+    },
+    {
+      "name": "02-sdhr2.webp",
+      "src": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261126-1300/sd_head2.png",
+      "width": 1280
+    },
+    {
+      "name": "03-sdhr3.webp",
+      "src": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261126-1300/sd_head3.png",
+      "width": 1280
+    },
+    {
+      "name": "04-sdhr4.webp",
+      "src": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261126-1300/sd_head4.png",
+      "width": 1280
+    },
+    {
+      "name": "05-sdhr5.webp",
+      "src": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261126-1300/sd_head5.png",
+      "width": 1280
+    },
+    {
+      "name": "06-sdhr6.webp",
+      "src": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261126-1300/sd_head6.png",
+      "width": 1280
+    }
+  ]
+}
