@@ -37,3 +37,9 @@
     "https://www.manduka.com/cdn/shop/files/112011010-Mats-PL71-BLACK-01.jpg"
   ]
 }
+
+
+## 재확인 2026-11-27T04:02:02.478Z / 20261127-1300-shop
+일반 상품 URL: https://www.coupang.com/vp/products/9574739060?itemId=16737733523
+정확 제목: 만두카 요가매트 프로 라이트 9종
+기존 verifyTokens 및 현재 선택 옵션은 이번 native snapshot queue-1-main.txt와 대조. 바로구매 활성 true, 현재 판매중지 아님. 제휴URI 열지 않음.

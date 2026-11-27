@@ -16,7 +16,7 @@ product:
   provider: "coupang"
   url: "https://link.coupang.com/a/iZy8uurFEi"
   landingHost: "www.coupang.com"
-  verifiedAt: "2026-11-26T10:42:32Z"
+  verifiedAt: "2026-11-27T04:02:02Z"
   evidence: "ops/evidence/manduka-prolite-black-yoga-mat-home-use-check.md"
 images:
   - src: "/images/posts/manduka-prolite-black-yoga-mat-home-use-check/01-sdmt1.webp"

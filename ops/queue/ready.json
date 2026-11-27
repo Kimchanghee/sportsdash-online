@@ -1,5 +1,31 @@
 [
   {
+    "slug": "manduka-cork-fullsize-vs-lean-one-block-check",
+    "sourceURL": "https://www.coupang.com/vp/products/8522406073?itemId=27882755419&vendorItemId=95128888478",
+    "issuedURI": "https://link.coupang.com/a/i0MQvT7pGS",
+    "productName": "만두카 코르크 요가 블럭 4*6*9인치 1개",
+    "option": "4×6×9인치 / 풀사이즈 코르크 / 1개",
+    "verifyTokens": [
+      "만두카 코르크 요가 블럭 4*6*9인치 1개",
+      "8522406073 - 27882755419"
+    ],
+    "file": "ops/queue/manduka-cork-fullsize-vs-lean-one-block-check.md",
+    "manuscript": "ops/queue/manduka-cork-fullsize-vs-lean-one-block-check.md",
+    "evidence": "ops/evidence/manduka-cork-fullsize-vs-lean-one-block-check.md",
+    "images": [
+      "ops/queue/images/manduka-cork-fullsize-vs-lean-one-block-check/sp-hero.webp",
+      "ops/queue/images/manduka-cork-fullsize-vs-lean-one-block-check/sp-grip.webp",
+      "ops/queue/images/manduka-cork-fullsize-vs-lean-one-block-check/sp-height.webp",
+      "ops/queue/images/manduka-cork-fullsize-vs-lean-one-block-check/sp-texture.webp",
+      "ops/queue/images/manduka-cork-fullsize-vs-lean-one-block-check/sp-clean.webp",
+      "ops/queue/images/manduka-cork-fullsize-vs-lean-one-block-check/sp-store.webp"
+    ],
+    "preparedAt": "2026-11-27T04:19:46.888Z",
+    "verifiedAt": "2026-11-27T04:20:16Z",
+    "creatorSessionId": "Aqecx68OX9WmMbNQ",
+    "slot": "20261127-1300-shop"
+  },
+  {
     "slug": "manduka-prolite-black-yoga-mat-home-use-check",
     "sourceURL": "https://www.coupang.com/vp/products/9574739060?itemId=16737733523",
     "issuedURI": "https://link.coupang.com/a/iZy8uurFEi",
@@ -22,7 +48,7 @@
       "ops/queue/images/manduka-prolite-black-yoga-mat-home-use-check/06-sdmt6.webp"
     ],
     "preparedAt": "2026-11-26T10:44:33.100Z",
-    "verifiedAt": "2026-11-26T10:42:32Z",
+    "verifiedAt": "2026-11-27T04:02:02Z",
     "creatorSessionId": "ClaudeTakeover1920S-fork-sportsdash",
     "slot": "20261126-1920-shop"
   },
@@ -49,7 +75,7 @@
       "ops/queue/images/sea-to-summit-airlite-towel-large-outback-size-weight-check/06-sdtw6.webp"
     ],
     "preparedAt": "2026-11-26T04:25:19.136Z",
-    "verifiedAt": "2026-11-26T04:20:00Z",
+    "verifiedAt": "2026-11-27T04:02:04Z",
     "creatorSessionId": "ClaudeTakeover1300S-fork-sportsdash",
     "slot": "20261126-1300-shop"
   },
@@ -76,7 +102,7 @@
       "ops/queue/images/helinox-air-headrest-black-compatible-chairs-attach-check/06-sdhr6.webp"
     ],
     "preparedAt": "2026-11-26T04:25:26.574Z",
-    "verifiedAt": "2026-11-26T04:17:00Z",
+    "verifiedAt": "2026-11-27T04:02:08Z",
     "creatorSessionId": "ClaudeTakeover1300S-fork-sportsdash",
     "slot": "20261126-1300-shop"
   }

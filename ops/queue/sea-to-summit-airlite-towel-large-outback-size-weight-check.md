@@ -16,7 +16,7 @@ product:
   provider: "coupang"
   url: "https://link.coupang.com/a/iY7RncKFhY"
   landingHost: "www.coupang.com"
-  verifiedAt: "2026-11-26T04:20:00Z"
+  verifiedAt: "2026-11-27T04:02:04Z"
   evidence: "ops/evidence/sea-to-summit-airlite-towel-large-outback-size-weight-check.md"
 images:
   - src: "/images/posts/sea-to-summit-airlite-towel-large-outback-size-weight-check/01-sdtw1.webp"

@@ -37,3 +37,9 @@
     "https://www.helinox.co.kr/shopimages/helinox/all_og__20250207102129phpycup6I.jpg"
   ]
 }
+
+
+## 재확인 2026-11-27T04:02:08.017Z / 20261127-1300-shop
+일반 상품 URL: https://www.coupang.com/vp/products/9388157239?itemId=27877059028
+정확 제목: 헬리녹스 에어 헤드레스트
+기존 verifyTokens 및 현재 선택 옵션은 이번 native snapshot queue-3-main.txt와 대조. 바로구매 활성 true, 현재 판매중지 아님. 제휴URI 열지 않음.

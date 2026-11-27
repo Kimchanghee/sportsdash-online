@@ -37,3 +37,9 @@
     "https://seatosummit.com/cdn/shop/files/Large-Desert-Brown-Towel_72978aa8-0dc2-46ca-a293-76819f96b96e_grande.jpg"
   ]
 }
+
+
+## 재확인 2026-11-27T04:02:04.202Z / 20261127-1300-shop
+일반 상품 URL: https://www.coupang.com/vp/products/9249229306?itemId=28067134719
+정확 제목: [씨투써밋]에어라이트 타월 LG 여행용 수건
+기존 verifyTokens 및 현재 선택 옵션은 이번 native snapshot queue-2-main.txt와 대조. 바로구매 활성 true, 현재 판매중지 아님. 제휴URI 열지 않음.
