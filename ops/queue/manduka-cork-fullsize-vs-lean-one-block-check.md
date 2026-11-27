@@ -16,7 +16,7 @@ product:
   provider: coupang
   url: https://link.coupang.com/a/i0MQvT7pGS
   landingHost: www.coupang.com
-  verifiedAt: "2026-11-27T04:20:16Z"
+  verifiedAt: "2026-11-27T10:23:18Z"
   evidence: ops/evidence/manduka-cork-fullsize-vs-lean-one-block-check.md
 images:
   - src: /images/posts/manduka-cork-fullsize-vs-lean-one-block-check/sp-hero.webp

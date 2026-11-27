@@ -1,0 +1,42 @@
+{
+  "slug": "snowpeak-mg152-double300-heat-lid-check",
+  "manuscript": "ops/queue/snowpeak-mg152-double300-heat-lid-check.md",
+  "jobs": [
+    {
+      "name": "sp-hero.webp",
+      "src": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261127-1920/sp-hero.png",
+      "width": 1280,
+      "verdict": "accepted_read_file"
+    },
+    {
+      "name": "sp-rim.webp",
+      "src": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261127-1920/sp-rim.png",
+      "width": 1280,
+      "verdict": "accepted_read_file"
+    },
+    {
+      "name": "sp-handle.webp",
+      "src": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261127-1920/sp-handle.png",
+      "width": 1280,
+      "verdict": "accepted_read_file"
+    },
+    {
+      "name": "sp-fold.webp",
+      "src": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261127-1920/sp-fold.png",
+      "width": 1280,
+      "verdict": "accepted_read_file"
+    },
+    {
+      "name": "sp-wipe.webp",
+      "src": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261127-1920/sp-wipe.png",
+      "width": 1280,
+      "verdict": "accepted_read_file"
+    },
+    {
+      "name": "sp-pack.webp",
+      "src": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261127-1920/sp-pack.png",
+      "width": 1280,
+      "verdict": "accepted_read_file"
+    }
+  ]
+}

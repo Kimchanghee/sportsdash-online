@@ -22,7 +22,7 @@
       "ops/queue/images/sea-to-summit-airlite-towel-large-outback-size-weight-check/06-sdtw6.webp"
     ],
     "preparedAt": "2026-11-26T04:25:19.136Z",
-    "verifiedAt": "2026-11-27T04:02:04Z",
+    "verifiedAt": "2026-11-27T10:23:18.385Z",
     "creatorSessionId": "ClaudeTakeover1300S-fork-sportsdash",
     "slot": "20261126-1300-shop"
   },
@@ -49,7 +49,7 @@
       "ops/queue/images/helinox-air-headrest-black-compatible-chairs-attach-check/06-sdhr6.webp"
     ],
     "preparedAt": "2026-11-26T04:25:26.574Z",
-    "verifiedAt": "2026-11-27T04:02:08Z",
+    "verifiedAt": "2026-11-27T10:23:18.424Z",
     "creatorSessionId": "ClaudeTakeover1300S-fork-sportsdash",
     "slot": "20261126-1300-shop"
   },
@@ -75,10 +75,39 @@
       "ops/queue/images/manduka-cork-fullsize-vs-lean-one-block-check/sp-store.webp"
     ],
     "preparedAt": "2026-11-27T04:19:46.888Z",
-    "verifiedAt": "2026-11-27T04:20:16Z",
+    "verifiedAt": "2026-11-27T10:23:18.477Z",
     "creatorSessionId": "Aqecx68OX9WmMbNQ",
     "slot": "20261127-1300-shop",
     "dryRunPassedAt": "2026-11-27T04:33:59.055Z",
     "dryRunReceipt": "rebuild-202610/_mac/bridge/results/20261127-1300-shop-korean-dryrun4.json"
+  },
+  {
+    "slug": "snowpeak-mg152-double300-heat-lid-check",
+    "sourceURL": "https://www.coupang.com/vp/products/8209091424?itemId=23557340402&vendorItemId=90583389231",
+    "issuedURI": "https://link.coupang.com/a/i1eaE5LiDY",
+    "productName": "[일본직구]스노우피크 티타늄 더블 머그 300",
+    "option": "MG-152 / 실버 / 300ml / 1개",
+    "verifyTokens": [
+      "스노우피크 티타늄 더블 머그 300",
+      "MG-152",
+      "8209091424 - 23557340402"
+    ],
+    "file": "ops/queue/snowpeak-mg152-double300-heat-lid-check.md",
+    "manuscript": "ops/queue/snowpeak-mg152-double300-heat-lid-check.md",
+    "evidence": "ops/evidence/snowpeak-mg152-double300-heat-lid-check.md",
+    "images": [
+      "ops/queue/images/snowpeak-mg152-double300-heat-lid-check/sp-hero.webp",
+      "ops/queue/images/snowpeak-mg152-double300-heat-lid-check/sp-rim.webp",
+      "ops/queue/images/snowpeak-mg152-double300-heat-lid-check/sp-handle.webp",
+      "ops/queue/images/snowpeak-mg152-double300-heat-lid-check/sp-fold.webp",
+      "ops/queue/images/snowpeak-mg152-double300-heat-lid-check/sp-wipe.webp",
+      "ops/queue/images/snowpeak-mg152-double300-heat-lid-check/sp-pack.webp"
+    ],
+    "preparedAt": "2026-11-27T10:47:55Z",
+    "verifiedAt": "2026-11-27T10:31:46.046Z",
+    "creatorSessionId": "eKQADbA5pZWqaBGa",
+    "slot": "20261127-1920-shop",
+    "dryRunPassedAt": "2026-11-27T10:51:36.585Z",
+    "dryRunReceipt": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/rebuild-202610/_mac/bridge/logs/20261127-1920-shop-dryrun-v2.log"
   }
 ]
