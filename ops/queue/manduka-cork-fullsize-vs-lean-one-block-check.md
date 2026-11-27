@@ -5,8 +5,8 @@ question: 만두카 코르크 요가 블럭 4×6×9인치 1개는 Lean Cork와 �
 answer: 아니요. 이 판매 상품은 4×6×9인치 풀사이즈 블록 1개이고, Lean Cork는 더 얇은 별도 크기예요. 손에 잡히는 두께와 매트 옆에 둘 자리를 먼저 보고, 양손에 같은 받침이 필요하면 구성 수량도 따로 확인하세요.
 description: 만두카 코르크 요가 블럭 4×6×9인치 1개와 Lean Cork의 크기 구분, 놓는 방향과 손 크기를 고려할 항목, 공식 자료에서 서로 달라 제외한 무게, 닦기와 건조 방법을 정리합니다.
 draft: false
-published: 2026-11-27T04:20:16Z
-updated: 2026-11-27T04:20:16Z
+published: "2026-11-27T04:20:16Z"
+updated: "2026-11-27T04:20:16Z"
 category: home-training
 primaryKeyword: 만두카 코르크 블록 크기
 product:
@@ -16,7 +16,7 @@ product:
   provider: coupang
   url: https://link.coupang.com/a/i0MQvT7pGS
   landingHost: www.coupang.com
-  verifiedAt: 2026-11-27T04:20:16Z
+  verifiedAt: "2026-11-27T04:20:16Z"
   evidence: ops/evidence/manduka-cork-fullsize-vs-lean-one-block-check.md
 images:
   - src: /images/posts/manduka-cork-fullsize-vs-lean-one-block-check/sp-hero.webp
