@@ -15,3 +15,6 @@ Comparison gap: Full-size versus Lean; region-specific weight disagreement omitt
 Image QA: each original read_file; exact official reference attached. No physical experiment.
 
 Final exact product native recheck 2026-11-27T04:20:16Z: buy enabled; see sp-final-native.txt and new-korean-observations.json.
+
+
+SHOP 20261127-1920 native recheck 2026-11-27T10:23:18.477Z: exact tokens 만두카 코르크 요가 블럭 4*6*9인치 1개 | 8522406073 - 27882755419; buy enabled. Source https://www.coupang.com/vp/products/8522406073?itemId=27882755419&vendorItemId=95128888478. Snapshot _mac/shop/20261127-1920/manduka-cork-fullsize-vs-lean-one-block-check-native.txt and -main.txt. Own affiliate URI never opened.

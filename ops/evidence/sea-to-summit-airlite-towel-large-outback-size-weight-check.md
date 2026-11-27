@@ -43,3 +43,6 @@
 일반 상품 URL: https://www.coupang.com/vp/products/9249229306?itemId=28067134719
 정확 제목: [씨투써밋]에어라이트 타월 LG 여행용 수건
 기존 verifyTokens 및 현재 선택 옵션은 이번 native snapshot queue-2-main.txt와 대조. 바로구매 활성 true, 현재 판매중지 아님. 제휴URI 열지 않음.
+
+
+SHOP 20261127-1920 native recheck 2026-11-27T10:23:18.385Z: exact tokens 에어라이트 타월 | 아웃백 | 9249229306 - 28067134719; buy enabled. Source https://www.coupang.com/vp/products/9249229306?itemId=28067134719. Snapshot _mac/shop/20261127-1920/sea-to-summit-airlite-towel-large-outback-size-weight-check-native.txt and -main.txt. Own affiliate URI never opened.

@@ -43,3 +43,6 @@
 일반 상품 URL: https://www.coupang.com/vp/products/9388157239?itemId=27877059028
 정확 제목: 헬리녹스 에어 헤드레스트
 기존 verifyTokens 및 현재 선택 옵션은 이번 native snapshot queue-3-main.txt와 대조. 바로구매 활성 true, 현재 판매중지 아님. 제휴URI 열지 않음.
+
+
+SHOP 20261127-1920 native recheck 2026-11-27T10:23:18.424Z: exact tokens 에어 헤드레스트 | 블랙 | 9388157239 - 27877059028; buy enabled. Source https://www.coupang.com/vp/products/9388157239?itemId=27877059028. Snapshot _mac/shop/20261127-1920/helinox-air-headrest-black-compatible-chairs-attach-check-native.txt and -main.txt. Own affiliate URI never opened.
