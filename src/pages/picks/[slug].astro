@@ -3,7 +3,7 @@ import { render } from 'astro:content';
 import Base from '../../layouts/Base.astro';
 import ProductCard from '../../components/ProductCard.astro';
 import AdSlot from '../../components/AdSlot.astro';
-import { allPosts, allGuides, postPath, guidePath, articleLd, faqLd, ymd, koDate, isPhoto, disclosureFor, type Post } from '../../lib/content';
+import { metaDescription, allPosts, allGuides, postPath, guidePath, articleLd, faqLd, ymd, koDate, isPhoto, disclosureFor, type Post } from '../../lib/content';
 import { categoryBySlug, providerInfo, site } from '../../site.config';
 
 export async function getStaticPaths() {
@@ -27,7 +27,7 @@ const crumbs = [ { name: '홈', href: '/' }, { name: cat.name, href: `/category/
 const edited = ymd(d.updated) !== ymd(d.published);
 const arrow = '<svg viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M7 4l6 6-6 6"/></svg>';
 ---
-<Base title={`${d.title} | ${site.name}`} description={d.description} path={path} ogImage={og} ogType="article" jsonld={ld} crumbs={crumbs} published={d.published} updated={d.updated} navCurrent={`/category/${cat.slug}/`}>
+<Base title={`${d.title} | ${site.name}`} description={metaDescription(d)} path={path} ogImage={og} ogType="article" jsonld={ld} crumbs={crumbs} published={d.published} updated={d.updated} navCurrent={`/category/${cat.slug}/`}>
   <div class="wrap">
     <article class="post" data-gate="article">
       <p class="disclosure" data-gate="disclosure"><strong>제휴 고지</strong>{disclosureFor(post)}</p>
