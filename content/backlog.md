@@ -89,3 +89,5 @@
 | manduka-cork-fullsize-vs-lean-one-block-check | pick | queued | 만두카 코르크 블록, Lean보다 얇은 제품일까? | 2026-11-27 SHOP13:00; six inspected photographs; publication pending |
 
 | snowpeak-mg152-double300-heat-lid-check | pick | queued | 티타늄 더블 머그 300, 버너에 올려도 될까? | 2026-11-27 SHOP19:20; six inspected photos; publication pending |
+
+| zseat-limon-silver-sitpad-vs-chair-pack-check | pick | queued | 지시트 방석, 캠핑 의자 대신 고를 때 볼 것은? | SHOP 2026-11-28 13:00; six inspected photos; publication pending |

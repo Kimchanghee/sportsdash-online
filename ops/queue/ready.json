@@ -22,7 +22,7 @@
       "ops/queue/images/helinox-air-headrest-black-compatible-chairs-attach-check/06-sdhr6.webp"
     ],
     "preparedAt": "2026-11-26T04:25:26.574Z",
-    "verifiedAt": "2026-11-27T10:23:18.424Z",
+    "verifiedAt": "2026-11-28T04:04:59.570Z",
     "creatorSessionId": "ClaudeTakeover1300S-fork-sportsdash",
     "slot": "20261126-1300-shop"
   },
@@ -48,7 +48,7 @@
       "ops/queue/images/manduka-cork-fullsize-vs-lean-one-block-check/sp-store.webp"
     ],
     "preparedAt": "2026-11-27T04:19:46.888Z",
-    "verifiedAt": "2026-11-27T10:23:18.477Z",
+    "verifiedAt": "2026-11-28T04:04:59.881Z",
     "creatorSessionId": "Aqecx68OX9WmMbNQ",
     "slot": "20261127-1300-shop",
     "dryRunPassedAt": "2026-11-27T04:33:59.055Z",
@@ -77,10 +77,38 @@
       "ops/queue/images/snowpeak-mg152-double300-heat-lid-check/sp-pack.webp"
     ],
     "preparedAt": "2026-11-27T10:47:55Z",
-    "verifiedAt": "2026-11-27T10:31:46.046Z",
+    "verifiedAt": "2026-11-28T04:05:00.192Z",
     "creatorSessionId": "eKQADbA5pZWqaBGa",
     "slot": "20261127-1920-shop",
     "dryRunPassedAt": "2026-11-27T10:51:36.585Z",
     "dryRunReceipt": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/rebuild-202610/_mac/bridge/logs/20261127-1920-shop-dryrun-v2.log"
+  },
+  {
+    "slug": "zseat-limon-silver-sitpad-vs-chair-pack-check",
+    "sourceURL": "https://www.coupang.com/vp/products/8669310935?itemId=25164842992&vendorItemId=95499749245",
+    "issuedURI": "https://link.coupang.com/a/i2rCP6vYXc",
+    "productName": "써머레스트 지시트 발포 매트 레몬/실버 140876",
+    "option": "리몬 / 실버 / 1개 / Z Seat 발포 방석",
+    "verifyTokens": [
+      "써머레스트 지시트 발포 매트 레몬/실버",
+      "8669310935 - 25164842992"
+    ],
+    "file": "ops/queue/zseat-limon-silver-sitpad-vs-chair-pack-check.md",
+    "manuscript": "ops/queue/zseat-limon-silver-sitpad-vs-chair-pack-check.md",
+    "evidence": "ops/evidence/zseat-limon-silver-sitpad-vs-chair-pack-check.md",
+    "images": [
+      "ops/queue/images/zseat-limon-silver-sitpad-vs-chair-pack-check/sp-hero.webp",
+      "ops/queue/images/zseat-limon-silver-sitpad-vs-chair-pack-check/sp-surface.webp",
+      "ops/queue/images/zseat-limon-silver-sitpad-vs-chair-pack-check/sp-fold.webp",
+      "ops/queue/images/zseat-limon-silver-sitpad-vs-chair-pack-check/sp-pack.webp",
+      "ops/queue/images/zseat-limon-silver-sitpad-vs-chair-pack-check/sp-size.webp",
+      "ops/queue/images/zseat-limon-silver-sitpad-vs-chair-pack-check/sp-care.webp"
+    ],
+    "preparedAt": "2026-11-28T04:30:29.335Z",
+    "verifiedAt": "2026-11-28T04:12:08.597Z",
+    "creatorSessionId": "VC0Fm7u7WTuVKpVw",
+    "slot": "20261128-1300-shop",
+    "dryRunPassedAt": "2026-11-28T04:33:55.828Z",
+    "dryRunReceipt": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/rebuild-202610/_mac/bridge/logs/20261128-1300-shop-dryrun.log"
   }
 ]

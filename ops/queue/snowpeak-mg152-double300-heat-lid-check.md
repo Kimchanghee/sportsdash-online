@@ -16,7 +16,7 @@ product:
   provider: coupang
   url: https://link.coupang.com/a/i1eaE5LiDY
   landingHost: www.coupang.com
-  verifiedAt: "2026-11-27T10:31:46Z"
+  verifiedAt: "2026-11-28T04:05:00Z"
   evidence: ops/evidence/snowpeak-mg152-double300-heat-lid-check.md
 images:
   - src: /images/posts/snowpeak-mg152-double300-heat-lid-check/sp-hero.webp

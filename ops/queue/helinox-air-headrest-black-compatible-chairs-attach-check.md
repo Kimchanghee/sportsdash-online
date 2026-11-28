@@ -16,7 +16,7 @@ product:
   provider: "coupang"
   url: "https://link.coupang.com/a/iY7RMsLDTU"
   landingHost: "www.coupang.com"
-  verifiedAt: "2026-11-27T10:23:18Z"
+  verifiedAt: "2026-11-28T04:04:59Z"
   evidence: "ops/evidence/helinox-air-headrest-black-compatible-chairs-attach-check.md"
 images:
   - src: "/images/posts/helinox-air-headrest-black-compatible-chairs-attach-check/01-sdhr1.webp"

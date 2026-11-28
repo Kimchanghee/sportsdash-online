@@ -1,0 +1,42 @@
+{
+  "slug": "zseat-limon-silver-sitpad-vs-chair-pack-check",
+  "manuscript": "ops/queue/zseat-limon-silver-sitpad-vs-chair-pack-check.md",
+  "jobs": [
+    {
+      "name": "sp-hero.webp",
+      "src": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261128-1300/sp-hero.png",
+      "width": 1280,
+      "verdict": "accepted_read_file"
+    },
+    {
+      "name": "sp-surface.webp",
+      "src": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261128-1300/sp-surface.png",
+      "width": 1280,
+      "verdict": "accepted_read_file"
+    },
+    {
+      "name": "sp-fold.webp",
+      "src": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261128-1300/sp-fold.png",
+      "width": 1280,
+      "verdict": "accepted_read_file"
+    },
+    {
+      "name": "sp-pack.webp",
+      "src": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261128-1300/sp-pack.png",
+      "width": 1280,
+      "verdict": "accepted_read_file"
+    },
+    {
+      "name": "sp-size.webp",
+      "src": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261128-1300/sp-size.png",
+      "width": 1280,
+      "verdict": "accepted_read_file"
+    },
+    {
+      "name": "sp-care.webp",
+      "src": "/Users/kimchangheemac/Library/Aside/WindowsWorkspace/web-revenue/channel-ops/ops/content/shop-20261128-1300/sp-care.png",
+      "width": 1280,
+      "verdict": "accepted_read_file"
+    }
+  ]
+}
