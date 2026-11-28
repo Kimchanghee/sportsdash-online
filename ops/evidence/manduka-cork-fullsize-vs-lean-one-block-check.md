@@ -18,3 +18,6 @@ Final exact product native recheck 2026-11-27T04:20:16Z: buy enabled; see sp-fin
 
 
 SHOP 20261127-1920 native recheck 2026-11-27T10:23:18.477Z: exact tokens 만두카 코르크 요가 블럭 4*6*9인치 1개 | 8522406073 - 27882755419; buy enabled. Source https://www.coupang.com/vp/products/8522406073?itemId=27882755419&vendorItemId=95128888478. Snapshot _mac/shop/20261127-1920/manduka-cork-fullsize-vs-lean-one-block-check-native.txt and -main.txt. Own affiliate URI never opened.
+
+
+SHOP 20261128-1300 native recheck at 2026-11-28T04:04:59.881Z: exact 만두카 코르크 요가 블럭 4*6*9인치 1개 | 8522406073 - 27882755419 and enabled buy button observed. Ordinary product https://www.coupang.com/vp/products/8522406073?itemId=27882755419&vendorItemId=95128888478; own URI never opened. Snapshot _mac/shop/20261128-1300/manduka-cork-fullsize-vs-lean-one-block-check-main.txt.

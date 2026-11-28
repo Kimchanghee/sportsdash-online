@@ -9,3 +9,6 @@ Snow Peak 지원: 싱글월과 더블월의 차이 | https://support.snowpeak.co
 Snapshots and manufacturer references: _mac/shop/20261127-1920 and channel-ops/ops/content/shop-20261127-1920.
 Official MG152 image attached; no direct heating or performance measurement. Manufacturer-rated specs only; MG153 and old MG053R/MGC054 distinguished.
 All six originals inspected once via read_file; no first-hand/product performance/price/rating/stock claim in article.
+
+
+SHOP 20261128-1300 native recheck at 2026-11-28T04:05:00.192Z: exact 스노우피크 티타늄 더블 머그 300 | MG-152 | 8209091424 - 23557340402 and enabled buy button observed. Ordinary product https://www.coupang.com/vp/products/8209091424?itemId=23557340402&vendorItemId=90583389231; own URI never opened. Snapshot _mac/shop/20261128-1300/snowpeak-mg152-double300-heat-lid-check-main.txt.

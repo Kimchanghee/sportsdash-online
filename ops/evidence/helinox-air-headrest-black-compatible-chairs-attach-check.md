@@ -46,3 +46,6 @@
 
 
 SHOP 20261127-1920 native recheck 2026-11-27T10:23:18.424Z: exact tokens 에어 헤드레스트 | 블랙 | 9388157239 - 27877059028; buy enabled. Source https://www.coupang.com/vp/products/9388157239?itemId=27877059028. Snapshot _mac/shop/20261127-1920/helinox-air-headrest-black-compatible-chairs-attach-check-native.txt and -main.txt. Own affiliate URI never opened.
+
+
+SHOP 20261128-1300 native recheck at 2026-11-28T04:04:59.570Z: exact 에어 헤드레스트 | 블랙 | 9388157239 - 27877059028 and enabled buy button observed. Ordinary product https://www.coupang.com/vp/products/9388157239?itemId=27877059028; own URI never opened. Snapshot _mac/shop/20261128-1300/helinox-air-headrest-black-compatible-chairs-attach-check-main.txt.
