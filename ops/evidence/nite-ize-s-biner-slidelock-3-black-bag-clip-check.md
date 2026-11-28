@@ -9,7 +9,7 @@ Link-issued at 2026-11-28T10:31:57.801Z. Enabled buy button observed on fresh na
 Sources actually inspected this run:
 나이트아이즈 S-Biner SlideLock 스테인리스 공식 사양·경고 | https://niteize.com/s-biner-slidelock-stainless-steel
 나이트아이즈 일본 공식 슬라이드락 3번 사양 | https://niteize.jp/products/lsb3
-Garage Grown Gear S-Biner SlideLock 설명 | http://www.garagegrowngear.com/products/s-biner-slidelock-by-nite-ize
+Garage Grown Gear S-Biner SlideLock 설명 | https://www.garagegrowngear.com/products/s-biner-slidelock-by-nite-ize
 Pack Hacker S-Biner SlideLock 리뷰(알루미늄 버전) | https://www.packhacker.com/travel-gear/nite-ize/s-biner-slidelock-aluminum
 쿠팡 정확한 스테인레스 3번 블랙 선택 상품 | https://www.coupang.com/vp/products/2367817?itemId=10886535&vendorItemId=3016317279
 
