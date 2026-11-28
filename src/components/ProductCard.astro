@@ -1,4 +1,5 @@
 ---
+import { thumbSrcset } from '../../scripts/lib/thumbs.mjs';
 import { providerInfo, type ProviderId } from '../site.config';
 import { ymd } from '../lib/content';
 interface Props {
@@ -11,7 +12,7 @@ const p = providerInfo(product.provider);
 ---
 <aside class={`pcard pcard--${variant}`} aria-label="이 글의 상품">
   <div class={`pcard__top ${thumb ? '' : 'pcard__top--nothumb'}`}>
-    {thumb && <img class="pcard__thumb" src={thumb} alt="" width="320" height="240" loading={variant === 'side' ? 'eager' : 'lazy'} decoding="async" />}
+    {thumb && <img class="pcard__thumb" src={thumb} srcset={thumbSrcset(thumb, 320)} sizes="(max-width: 900px) 84px, 320px" alt="" width="320" height="240" loading={variant === 'side' ? 'eager' : 'lazy'} decoding="async" />}
     <div>
       <p class="pcard__shop">{p.name} 제휴 링크</p>
       <p class="pcard__name">{product.name}</p>

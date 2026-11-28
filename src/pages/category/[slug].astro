@@ -1,4 +1,5 @@
 ---
+import { thumbSrcset } from '../../../scripts/lib/thumbs.mjs';
 import Base from '../../layouts/Base.astro';
 import { allGuides, allPosts, guidePath, postPath, koDate, isPhoto } from '../../lib/content';
 import { site } from '../../site.config';
@@ -40,7 +41,7 @@ const ld = [{ '@context': 'https://schema.org', '@type': 'CollectionPage', name:
         ) : (
           <ul class="pick-list">{posts.map((p) => {
             const t = p.data.images.find((i) => isPhoto(i.src))?.src ?? p.data.images[0]?.src;
-            return <li><a href={postPath(p.data.slug)}>{t ? <img src={t} alt="" width="160" height="120" loading="lazy" decoding="async" /> : <span />}<span><strong>{p.data.title}</strong><span>{p.data.product.name} · {koDate(p.data.published)}</span></span></a></li>;
+            return <li><a href={postPath(p.data.slug)}>{t ? <img src={t} srcset={thumbSrcset(t, 160)} sizes="160px" alt="" width="160" height="120" loading="lazy" decoding="async" /> : <span />}<span><strong>{p.data.title}</strong><span>{p.data.product.name} · {koDate(p.data.published)}</span></span></a></li>;
           })}</ul>
         )}
       </section>

@@ -1,4 +1,5 @@
 ---
+import { thumbSrcset } from '../../scripts/lib/thumbs.mjs';
 import Base from '../layouts/Base.astro';
 import { allGuides, allPosts, guidePath, postPath, koDate, isPhoto } from '../lib/content';
 import { site, categoryBySlug } from '../site.config';
@@ -36,7 +37,7 @@ const ld = [{
           <p class="empty">아직 발행된 상품 추천 글이 없습니다. 추천 글은 판매 링크가 실제 상품·옵션으로 연결되는지 확인한 뒤에만 올립니다.</p>
         ) : (
           <ul class="pick-list">{posts.slice(0, 8).map((p) => (
-            <li><a href={postPath(p.data.slug)}>{thumbOf(p) ? <img src={thumbOf(p)} alt="" width="160" height="120" loading="lazy" decoding="async" /> : <span />}<span><strong>{p.data.title}</strong><span>{categoryBySlug(p.data.category)?.navLabel ?? categoryBySlug(p.data.category)?.name} · {koDate(p.data.published)}</span></span></a></li>
+            <li><a href={postPath(p.data.slug)}>{thumbOf(p) ? <img src={thumbOf(p)} srcset={thumbSrcset(thumbOf(p), 160)} sizes="160px" alt="" width="160" height="120" loading="lazy" decoding="async" /> : <span />}<span><strong>{p.data.title}</strong><span>{categoryBySlug(p.data.category)?.navLabel ?? categoryBySlug(p.data.category)?.name} · {koDate(p.data.published)}</span></span></a></li>
           ))}</ul>
         )}
         <p><a href="/picks/">추천 글 전체 보기</a></p>
